@@ -1,0 +1,31 @@
+{
+  "company": {
+    "name": "Shenzhen Guangdayuan Film Co., Ltd.",
+    "nameZh": "深圳市光大远薄膜有限公司",
+    "shortName": "GDY",
+    "established": 2004,
+    "tagline": "A professional protective film manufacturer delivering stable and reliable surface protection solutions."
+  },
+  "contact": {
+    "email": "cengyanhui870@gmail.com",
+    "phone": "+86 181 1877 6356",
+    "whatsapp": "+86 181 1877 6356",
+    "address": "JinhuanYu Technology Park, Guangming District, Shenzhen, Guangdong, China",
+    "website": "https://petprotectivefilm.com"
+  },
+  "social": {
+    "email": "cengyanhui870@gmail.com",
+    "whatsapp": "https://wa.me/8618118776356",
+    "facebook": "https://www.facebook.com/professional_dashboard/overview/?ref=profile_action",
+    "instagram": "https://www.instagram.com/zyh3082/",
+    "linkedin": "https://www.linkedin.com/company/107867115/",
+    "youtube": "https://www.youtube.com/@%E6%9B%BE%E7%87%95%E8%BE%89",
+    "tiktok": "https://www.tiktok.com/@zengyanhui726",
+    "madeInChina": "https://guangdayuan.en.made-in-china.com/",
+    "platform1688": "https://guangdayuan.1688.com/"
+  },
+  "wechat": {
+    "id": "光大远18928456898",
+    "qr": "/images/wechat-qr.png"
+  }
+}

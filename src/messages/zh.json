@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "GDY — 专业保护膜制造商 | PET 表面保护解决方案",
+    "description": "深圳市光大远薄膜有限公司（GDY）——20+ 年专注 PET 与 PE 保护膜、PET 聚酯薄膜、PVC 保护膜与收缩膜、工业胶带的研发生产。六大系列 72 个在产型号，通过 ISO 9001 与 ISO 14001 认证，出口 40 多个国家。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "产品",
+    "cases": "应用",
+    "contact": "联系我们",
+    "news": "新闻动态",
+    "language": "语言",
+    "faq": "常见问题",
+    "quality": "品质技术"
+  },
+  "hero": {
+    "badge": "始于 2004 年 · 16000㎡ 工厂 · 通过 ISO 9001 / 14001 认证",
+    "title": "稳定可靠的表面保护",
+    "titleHighlight": "为您的行业量身打造",
+    "subtitle": "光大远生产 PET 与 PE 保护膜、PET 聚酯薄膜、PVC 保护膜与收缩膜，以及工业胶带——六大系列 72 个在产型号，参数全可定制，东南亚等市场交付迅速。",
+    "ctaPrimary": "联系我们",
+    "ctaSecondary": "浏览产品",
+    "stats": {
+      "years": "行业积淀（年）",
+      "factory": "㎡ 生产基地",
+      "countries": "出口国家",
+      "models": "在产型号"
+    }
+  },
+  "services": {
+    "title": "六大产品系列",
+    "subtitle": "PET 与 PE 保护膜、PET 聚酯薄膜、PVC 保护膜与收缩膜、工业胶带——72 个在产型号，每项参数均可按你的工艺定制。",
+    "modelsBadge": "个型号",
+    "viewSeries": "查看系列"
+  },
+  "advantages": {
+    "title": "为什么选择 GDY",
+    "subtitle": "20 余年专注 PET 保护膜 — 从研发到您的生产线。",
+    "items": [
+      {
+        "title": "大规模产能保障",
+        "desc": "16,000㎡ 厂房配备吹膜机、涂布机、自动裁切台、分切机与复膜机，可承接大批量订单。"
+      },
+      {
+        "title": "六大系列覆盖多行业",
+        "desc": "PET、PE、聚酯薄膜、PVC 与工业胶带，服务电子、航空航天、医疗、建材、交通运输、家电与基建等行业。"
+      },
+      {
+        "title": "哈工大产学研联合研发",
+        "desc": "与哈尔滨工业大学的战略合作持续推动高性能环保保护膜的开发，保持技术领先。"
+      },
+      {
+        "title": "ISO 9001 与 ISO 14001 双认证",
+        "desc": "质量与环境管理体系经客户及第三方审核，确保全球买家获得稳定的耐久性与环保合规。"
+      },
+      {
+        "title": "环保可回收方案",
+        "desc": "主推可回收、低环境影响的保护膜，兼顾性能目标与可持续发展要求。"
+      },
+      {
+        "title": "快速交付与服务响应",
+        "desc": "产线优化、产能可调——常规产品 7 天内抵达东南亚主要港口，急单提供定制方案。"
+      }
+    ],
+    "certsTitle": "资质与认证",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "SGS 检测",
+      "RoHS",
+      "REACH",
+      "国家高新技术企业"
+    ]
+  },
+  "cases": {
+    "title": "我们服务的行业",
+    "subtitle": "覆盖六大主要领域的表面保护解决方案。",
+    "viewAll": "查看全部产品",
+    "items": [
+      {
+        "title": "电子与消费电子",
+        "desc": "为手机、平板、笔记本、显示器提供屏幕与零部件保护。",
+        "sector": "电子"
+      },
+      {
+        "title": "家用电器",
+        "desc": "为冰箱、空调、洗衣机及厨房设备提供面板与外壳保护。",
+        "sector": "家电"
+      },
+      {
+        "title": "建材",
+        "desc": "为铝型材、不锈钢、玻璃、石材提供表面保护。",
+        "sector": "建材"
+      },
+      {
+        "title": "汽车",
+        "desc": "内饰/外饰件保护膜、喷涂遮蔽膜及仪表盘保护。",
+        "sector": "汽车"
+      },
+      {
+        "title": "新能源",
+        "desc": "为太阳能电池板、锂电池组件及电动汽车零部件提供保护。",
+        "sector": "新能源"
+      },
+      {
+        "title": "五金与家具",
+        "desc": "为金属板材、塑料型材、标牌及家具表面提供保护。",
+        "sector": "五金"
+      }
+    ]
+  },
+  "cta": {
+    "title": "准备好保护您的产品了吗？",
+    "subtitle": "告诉我们您的需求 — 24 小时内提供免费样品与定制化方案。",
+    "button": "联系我们的团队"
+  },
+  "about": {
+    "title": "关于 GDY",
+    "subtitle": "保护膜行业的专业制造者",
+    "lead": "深圳市光大远薄膜有限公司——20 余年专注保护膜系列新材料的研发与制造，为全球客户提供稳定可靠的表面保护方案。",
+    "missionTitle": "我们的使命",
+    "missionText": "为客户提供稳定可靠的表面保护解决方案 — 对的膜、对的粘性、准时交付。",
+    "visionTitle": "我们的愿景",
+    "visionText": "成为亚洲乃至全球电子、汽车、新能源制造商最值得信赖的保护膜合作伙伴。",
+    "paragraphs": [
+      "光大远成立于 2004 年，拥有 16,000㎡ 生产基地，配备十万级与千级无尘车间和三条全自动涂布线，年产能 1.2 亿平方米。",
+      "主要设备包括吹膜机、涂布机、自动裁切台、分切机与复膜机；基材采用日本东丽（Toray）与东洋纺（Toyobo），并与哈尔滨工业大学共建联合研发实验室，确保批次之间品质稳定。",
+      "产品服务于航空航天、电子、通讯、建材、交通运输、家电、医疗、建筑与基础设施等行业，并出口到 40 多个国家。"
+    ],
+    "statsTitle": "工厂实力",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "成立年份"
+      },
+      {
+        "value": "16,000 ㎡",
+        "label": "生产基地"
+      },
+      {
+        "value": "3",
+        "label": "全自动涂布线"
+      },
+      {
+        "value": "1.2 亿 ㎡",
+        "label": "年产能"
+      },
+      {
+        "value": "1,000 万 ㎡",
+        "label": "月产能"
+      },
+      {
+        "value": "10 万 / 1 千",
+        "label": "无尘车间"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "告诉我们您的项目 — 我们将尽快与您联系。",
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "您的姓名",
+      "email": "邮箱",
+      "emailPlaceholder": "you@company.com",
+      "message": "留言",
+      "messagePlaceholder": "请描述您的需求…",
+      "submit": "发送询盘",
+      "success": "谢谢！我们已收到您的询盘，将在 24 小时内与您联系。"
+    },
+    "info": {
+      "title": "联系方式",
+      "address": "总部地址",
+      "phone": "电话 / WhatsApp",
+      "email": "邮箱"
+    },
+    "channelsTitle": "更多渠道"
+  },
+  "footer": {
+    "tagline": "专业的 PET 保护膜制造商 — 为全球化工业提供稳定可靠的表面保护。",
+    "product": "产品",
+    "company": "公司",
+    "follow": "关注我们",
+    "rights": "版权所有。"
+  },
+  "chat": {
+    "title": "AI 业务助手",
+    "subtitle": "了解公司业务、产品、服务，或咨询如何启动一个项目。",
+    "placeholder": "输入您的问题…",
+    "send": "发送",
+    "thinking": "思考中…",
+    "quick": "热门问题",
+    "quickItems": [
+      "你们公司主要做什么？",
+      "你们有哪些服务？",
+      "我想咨询一个项目怎么办？",
+      "如何索取样品？"
+    ],
+    "wizard": "需求登记 · 索样询盘",
+    "wizardProduct": "产品类型",
+    "wizardThickness": "厚度 (μm)",
+    "wizardWidth": "幅宽 (mm)",
+    "wizardAdhesion": "粘着力 (g/in)",
+    "wizardQty": "数量 (卷 / ㎡)",
+    "wizardGenerate": "生成询盘摘要",
+    "human": "转人工客服",
+    "humanDesc": "没找到答案？一键联系我们的销售团队。",
+    "whatsapp": "WhatsApp",
+    "wechat": "微信",
+    "wechatScan": "扫码添加微信客服",
+    "wechatIdLabel": "微信号",
+    "offline": "当前为演示模式（未配置 AI 密钥），仅基础应答。点击微信 / WhatsApp 联系真人客服。",
+    "hint": "有什么可以帮您？",
+    "hintClose": "不再提示",
+    "handoffTitle": "联系人工客服",
+    "handoffDesc": "这个问题需要专人处理。请直接联系我们，通常一个工作日内回复。",
+    "handoffWhatsapp": "WhatsApp",
+    "handoffWechat": "微信",
+    "handoffPhone": "电话",
+    "handoffEmail": "邮件",
+    "wizardCountry": "国家/地区",
+    "wizardApplication": "应用/行业",
+    "wizardProductOther": "其他（没找到想要的？请填写）",
+    "wizardProductOtherPlaceholder": "请描述您需要的产品 / 规格 / 用途",
+    "wizardContactTitle": "联系方式（方便我们后续与您对接）",
+    "wizardContactHint": "请至少留下邮箱或电话，方便销售跟进。",
+    "wizardContactRequired": "请至少留下一种联系方式（邮箱或电话）。",
+    "wizardName": "姓名",
+    "wizardCompany": "公司",
+    "wizardEmail": "邮箱",
+    "wizardPhone": "电话 / WhatsApp"
+  },
+  "news": {
+    "title": "新闻动态",
+    "subtitle": "公司最新动态与保护膜行业洞察。",
+    "featured": "重点推荐",
+    "latest": "最新",
+    "readMore": "阅读全文",
+    "back": "返回新闻列表",
+    "publishedOn": "发布于",
+    "categoryCompany": "公司动态",
+    "categoryIndustry": "行业资讯",
+    "relatedTitle": "更多资讯",
+    "shareTitle": "关注光大远",
+    "shareDesc": "关注光大远社媒账号，获取最新公司动态与行业洞察。",
+    "viewAll": "查看全部新闻",
+    "homeTitle": "新闻与洞察",
+    "homeSubtitle": "了解光大远的最新进展与保护膜行业趋势。",
+    "source": "来源"
+  },
+  "trust": {
+    "line": "服务全球 40+ 国家制造商 · ISO 体系认证品质 · 东南亚 7 天交付"
+  },
+  "faq": {
+    "title": "常见问题",
+    "subtitle": "关于 PET 保护膜、定制、样品与交货的高频疑问解答。"
+  },
+  "products": {
+    "pageTitle": "产品目录",
+    "pageSubtitle": "六大系列覆盖 PET 与 PE 保护膜、PET 聚酯薄膜、PVC 保护膜与收缩膜，以及工业胶带——每个型号都有 GDY 编号，咨询时直接报型号即可。",
+    "note": "所有型号均可定制厚度、幅宽、粘着力与印刷；下单前可索取免费样品。",
+    "jumpTo": "跳转至",
+    "modelsCount": "个型号",
+    "seriesInquiry": "咨询该系列产品",
+    "specs": "技术参数",
+    "structure": "产品结构",
+    "applications": "应用场景",
+    "requestSample": "索取样品 / 询盘",
+    "viewDetails": "查看详情"
+  },
+  "productDetail": {
+    "breadcrumbProducts": "产品中心",
+    "inquiryNow": "立即询盘",
+    "backToSeries": "返回该系列",
+    "relatedModels": "同系列相关型号"
+  },
+  "casesIndustry": {
+    "breadcrumbCases": "行业应用",
+    "painPointsTitle": "常见痛点",
+    "materialsTitle": "选材指南",
+    "recommendedTitle": "推荐型号",
+    "backToCases": "返回行业应用",
+    "inquiryCta": "聊聊您的应用场景"
+  },
+  "quality": {
+    "metaTitle": "品质与技术 — 认证资质、生产设备、质检流程 | 光大远",
+    "metaDesc": "光大远品质体系：通过 ISO 9001 与 ISO 14001 认证，配备涂布、分切、复合设备与检测仪器，5 步质检流程覆盖原料到出货，并与哈尔滨工业大学联合研发。",
+    "title": "品质与技术",
+    "subtitle": "我们如何控制每一卷膜的品质 —— 认证资质、生产设备、质检流程与研发能力。",
+    "certsTitle": "认证与资质",
+    "certsIntro": "我们的管理体系已通过国际标准认证，证书文件正在陆续上传，可随时向我们索取。",
+    "certs": [
+      {
+        "name": "ISO 9001 质量管理体系",
+        "desc": "覆盖生产与检验全流程的认证质量管理体系。",
+        "note": "证书图片上传处"
+      },
+      {
+        "name": "ISO 14001 环境管理体系",
+        "desc": "负责任生产的认证环境管理体系。",
+        "note": "证书图片上传处"
+      },
+      {
+        "name": "第三方检测报告",
+        "desc": "可按订单要求安排 SGS / RoHS / REACH 检测，历史批次报告可索取。",
+        "note": "报告样本上传处"
+      }
+    ],
+    "equipTitle": "生产与检测设备",
+    "equipIntro": "16,000 平方米厂房配备保护膜涂布、加工与检测全套设备。",
+    "equipment": [
+      {
+        "name": "吹膜机",
+        "desc": "PE 薄膜挤出产线，保证基材质量稳定。"
+      },
+      {
+        "name": "精密涂布机",
+        "desc": "胶黏剂涂布产线，精确控制涂布量与均匀性。"
+      },
+      {
+        "name": "分切与复合设备",
+        "desc": "自动裁切台、分切机与复合机，支持定制宽度与长度。"
+      },
+      {
+        "name": "检测仪器",
+        "desc": "剥离强度试验机、拉力机、测厚仪与老化试验箱，逐批验证。"
+      }
+    ],
+    "processTitle": "5 步质检流程",
+    "processIntro": "每一批产品在出货前都要经过同一条检验链。",
+    "steps": [
+      {
+        "title": "来料检验",
+        "desc": "基材薄膜与胶黏剂原料在进入生产前按规格检验。"
+      },
+      {
+        "title": "过程监控",
+        "desc": "生产过程中抽样检测涂布量、厚度与外观。"
+      },
+      {
+        "title": "成品检测",
+        "desc": "成品卷进行剥离强度、拉伸强度、伸长率与残胶测试。"
+      },
+      {
+        "title": "出货复检",
+        "desc": "装车前复核外观、尺寸与包装。"
+      },
+      {
+        "title": "追溯与记录",
+        "desc": "保留批次记录，任何一批货都可追溯到原料与检测数据。"
+      }
+    ],
+    "rdTitle": "研发能力",
+    "rdIntro": "技术开发与哈尔滨工业大学（HIT）联合推进。",
+    "rdPoints": [
+      "与哈尔滨工业大学建立战略联合研发合作",
+      "针对不同基材与使用环境的胶黏剂配方开发",
+      "持续推进高性能、环保型保护膜研发",
+      "支持特殊需求定制开发 —— 耐高温、低残胶、特殊粘性等级"
+    ],
+    "ctaTitle": "需要针对您材料的测试数据？",
+    "ctaDesc": "告诉我们您的基材与工艺条件，我们可以推荐型号并提供样品或检测报告。",
+    "ctaButton": "联系我们"
+  }
+}

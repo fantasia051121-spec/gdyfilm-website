@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "GDY — Pengeluar Filem Pelindung Profesional | Penyelesaian Perlindungan Permukaan PET",
+    "description": "Shenzhen Guangdayuan Film Co., Ltd. (GDY) — lebih 20 tahun mengeluarkan filem pelindung PET dan PE, filem poliester PET, filem PVC pelindung dan susut, serta pita industri. 72 model pengeluaran dalam enam siri, bersijil ISO 9001 dan ISO 14001, dieksport ke lebih 40 negara."
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami",
+    "services": "Produk",
+    "cases": "Aplikasi",
+    "contact": "Hubungi",
+    "news": "Berita",
+    "language": "Bahasa",
+    "faq": "Soalan Lazim",
+    "quality": "Kualiti"
+  },
+  "hero": {
+    "badge": "Sejak 2004 · Kilang 16,000 m² · Bertauliah ISO 9001 / 14001",
+    "title": "Perlindungan Permukaan yang Stabil dan Boleh Dipercayai",
+    "titleHighlight": "Direka untuk Industri Anda",
+    "subtitle": "GDY mengeluarkan filem pelindung PET dan PE, filem poliester PET, filem PVC pelindung dan susut serta pita industri — 72 model pengeluaran dalam enam siri, semua parameter boleh disesuaikan dan dihantar pantas ke seluruh Asia Tenggara.",
+    "ctaPrimary": "Hubungi Kami",
+    "ctaSecondary": "Terokai Produk",
+    "stats": {
+      "years": "Tahun kepakaran",
+      "factory": "m² pangkalan pengeluaran",
+      "countries": "Negara eksport",
+      "models": "Model produk"
+    }
+  },
+  "services": {
+    "title": "Enam Siri Produk",
+    "subtitle": "Filem pelindung PET dan PE, filem poliester PET, filem PVC pelindung dan susut serta pita industri — 72 model dalam pengeluaran, setiap parameter boleh disesuaikan dengan proses anda.",
+    "modelsBadge": "model",
+    "viewSeries": "Lihat siri"
+  },
+  "advantages": {
+    "title": "Mengapa Memilih GDY",
+    "subtitle": "Lebih 20 tahun menumpukan pada filem pelindung PET — dari R&D hingga barisan pengeluaran anda.",
+    "items": [
+      {
+        "title": "Kapasiti Pengeluaran Skala Besar",
+        "desc": "Kilang 16,000 m² dengan mesin tiupan filem, mesin salutan, meja pemotong automatik, mesin belah dan mesin laminasi — bersedia menangani pesanan dalam jumlah besar."
+      },
+      {
+        "title": "Enam Siri untuk Pelbagai Industri",
+        "desc": "PET, PE, filem poliester, PVC dan pita industri melayani elektronik, aeroangkasa, perubatan, bahan binaan, pengangkutan, peralatan rumah dan infrastruktur."
+      },
+      {
+        "title": "Penyelidikan Bersama Institut Teknologi Harbin",
+        "desc": "Perkongsian strategik dengan HIT memacu pembangunan filem pelindung berprestasi tinggi mesra alam dan memastikan teknologi kami terus mendahului."
+      },
+      {
+        "title": "Bersijil ISO 9001 dan ISO 14001",
+        "desc": "Sistem pengurusan kualiti dan alam sekitar diaudit oleh pelanggan dan pihak ketiga, menjamin ketahanan yang konsisten dan pematuhan alam sekitar untuk pembeli global."
+      },
+      {
+        "title": "Penyelesaian Mesra Alam dan Boleh Dikitar Semula",
+        "desc": "Kami memfokuskan filem yang boleh dikitar semula dan berimpak alam sekitar rendah, supaya anda dapat mencapai sasaran prestasi dan keperluan kelestarian sekali gus."
+      },
+      {
+        "title": "Penghantaran Pantas & Perkhidmatan Responsif",
+        "desc": "Barisan pengeluaran dioptimumkan dengan kapasiti boleh diskala — produk standard sampai ke pelabuhan utama Asia Tenggara dalam 7 hari, dan penyelesaian khusus tersedia untuk projek segera."
+      }
+    ],
+    "certsTitle": "Pensijilan & Pematuhan",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "Diuji SGS",
+      "RoHS",
+      "REACH",
+      "Syarikat Teknologi Tinggi Kebangsaan"
+    ]
+  },
+  "cases": {
+    "title": "Industri yang Kami Layani",
+    "subtitle": "Penyelesaian perlindungan permukaan merentasi enam sektor utama.",
+    "viewAll": "Lihat semua produk",
+    "items": [
+      {
+        "title": "Elektronik & Elektronik Pengguna",
+        "desc": "Perlindungan skrin dan komponen untuk telefon, tablet, komputer riba dan paparan.",
+        "sector": "Elektronik"
+      },
+      {
+        "title": "Perkakas Rumah",
+        "desc": "Perlindungan panel dan casis untuk peti sejuk, penyaman udara, mesin basuh dan peralatan dapur.",
+        "sector": "Perkakas"
+      },
+      {
+        "title": "Bahan Binaan",
+        "desc": "Perlindungan permukaan untuk profil aluminium, keluli tahan karat, kaca dan batu.",
+        "sector": "Pembinaan"
+      },
+      {
+        "title": "Automotif",
+        "desc": "Filem trim dalaman dan luaran, pelindung cat serta perlindungan papan pemuka.",
+        "sector": "Automotif"
+      },
+      {
+        "title": "Tenaga Baharu",
+        "desc": "Perlindungan untuk panel solar, modul bateri litium dan komponen kenderaan elektrik.",
+        "sector": "Tenaga Baharu"
+      },
+      {
+        "title": "Perkakasan & Perabot",
+        "desc": "Kepingan logam, profil plastik, papan tanda dan perlindungan permukaan perabot.",
+        "sector": "Perkakasan"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Sedia untuk melindungi produk anda?",
+    "subtitle": "Hantar keperluan anda — sampel percuma dan penyelesaian yang sesuai dalam 24 jam.",
+    "button": "Hubungi pasukan kami"
+  },
+  "about": {
+    "title": "Tentang GDY",
+    "subtitle": "Pengeluar profesional dalam industri filem pelindung",
+    "lead": "Shenzhen Guangdayuan Film Co., Ltd. — lebih 20 tahun memberi tumpuan kepada penyelidikan, pembangunan dan pembuatan siri filem pelindung bahan baharu, memberikan perlindungan permukaan yang stabil dan boleh dipercayai kepada pelanggan seluruh dunia.",
+    "missionTitle": "Misi Kami",
+    "missionText": "Memberikan penyelesaian perlindungan permukaan yang stabil dan boleh dipercayai — filem yang tepat, pelekatan yang tepat, tepat pada masanya.",
+    "visionTitle": "Visi Kami",
+    "visionText": "Menjadi rakan kongsi filem pelindung paling dipercayai untuk pengeluar elektronik, automotif dan tenaga baharu di Asia dan seluruh dunia.",
+    "paragraphs": [
+      "Ditubuhkan pada 2004, GDY mengendalikan pangkalan pengeluaran 16,000 m² dengan bilik bersih kelas 100,000 dan 1,000 serta tiga barisan salutan automatik sepenuhnya — kapasiti 120 juta m² setahun.",
+      "Peralatan utama merangkumi mesin tiupan filem, mesin salutan, meja pemotong automatik, mesin belah dan mesin laminasi. Filem asas daripada Toray dan Toyobo (Jepun), bersama makmal penyelidikan bersama Institut Teknologi Harbin, memastikan kualiti stabil dari satu kelompok ke kelompok lain.",
+      "Produk kami melayani industri aeroangkasa, elektronik, telekomunikasi, bahan binaan, pengangkutan, peralatan rumah, penjagaan perubatan, pembinaan dan infrastruktur, serta dieksport ke lebih daripada 40 negara."
+    ],
+    "statsTitle": "Kekuatan Kilang",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "Ditubuhkan"
+      },
+      {
+        "value": "16,000 m²",
+        "label": "Pangkalan pengeluaran"
+      },
+      {
+        "value": "3",
+        "label": "Barisan salutan auto"
+      },
+      {
+        "value": "120 jt m²",
+        "label": "Kapasiti tahunan"
+      },
+      {
+        "value": "10 jt m²",
+        "label": "Kapasiti bulanan"
+      },
+      {
+        "value": "100K / 1K",
+        "label": "Bilik bersih"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Ceritakan projek anda — kami akan menghubungi anda tidak lama lagi.",
+    "form": {
+      "name": "Nama",
+      "namePlaceholder": "Nama anda",
+      "email": "E-mel",
+      "emailPlaceholder": "anda@syarikat.com",
+      "message": "Mesej",
+      "messagePlaceholder": "Terangkan keperluan anda…",
+      "submit": "Hantar Pertanyaan",
+      "success": "Terima kasih! Pertanyaan anda telah diterima. Kami akan menghubungi anda dalam 24 jam."
+    },
+    "info": {
+      "title": "Hubungi Kami",
+      "address": "Ibu Pejabat",
+      "phone": "Telefon / WhatsApp",
+      "email": "E-mel"
+    },
+    "channelsTitle": "Saluran Lain"
+  },
+  "footer": {
+    "tagline": "Pengeluar filem pelindung PET profesional — perlindungan permukaan yang stabil dan boleh dipercayai untuk industri global.",
+    "product": "Produk",
+    "company": "Syarikat",
+    "follow": "Ikuti Kami",
+    "rights": "Hak cipta terpelihara."
+  },
+  "chat": {
+    "title": "Pembantu Perniagaan AI",
+    "subtitle": "Tanya tentang syarikat, produk, perkhidmatan, atau cara memulakan projek.",
+    "placeholder": "Taip soalan anda…",
+    "send": "Hantar",
+    "thinking": "Sedang berfikir…",
+    "quick": "Soalan popular",
+    "quickItems": [
+      "Syarikat anda terutamanya buat apa?",
+      "Apakah perkhidmatan yang anda tawarkan?",
+      "Bagaimana nak berunding tentang projek?",
+      "Bagaimana meminta sampel?"
+    ],
+    "wizard": "Borang Permintaan · Sampel/Inquiry",
+    "wizardProduct": "Jenis produk",
+    "wizardThickness": "Ketebalan (μm)",
+    "wizardWidth": "Lebar (mm)",
+    "wizardAdhesion": "Kekuatan lekat (g/in)",
+    "wizardQty": "Kuantiti (gulung / m²)",
+    "wizardGenerate": "Jana ringkasan permintaan",
+    "human": "Bercakap dengan manusia",
+    "humanDesc": "Tidak jumpa jawapan? Pasukan jualan kami hanya satu ketikan.",
+    "whatsapp": "WhatsApp",
+    "wechat": "WeChat",
+    "wechatScan": "Imbas untuk tambah WeChat",
+    "wechatIdLabel": "ID WeChat",
+    "offline": "Mod demo (tiada kunci AI) — jawapan asas sahaja. Ketik WeChat / WhatsApp untuk bercakap dengan orang sebenar.",
+    "hint": "Ada yang boleh saya bantu?",
+    "hintClose": "Tutup",
+    "handoffTitle": "Hubungi pasukan jualan",
+    "handoffDesc": "Soalan ini perlu pakar. Sila hubungi kami terus — biasanya kami balas dalam satu hari bekerja.",
+    "handoffWhatsapp": "WhatsApp",
+    "handoffWechat": "WeChat",
+    "handoffPhone": "Telefon",
+    "handoffEmail": "Emel",
+    "wizardCountry": "Negara/Wilayah",
+    "wizardApplication": "Aplikasi/Industri",
+    "wizardProductOther": "Lain (tidak jumpa? nyatakan di sini)",
+    "wizardProductOtherPlaceholder": "Terangkan produk / spesifikasi / kegunaan yang anda perlukan",
+    "wizardContactTitle": "Maklumat hubungan (supaya kami boleh susuli)",
+    "wizardContactHint": "Sila tinggalkan sekurang-kurangnya e-mel atau telefon.",
+    "wizardContactRequired": "Sila tinggalkan sekurang-kurangnya satu cara hubungan (e-mel atau telefon).",
+    "wizardName": "Nama",
+    "wizardCompany": "Syarikat",
+    "wizardEmail": "E-mel",
+    "wizardPhone": "Telefon / WhatsApp"
+  },
+  "news": {
+    "title": "Berita & Pandangan",
+    "subtitle": "Kemas kini syarikat dan pandangan industri filem pelindung.",
+    "featured": "Pilihan",
+    "latest": "Terbaharu",
+    "readMore": "Baca lagi",
+    "back": "Kembali ke berita",
+    "publishedOn": "Diterbitkan pada",
+    "categoryCompany": "Berita Syarikat",
+    "categoryIndustry": "Pandangan Industri",
+    "relatedTitle": "Berita lain",
+    "shareTitle": "Ikuti kami",
+    "shareDesc": "Ikuti GDY di media sosial untuk kemas kini terbaharu.",
+    "viewAll": "Lihat semua",
+    "homeTitle": "Berita & Pandangan",
+    "homeSubtitle": "Kemas kini terbaharu daripada GDY dan trend industri filem pelindung.",
+    "source": "Sumber"
+  },
+  "trust": {
+    "line": "Dipercayai oleh pengilang di 40+ negara · Kualiti tersijil ISO · Penghantaran 7 hari ke Asia Tenggara"
+  },
+  "faq": {
+    "title": "Soalan Lazim",
+    "subtitle": "Jawapan kepada soalan lazim tentang filem PET, penyesuaian, sampel dan penghantaran."
+  },
+  "products": {
+    "pageTitle": "Katalog Produk",
+    "pageSubtitle": "Enam siri merangkumi filem pelindung PET dan PE, filem poliester PET, filem PVC pelindung dan susut, serta pita industri — setiap model mempunyai kod GDY supaya anda boleh bertanya terus menggunakan nombornya.",
+    "note": "Semua model boleh disesuaikan ketebalan, lebar, daya lekat dan cetakannya. Sampel percuma tersedia sebelum anda membuat pesanan.",
+    "jumpTo": "Pergi ke",
+    "modelsCount": "model",
+    "seriesInquiry": "Tanya tentang siri ini",
+    "specs": "Spesifikasi",
+    "structure": "Struktur",
+    "applications": "Aplikasi",
+    "requestSample": "Minta sampel / pertanyaan",
+    "viewDetails": "Lihat Butiran"
+  },
+  "productDetail": {
+    "breadcrumbProducts": "Produk",
+    "inquiryNow": "Buat Pertanyaan",
+    "backToSeries": "Kembali ke Siri",
+    "relatedModels": "Model Berkaitan"
+  },
+  "casesIndustry": {
+    "breadcrumbCases": "Aplikasi",
+    "painPointsTitle": "Masalah Lazim",
+    "materialsTitle": "Panduan Pemilihan Filem",
+    "recommendedTitle": "Model Disyorkan",
+    "backToCases": "Kembali ke Aplikasi",
+    "inquiryCta": "Bincangkan Aplikasi Anda"
+  },
+  "quality": {
+    "metaTitle": "Kualiti & Teknologi — Pensijilan, Peralatan, Proses QC | Guangdayuan",
+    "metaDesc": "Sistem kualiti Guangdayuan: diperakui ISO 9001 & ISO 14001, peralatan salutan/semayang/laminasi, proses QC 5 langkah dari bahan mentah hingga penghantaran, dan R&D bersama Harbin Institute of Technology.",
+    "title": "Kualiti & Teknologi",
+    "subtitle": "Bagaimana kami mengawal setiap gulungan — pensijilan, peralatan, proses pemeriksaan dan keupayaan R&D.",
+    "certsTitle": "Pensijilan & Kelayakan",
+    "certsIntro": "Sistem pengurusan kami diperakui mengikut piawaian antarabangsa. Dokumen sijil sedang dimuat naik dan boleh diminta pada bila-bila masa.",
+    "certs": [
+      {
+        "name": "ISO 9001 Pengurusan Kualiti",
+        "desc": "Sistem pengurusan kualiti diperakui merangkumi aliran kerja pengeluaran dan pemeriksaan.",
+        "note": "Ruang muat naik gambar sijil"
+      },
+      {
+        "name": "ISO 14001 Pengurusan Alam Sekitar",
+        "desc": "Sistem pengurusan alam sekitar diperakui untuk pembuatan yang bertanggungjawab.",
+        "note": "Ruang muat naik gambar sijil"
+      },
+      {
+        "name": "Laporan Ujian Pihak Ketiga",
+        "desc": "Ujian SGS / RoHS / REACH boleh diatur mengikut keperluan pesanan; laporan penghantaran terdahulu tersedia atas permintaan.",
+        "note": "Ruang muat naik contoh laporan"
+      }
+    ],
+    "equipTitle": "Peralatan Pengeluaran & Pemeriksaan",
+    "equipIntro": "Kilang 16,000 m² kami dilengkapi untuk salutan, penukaran dan ujian filem pelindung.",
+    "equipment": [
+      {
+        "name": "Mesin Blown Film",
+        "desc": "Barisan penyemperitan filem PE untuk kualiti substrat yang stabil."
+      },
+      {
+        "name": "Mesin Salutan Ketepatan",
+        "desc": "Barisan salutan pelekat yang mengawal berat dan keseragaman salutan."
+      },
+      {
+        "name": "Slitter & Laminator",
+        "desc": "Meja potong automatik, slitter dan laminator untuk saiz tersuai."
+      },
+      {
+        "name": "Instrumen Ujian",
+        "desc": "Penguji kekuatan kupasan, penguji tegangan, tolok ketebalan dan ketuhar penuaan untuk pengesahan setiap lot."
+      }
+    ],
+    "processTitle": "Proses Kawalan Kualiti 5 Langkah",
+    "processIntro": "Setiap kumpulan melalui rantai pemeriksaan yang sama sebelum dihantar.",
+    "steps": [
+      {
+        "title": "Pemeriksaan Bahan Masuk",
+        "desc": "Filem substrat dan bahan pelekat diperiksa mengikut spesifikasi sebelum pengeluaran."
+      },
+      {
+        "title": "Pemantauan Semasa Proses",
+        "desc": "Berat salutan, ketebalan dan rupa disampel semasa pengeluaran."
+      },
+      {
+        "title": "Ujian Gulungan Siap",
+        "desc": "Ujian kekuatan kupasan, tegangan, pemanjangan dan sisa pelekat pada gulungan siap."
+      },
+      {
+        "title": "Semakan Semula Pra-Hantar",
+        "desc": "Rupa, dimensi dan pembungkusan disahkan semula sebelum dimuatkan."
+      },
+      {
+        "title": "Kebolehkesanan & Rekod",
+        "desc": "Rekod kumpulan disimpan supaya setiap penghantaran boleh dikesan semula kepada bahan mentah dan data ujian."
+      }
+    ],
+    "rdTitle": "Keupayaan R&D",
+    "rdIntro": "Pembangunan teknologi dilakukan bersama Harbin Institute of Technology (HIT).",
+    "rdPoints": [
+      "Perkongsian R&D strategik dengan Harbin Institute of Technology",
+      "Pembangunan formulasi pelekat untuk pelbagai substrat dan persekitaran",
+      "Kerja berterusan pada filem pelindung berprestasi tinggi dan mesra alam",
+      "Pembangunan tersuai — rintangan suhu, sisa rendah, tahap lekit khas"
+    ],
+    "ctaTitle": "Perlukan Data Ujian untuk Bahan Anda?",
+    "ctaDesc": "Beritahu kami substrat dan keadaan proses anda — kami boleh mengesyorkan model dan menyediakan sampel atau laporan ujian.",
+    "ctaButton": "Hubungi Kami"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "GDY — Professional Protective Film Manufacturer | PET Surface Protection Solutions",
+    "description": "Shenzhen Guangdayuan Film Co., Ltd. (GDY) — 20+ years manufacturing PET and PE protective films, PET polyester film, PVC protective and shrink film and industrial tapes. 72 production models across six series, ISO 9001 and ISO 14001 certified, exported to 40+ countries."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Products",
+    "cases": "Applications",
+    "contact": "Contact",
+    "news": "News",
+    "language": "Language",
+    "faq": "FAQ",
+    "quality": "Quality"
+  },
+  "hero": {
+    "badge": "Since 2004 · 16,000 m² Factory · ISO 9001 / 14001 Certified",
+    "title": "Stable, Reliable Surface Protection",
+    "titleHighlight": "Engineered for Your Industry",
+    "subtitle": "GDY manufactures PET and PE protective films, PET polyester film, PVC protective and shrink film and industrial tapes — 72 production models across six series, fully customisable and delivered fast across Southeast Asia and beyond.",
+    "ctaPrimary": "Contact Us",
+    "ctaSecondary": "Explore Products",
+    "stats": {
+      "years": "Years of expertise",
+      "factory": "m² production base",
+      "countries": "Export countries",
+      "models": "Product models"
+    }
+  },
+  "services": {
+    "title": "Six Product Series",
+    "subtitle": "PET and PE protective films, PET polyester film, PVC protective and shrink film and industrial tapes — 72 models in production, every parameter customisable to your application.",
+    "modelsBadge": "models",
+    "viewSeries": "View series"
+  },
+  "advantages": {
+    "title": "Why Choose GDY",
+    "subtitle": "20 years focused on PET protective films — from R&D to your production line.",
+    "items": [
+      {
+        "title": "Large-Scale Production Capacity",
+        "desc": "16,000 m² plant equipped with blown film machines, coaters, automatic cutting tables, slitters and laminators — built for high-volume bulk orders."
+      },
+      {
+        "title": "Six Series Covering Many Industries",
+        "desc": "PET, PE, polyester film, PVC and industrial tape serve electronics, aerospace, medical care, building materials, transport, home appliances and infrastructure."
+      },
+      {
+        "title": "Joint R&D with Harbin Institute of Technology",
+        "desc": "A strategic partnership with HIT drives high-performance, environmentally friendly protective films and keeps our technology ahead of the market."
+      },
+      {
+        "title": "ISO 9001 & ISO 14001 Certified",
+        "desc": "Quality and environmental management systems audited by customers and third parties, assuring consistent durability and eco-compliance for global buyers."
+      },
+      {
+        "title": "Eco-Conscious, Recyclable Solutions",
+        "desc": "We focus on recyclable, low-impact films so you can meet performance targets and sustainability requirements at the same time."
+      },
+      {
+        "title": "Fast Delivery & Responsive Service",
+        "desc": "Optimised lines with scalable capacity — standard products reach major Southeast Asian ports within 7 days, and custom solutions are available for urgent projects."
+      }
+    ],
+    "certsTitle": "Certifications & Compliance",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "SGS Tested",
+      "RoHS",
+      "REACH",
+      "National High-Tech Enterprise"
+    ]
+  },
+  "cases": {
+    "title": "Industries We Serve",
+    "subtitle": "Surface protection solutions across six major sectors.",
+    "viewAll": "View all products",
+    "items": [
+      {
+        "title": "Electronics & Consumer Electronics",
+        "desc": "Screen and component protection for phones, tablets, laptops and displays.",
+        "sector": "Electronics"
+      },
+      {
+        "title": "Home Appliances",
+        "desc": "Panel and shell protection for refrigerators, air conditioners, washing machines and kitchen equipment.",
+        "sector": "Appliances"
+      },
+      {
+        "title": "Building Materials",
+        "desc": "Surface protection for aluminum profiles, stainless steel, glass and stone.",
+        "sector": "Construction"
+      },
+      {
+        "title": "Automotive",
+        "desc": "Interior and exterior trim films, paint masking and dashboard protection.",
+        "sector": "Automotive"
+      },
+      {
+        "title": "New Energy",
+        "desc": "Protection for solar panels, lithium-battery modules and EV components.",
+        "sector": "New Energy"
+      },
+      {
+        "title": "Hardware & Furniture",
+        "desc": "Metal sheets, plastic profiles, signage and furniture surface protection.",
+        "sector": "Hardware"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to protect your products?",
+    "subtitle": "Send us your requirements — free samples and a tailored solution within 24 hours.",
+    "button": "Contact our team"
+  },
+  "about": {
+    "title": "About GDY",
+    "subtitle": "A professional manufacturer in the protective film industry",
+    "lead": "Shenzhen Guangdayuan Film Co., Ltd. — more than 20 years focused on the research, development and manufacturing of protective film series of new materials, delivering stable and reliable surface protection to customers worldwide.",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide customers with stable and reliable surface protection solutions — the right film, the right adhesion, delivered on time.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be the most trusted protective film partner for electronics, automotive and new-energy manufacturers across Asia and beyond.",
+    "paragraphs": [
+      "Founded in 2004, GDY operates a 16,000 m² production base with Class-100,000 and Class-1,000 cleanrooms and three fully automatic coating lines — an annual capacity of 120 million m².",
+      "Equipment includes blown film machines, coating machines, automatic cutting tables, slitters and laminators. Base films sourced from Japan's Toray and Toyobo, together with a joint R&D laboratory with Harbin Institute of Technology, keep quality stable from batch to batch.",
+      "Our products serve aerospace, electronics, communications, building materials, transport, home appliances, medical care, construction and infrastructure industries, and are exported to more than 40 countries."
+    ],
+    "statsTitle": "Factory Strength",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "Founded"
+      },
+      {
+        "value": "16,000 m²",
+        "label": "Production base"
+      },
+      {
+        "value": "3",
+        "label": "Auto coating lines"
+      },
+      {
+        "value": "120M m²",
+        "label": "Annual capacity"
+      },
+      {
+        "value": "10M m²",
+        "label": "Monthly capacity"
+      },
+      {
+        "value": "100K / 1K",
+        "label": "Class cleanrooms"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Tell us about your project — we'll get back to you shortly.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Message",
+      "messagePlaceholder": "Describe your requirements…",
+      "submit": "Send Inquiry",
+      "success": "Thanks! Your inquiry has been received. We'll contact you within 24 hours."
+    },
+    "info": {
+      "title": "Get in touch",
+      "address": "Headquarters",
+      "phone": "Phone / WhatsApp",
+      "email": "Email"
+    },
+    "channelsTitle": "More Channels"
+  },
+  "footer": {
+    "tagline": "Professional PET protective film manufacturer — stable, reliable surface protection for global industries.",
+    "product": "Products",
+    "company": "Company",
+    "follow": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "chat": {
+    "title": "AI Business Assistant",
+    "subtitle": "Ask about our company, products, services, or how to start a project.",
+    "placeholder": "Type your question…",
+    "send": "Send",
+    "thinking": "Thinking…",
+    "quick": "Popular questions",
+    "quickItems": [
+      "What does your company mainly do?",
+      "What services do you offer?",
+      "How do I consult on a project?",
+      "How to request a sample?"
+    ],
+    "wizard": "Needs Form · Sample/Inquiry",
+    "wizardProduct": "Product type",
+    "wizardThickness": "Thickness (μm)",
+    "wizardWidth": "Width (mm)",
+    "wizardAdhesion": "Adhesion (g/in)",
+    "wizardQty": "Quantity (rolls / m²)",
+    "wizardGenerate": "Create Inquiry Summary",
+    "human": "Talk to a human",
+    "humanDesc": "Can't find your answer? Our sales team is one tap away.",
+    "whatsapp": "WhatsApp",
+    "wechat": "WeChat",
+    "wechatScan": "Scan to add our WeChat",
+    "wechatIdLabel": "WeChat ID",
+    "offline": "Demo mode (no AI key set) — basic replies only. Tap WeChat / WhatsApp for a real person.",
+    "hint": "How can I help you?",
+    "hintClose": "Dismiss",
+    "handoffTitle": "Talk to our sales team",
+    "handoffDesc": "This question needs a human specialist. Reach us directly — we usually reply within one business day.",
+    "handoffWhatsapp": "WhatsApp",
+    "handoffWechat": "WeChat",
+    "handoffPhone": "Call",
+    "handoffEmail": "Email",
+    "wizardCountry": "Country/Region",
+    "wizardApplication": "Application/Industry",
+    "wizardProductOther": "Other (didn't find it? describe here)",
+    "wizardProductOtherPlaceholder": "Describe the product / spec / use you need",
+    "wizardContactTitle": "Contact info (so we can follow up)",
+    "wizardContactHint": "Please leave at least email or phone for follow-up.",
+    "wizardContactRequired": "Please leave at least one contact method (email or phone).",
+    "wizardName": "Name",
+    "wizardCompany": "Company",
+    "wizardEmail": "Email",
+    "wizardPhone": "Phone / WhatsApp"
+  },
+  "news": {
+    "title": "News & Insights",
+    "subtitle": "Company updates and protective-film industry insights.",
+    "featured": "Featured",
+    "latest": "Latest",
+    "readMore": "Read more",
+    "back": "Back to all news",
+    "publishedOn": "Published on",
+    "categoryCompany": "Company News",
+    "categoryIndustry": "Industry Insights",
+    "relatedTitle": "More news",
+    "shareTitle": "Follow GDY",
+    "shareDesc": "Follow GDY on social media for the latest company updates and industry insights.",
+    "viewAll": "View all news",
+    "homeTitle": "News & Insights",
+    "homeSubtitle": "The latest from GDY and trends across the protective-film industry.",
+    "source": "Source"
+  },
+  "trust": {
+    "line": "Trusted by manufacturers in 40+ countries · ISO-certified quality · 7-day delivery to Southeast Asia"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions about our PET protective films, customization, samples and delivery."
+  },
+  "products": {
+    "pageTitle": "Product Catalogue",
+    "pageSubtitle": "Six series covering PET and PE protective films, PET polyester films, PVC protective and shrink films, plus industrial tapes — every model identified by its GDY code so you can enquire by number.",
+    "note": "Every model can be customised in thickness, width, adhesion and printing. Free samples available before you order.",
+    "jumpTo": "Jump to",
+    "modelsCount": "models",
+    "seriesInquiry": "Inquire about this series",
+    "specs": "Specifications",
+    "structure": "Structure",
+    "applications": "Applications",
+    "requestSample": "Request Sample / Inquiry",
+    "viewDetails": "View Details"
+  },
+  "productDetail": {
+    "breadcrumbProducts": "Products",
+    "inquiryNow": "Inquire Now",
+    "backToSeries": "Back to Series",
+    "relatedModels": "Related Models"
+  },
+  "casesIndustry": {
+    "breadcrumbCases": "Applications",
+    "painPointsTitle": "Common Pain Points",
+    "materialsTitle": "Film Selection Guide",
+    "recommendedTitle": "Recommended Models",
+    "backToCases": "Back to Applications",
+    "inquiryCta": "Discuss Your Application"
+  },
+  "quality": {
+    "metaTitle": "Quality & Technology — Certifications, Equipment, QC Process | Guangdayuan",
+    "metaDesc": "Guangdayuan quality system: ISO 9001 & ISO 14001 certified management, coating/slitting/laminating equipment, 5-step QC process from raw material to shipment, and joint R&D with Harbin Institute of Technology.",
+    "title": "Quality & Technology",
+    "subtitle": "How we control every roll — certifications, equipment, inspection process and R&D capability.",
+    "certsTitle": "Certifications & Qualifications",
+    "certsIntro": "Our management systems are certified to international standards. Certificate documents are being uploaded and can be provided upon request.",
+    "certs": [
+      {
+        "name": "ISO 9001 Quality Management",
+        "desc": "Certified quality management system covering production and inspection workflows.",
+        "note": "Certificate image placeholder"
+      },
+      {
+        "name": "ISO 14001 Environmental Management",
+        "desc": "Certified environmental management system for responsible manufacturing.",
+        "note": "Certificate image placeholder"
+      },
+      {
+        "name": "Third-Party Test Reports",
+        "desc": "SGS / RoHS / REACH testing can be arranged per order requirements; reports for previous shipments available on request.",
+        "note": "Report samples placeholder"
+      }
+    ],
+    "equipTitle": "Production & Inspection Equipment",
+    "equipIntro": "Our 16,000 m² plant is equipped for coating, converting and testing of protective films.",
+    "equipment": [
+      {
+        "name": "Blown Film Machines",
+        "desc": "PE film extrusion lines for stable substrate quality."
+      },
+      {
+        "name": "Precision Coaters",
+        "desc": "Adhesive coating lines controlling coating weight and uniformity."
+      },
+      {
+        "name": "Slitters & Laminators",
+        "desc": "Automatic cutting tables, slitters and laminators for custom widths and lengths."
+      },
+      {
+        "name": "Testing Instruments",
+        "desc": "Peel strength testers, tensile testers, thickness gauges and aging ovens for lot-by-lot verification."
+      }
+    ],
+    "processTitle": "5-Step Quality Control Process",
+    "processIntro": "Every batch passes through the same inspection chain before shipment.",
+    "steps": [
+      {
+        "title": "Incoming Material Inspection",
+        "desc": "Substrate film and adhesive raw materials are checked against specifications before entering production."
+      },
+      {
+        "title": "In-Process Monitoring",
+        "desc": "Coating weight, thickness and appearance are sampled during production runs."
+      },
+      {
+        "title": "Finished Roll Testing",
+        "desc": "Peel strength, tensile strength, elongation and residue tests on finished rolls."
+      },
+      {
+        "title": "Pre-Shipment Re-Check",
+        "desc": "Appearance, dimensions and packaging are re-verified before loading."
+      },
+      {
+        "title": "Traceability & Records",
+        "desc": "Batch records are kept so any shipment can be traced back to its raw materials and test data."
+      }
+    ],
+    "rdTitle": "R&D Capability",
+    "rdIntro": "Technology development is driven jointly with Harbin Institute of Technology (HIT).",
+    "rdPoints": [
+      "Strategic joint R&D partnership with Harbin Institute of Technology",
+      "Adhesive formulation development for different substrates and environments",
+      "Ongoing work on high-performance, environmentally friendly protective films",
+      "Custom development for special requirements — temperature resistance, low residue, special tack levels"
+    ],
+    "ctaTitle": "Need Test Data for Your Material?",
+    "ctaDesc": "Tell us your substrate and process conditions — we can recommend a model and provide samples or test reports.",
+    "ctaButton": "Contact Us"
+  }
+}

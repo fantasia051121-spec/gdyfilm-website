@@ -1,0 +1,756 @@
+{
+  "version": 1,
+  "industries": [
+    {
+      "id": "electronics",
+      "order": 0,
+      "name": {
+        "en": "Electronics & Consumer Devices",
+        "zh": "电子与消费电子",
+        "vi": "Điện tử & Thiết bị tiêu dùng",
+        "th": "อิเล็กทรอนิกส์และอุปกรณ์อุปโภค",
+        "id": "Elektronik & Perangkat Konsumen",
+        "ms": "Elektronik & Peranti Pengguna",
+        "ar": "الإلكترونيات والأجهزة الاستهلاكية"
+      },
+      "headline": {
+        "en": "Protective Films for Electronics Manufacturing",
+        "zh": "电子制程保护膜解决方案",
+        "vi": "Giải pháp màng bảo vệ cho sản xuất điện tử",
+        "th": "โซลูชันฟิล์มป้องกันสำหรับการผลิตอิเล็กทรอนิกส์",
+        "id": "Solusi Film Pelindung untuk Manufaktur Elektronik",
+        "ms": "Penyelesaian Filem Pelindung untuk Pembuatan Elektronik",
+        "ar": "حلول أفلام الحماية لتصنيع الإلكترونيات"
+      },
+      "intro": {
+        "en": "From touch screens to cover glass and ITO processes — static-safe, cleanroom-grade protection that peels off without residue after every process step.",
+        "zh": "从触摸屏、盖板玻璃到 ITO 制程——防静电、高洁净保护，历经贴合、烘烤、切割后撕除不残胶。",
+        "vi": "Từ màn hình cảm ứng đến kính nắp và quy trình ITO — bảo vệ chống tĩnh điện, sạch phòng sạch, bóc không để lại keo sau mỗi công đoạn.",
+        "th": "ตั้งแต่ทัชสกรีน กระจกครอบ ไปจนถึงกระบวนการ ITO — ป้องกันไฟฟ้าสถิต ระดับคลีนรูม ลอกออกไม่ทิ้งคราบกาวหลังทุกขั้นตอน",
+        "id": "Dari layar sentuh hingga cover glass dan proses ITO — perlindungan anti-statis kelas cleanroom yang terkelupas tanpa residu setelah setiap proses.",
+        "ms": "Daripada skrin sentuh kepada kaca pelindung dan proses ITO — perlindungan anti-statik gred bilik bersih yang mudah ditanggalkan tanpa sisa gam.",
+        "ar": "من شاشات اللمس إلى زجاج الحماية وعمليات ITO — حماية مضادة للكهرباء الساكنة بدرجة غرف الأبحاث النظيفة، تنزع دون بقايا لاصق بعد كل خطوة."
+      },
+      "painPoints": {
+        "en": [
+          "Electrostatic discharge (ESD) damaging sensitive components during film application and peeling",
+          "Adhesive residue left on optical surfaces after high-temperature processes",
+          "Scratches and dust contamination during die-cutting and lamination"
+        ],
+        "zh": [
+          "贴膜与撕膜过程中的静电击穿（ESD）损伤敏感元件",
+          "高温制程后光学表面残胶",
+          "模切与贴合过程中的划伤与粉尘污染"
+        ],
+        "vi": [
+          "Tĩnh điện (ESD) làm hỏng linh kiện nhạy cảm khi dán và bóc màng",
+          "Keo thừa còn lại trên bề mặt quang học sau quy trình nhiệt độ cao",
+          "Trầy xước và bụi bẩn trong quá trình bế cắt và cán màng"
+        ],
+        "th": [
+          "ไฟฟ้าสถิต (ESD) ทำลายชิ้นส่วนที่บอบบางระหว่างติดและลอกฟิล์ม",
+          "คราบกาวค้างบนพื้นผิวออปติคัลหลังกระบวนการอุณหภูมิสูง",
+          "รอยขีดข่วนและฝุ่นระหว่างไดคัทและลามิเนต"
+        ],
+        "id": [
+          "Sengatan listrik statis (ESD) merusak komponen sensitif saat pemasangan dan pelepasan film",
+          "Residu perekat tertinggal di permukaan optik setelah proses suhu tinggi",
+          "Goresan dan kontaminasi debu selama die-cutting dan laminasi"
+        ],
+        "ms": [
+          "Nyahcas elektrostatik (ESD) merosakkan komponen sensitif semasa pelekitan dan penanggalan filem",
+          "Sisa gam tertinggal pada permukaan optik selepas proses suhu tinggi",
+          "Calaran dan pencemaran habuk semasa die-cutting dan laminasi"
+        ],
+        "ar": [
+          "التفريغ الكهروستاتيكي (ESD) يتلف المكونات الحساسة أثناء لصق الفيلم ونزعه",
+          "بقايا لاصق على الأسطح البصرية بعد العمليات عالية الحرارة",
+          "الخدوش وتلوث الغبار أثناء القص بالقوالب والترقيق"
+        ]
+      },
+      "materialsGuide": {
+        "en": [
+          "Anti-static substrates (PET/PE with ESD coating) for IC-adjacent processes; standard grades suffice for outer-surface protection",
+          "Silicone adhesive systems for high-temperature processes (reflow, baking); acrylic for general-purpose clean peel",
+          "Choose cleanliness class by process: Class 1000+ for ITO/photoresist, standard for housing protection"
+        ],
+        "zh": [
+          "靠近芯片的制程选防静电基材（PET/PE 带 ESD 涂层）；外观面保护用普通级即可",
+          "高温制程（回流、烘烤）选硅胶胶系；常规洁净剥离选亚克力胶系",
+          "按制程选洁净度：ITO/光刻胶制程用千级以上洁净膜，外壳保护用标准级"
+        ],
+        "vi": [
+          "Quy trình gần chip chọn nền chống tĩnh điện (PET/PE phủ ESD); bảo vệ bề mặt ngoài dùng loại tiêu chuẩn",
+          "Quy trình nhiệt độ cao (reflow, sấy) chọn keo silicone; bóc sạch thông thường chọn keo acrylic",
+          "Chọn cấp độ sạch theo quy trình: ITO/photoresist dùng Class 1000+, bảo vệ vỏ dùng loại tiêu chuẩn"
+        ],
+        "th": [
+          "กระบวนการใกล้ชิปเลือกพื้นผิวกันไฟฟ้าสถิต (PET/PE เคลือบ ESD) ป้องกันผิวภายนอกใช้เกรดมาตรฐาน",
+          "กระบวนการอุณหภูมิสูง (รีโฟลว์ อบ) เลือกกาวซิลิโคน ลอกสะอาดทั่วไปเลือกกาวอะคริลิก",
+          "เลือกระดับความสะอาดตามกระบวนการ: ITO/โฟโต้เรซิสต์ ใช้ Class 1000+ ป้องกันตัวเรือนใช้เกรดมาตรฐาน"
+        ],
+        "id": [
+          "Proses dekat chip pilih substrat anti-statis (PET/PE berlapis ESD); perlindungan permukaan luar cukup grade standar",
+          "Proses suhu tinggi (reflow, baking) pilih perekat silikon; pelepasan bersih umum pilih perekat akrilik",
+          "Pilih kelas kebersihan sesuai proses: ITO/photoresist gunakan Class 1000+, perlindungan housing gunakan standar"
+        ],
+        "ms": [
+          "Proses berhampiran cip pilih substrat anti-statik (PET/PE bersalut ESD); perlindungan permukaan luar gred standard memadai",
+          "Proses suhu tinggi (reflow, pembakaran) pilih pelekat silikon; penanggalan bersih biasa pilih pelekat akrilik",
+          "Pilih kelas kebersihan mengikut proses: ITO/fotoresist guna Class 1000+, perlindungan perumah guna standard"
+        ],
+        "ar": [
+          "للعمليات القريبة من الرقائق اختر ركائز مضادة للكهرباء الساكنة (PET/PE بطلاء ESD)؛ ولحماية الأسطح الخارجية تكفي الدرجة القياسية",
+          "للعمليات عالية الحرارة (الإذابة، الخبز) اختر لاصق السيليكون؛ وللنزع النظيف العام اختر الأكريليك",
+          "اختر فئة النظافة حسب العملية: ITO/فوتوريزيست تحتاج Class 1000+ وحماية الهيكل بالدرجة القياسية"
+        ]
+      },
+      "recommendedCodes": ["GDY-024", "GDY-011", "GDY-008", "GDY-060"],
+      "metaTitle": {
+        "en": "Electronics Protective Film | ESD & Cleanroom Grade | Guangdayuan",
+        "zh": "电子制程保护膜 | 防静电·高洁净 | 光大远",
+        "vi": "Màng bảo vệ điện tử | Chống tĩnh điện, phòng sạch | Guangdayuan",
+        "th": "ฟิล์มป้องกันอิเล็กทรอนิกส์ | กันไฟฟ้าสถิต คลีนรูม | Guangdayuan",
+        "id": "Film Pelindung Elektronik | Anti-Statis & Cleanroom | Guangdayuan",
+        "ms": "Filem Pelindung Elektronik | Anti-Statik & Bilik Bersih | Guangdayuan",
+        "ar": "فيلم حماية الإلكترونيات | مضاد للكهرباء الساكنة | Guangdayuan"
+      },
+      "metaDesc": {
+        "en": "Anti-static, cleanroom-grade PET & PE protective films for touch screens, cover glass, ITO processes. No residue after high-temperature processes.",
+        "zh": "防静电、高洁净 PET/PE 保护膜，覆盖触摸屏、盖板玻璃、ITO 制程，高温后撕除不残胶。",
+        "vi": "Màng bảo vệ PET/PE chống tĩnh điện, sạch phòng sạch cho màn hình cảm ứng, kính nắp, quy trình ITO; bóc không để lại keo.",
+        "th": "ฟิล์ม PET/PE กันไฟฟ้าสถิต ระดับคลีนรูม สำหรับทัชสกรีน กระจกครอบ กระบวนการ ITO ลอกไม่ทิ้งคราบกาว",
+        "id": "Film pelindung PET/PE anti-statis kelas cleanroom untuk layar sentuh, cover glass, proses ITO; tanpa residu.",
+        "ms": "Filem pelindung PET/PE anti-statik gred bilik bersih untuk skrin sentuh, kaca pelindung, proses ITO; tanpa sisa gam.",
+        "ar": "أفلام حماية PET/PE مضادة للكهرباء الساكنة بدرجة غرف نظيفة لشاشات اللمس وزجاج الحماية وعمليات ITO؛ دون بقايا."
+      }
+    },
+    {
+      "id": "appliances",
+      "order": 1,
+      "name": {
+        "en": "Home Appliances",
+        "zh": "家用电器",
+        "vi": "Thiết bị gia dụng",
+        "th": "เครื่องใช้ไฟฟ้าในบ้าน",
+        "id": "Peralatan Rumah Tangga",
+        "ms": "Peralatan Rumah Tangga",
+        "ar": "الأجهزة المنزلية"
+      },
+      "headline": {
+        "en": "Surface Protection for Appliance Panels & Housings",
+        "zh": "家电面板与外壳表面保护方案",
+        "vi": "Bảo vệ bề mặt panel & vỏ thiết bị gia dụng",
+        "th": "ป้องกันผิวแผงและตัวเรือนเครื่องใช้ไฟฟ้า",
+        "id": "Perlindungan Permukaan Panel & Housing Peralatan",
+        "ms": "Perlindungan Permukaan Panel & Perumah Peralatan",
+        "ar": "حماية أسطح لوحات وهياكل الأجهزة المنزلية"
+      },
+      "intro": {
+        "en": "Refrigerators, air conditioners, washing machines and kitchen appliances — keep stainless steel, PCM/VCM panels and glass fronts flawless from assembly line to end customer's kitchen.",
+        "zh": "冰箱、空调、洗衣机与厨房电器——让不锈钢、PCM/VCM 彩板与玻璃面板从产线到用户厨房始终完好如新。",
+        "vi": "Tủ lạnh, điều hòa, máy giặt và thiết bị bếp — giữ bề mặt inox, panel PCM/VCM và mặt kính hoàn hảo từ dây chuyền đến nhà bếp của khách hàng.",
+        "th": "ตู้เย็น แอร์ เครื่องซักผ้า และเครื่องครัว — รักษาผิวสแตนเลส แผง PCM/VCM และหน้ากระจกให้สมบูรณ์ตั้งแต่สายการผลิตถึงครัวลูกค้า",
+        "id": "Kulkas, AC, mesin cuci, dan peralatan dapur — jaga permukaan stainless steel, panel PCM/VCM, dan kaca tetap mulus dari lini perakitan hingga dapur pelanggan.",
+        "ms": "Peti sejuk, penghawa dingin, mesin basuh dan peralatan dapur — pastikan permukaan keluli tahan karat, panel PCM/VCM dan kaca kekal sempurna dari kilang ke dapur pelanggan.",
+        "ar": "الثلاجات والمكيفات والغسالات وأجهزة المطبخ — حافظ على أسطح الستانلس ستيل وألواح PCM/VCM والزجاج الأمامي خالية من العيوب من خط التجميع إلى مطبخ العميل."
+      },
+      "painPoints": {
+        "en": [
+          "Scratches on stainless steel and brushed-finish panels during stamping and assembly",
+          "Fingerprints and smudges on glass and high-gloss fronts during handling",
+          "Film edge lifting or residue after long-distance shipping and warehouse storage"
+        ],
+        "zh": [
+          "冲压与装配过程中不锈钢与拉丝面板划伤",
+          "搬运过程中玻璃与高光面板的指纹与污渍",
+          "长途运输与仓储后膜边缘起翘或残胶"
+        ],
+        "vi": [
+          "Trầy xước trên panel inox và bề mặt xước (brushed) trong quá trình dập và lắp ráp",
+          "Vân tay và vết bẩn trên mặt kính và panel bóng trong quá trình vận chuyển nội bộ",
+          "Màng bị bong mép hoặc để lại keo sau vận chuyển xa và lưu kho"
+        ],
+        "th": [
+          "รอยขีดข่วนบนแผงสแตนเลสและผิวขัดเงาระหว่างปั๊มและประกอบ",
+          "รอยนิ้วมือและคราบบนหน้ากระจกและแผงเงางามระหว่างการจับจอง",
+          "ฟิล์มยกขอบหรือทิ้งคราบกาวหลังขนส่งไกลและจัดเก็บในคลัง"
+        ],
+        "id": [
+          "Goresan pada panel stainless steel dan brushed saat stamping dan perakitan",
+          "Sidik jari dan noda pada kaca dan panel mengkilap saat penanganan",
+          "Film terangkat di tepi atau residu setelah pengiriman jarak jauh dan penyimpanan gudang"
+        ],
+        "ms": [
+          "Calaran pada panel keluli tahan karat dan kemasan brushed semasa pengetukan dan pemasangan",
+          "Cap jari dan kotoran pada kaca dan panel berkilat semasa pengendalian",
+          "Filem terangkat di tepi atau sisa gam selepas penghantaran jauh dan penyimpanan gudang"
+        ],
+        "ar": [
+          "خدوش على ألواح الستانلس ستيل والأسطح المصقولة أثناء الختم والتجميع",
+          "بصمات الأصابع واللطخات على الزجاج والواجهات اللامعة أثناء المناولة",
+          "رفع حواف الفيلم أو بقايا لاصق بعد الشحن لمسافات طويلة والتخزين"
+        ]
+      },
+      "materialsGuide": {
+        "en": [
+          "Stainless/brushed panels: medium-tack PE or PET with smooth adhesive layer to avoid texture imprint",
+          "Glass and high-gloss fronts: low-tack, anti-fingerprint silky films that leave no marks",
+          "Long shipping routes: choose films with aging-resistant adhesive; verify peel force after 30/60/90 days"
+        ],
+        "zh": [
+          "不锈钢/拉丝面板：选中等粘度 PE 或 PET，胶层要平整避免压出纹理印",
+          "玻璃与高光面板：选低粘度防指纹肤感膜，撕除无痕迹",
+          "长途运输：选耐老化胶系，按 30/60/90 天验证剥离力变化"
+        ],
+        "vi": [
+          "Panel inox/brushed: chọn PE hoặc PET độ dính trung bình, lớp keo phẳng tránh in vân",
+          "Mặt kính và panel bóng: chọn màng cảm giác mịn chống vân tay độ dính thấp, bóc không để lại dấu",
+          "Vận chuyển xa: chọn keo chống lão hóa; kiểm tra lực bóc sau 30/60/90 ngày"
+        ],
+        "th": [
+          "แผงสแตนเลส/ขัดเงา: เลือก PE หรือ PET ความเหนียวปานกลาง ชั้นกาวเรียบเพื่อไม่ให้เป็นรอยพิมพ์",
+          "หน้ากระจกและแผงเงางาม: เลือกฟิล์มสัมผัสนุ่มกันรอยนิ้วมือความเหนียวต่ำ ลอกไม่ทิ้งรอย",
+          "ขนส่งไกล: เลือกกาวทนอายุการใช้งาน ตรวจแรงลอกหลัง 30/60/90 วัน"
+        ],
+        "id": [
+          "Panel stainless/brushed: pilih PE atau PET tack sedang dengan lapisan perekat halus agar tidak meninggalkan jejak tekstur",
+          "Kaca dan panel mengkilap: pilih film silky anti-sidik jari tack rendah yang tidak meninggalkan bekas",
+          "Pengiriman jarak jauh: pilih perekat tahan penuaan; verifikasi gaya kelupas setelah 30/60/90 hari"
+        ],
+        "ms": [
+          "Panel keluli/brushed: pilih PE atau PET kelekatan sederhana dengan lapisan gam licin untuk mengelakkan kesan tekstur",
+          "Kaca dan panel berkilat: pilih filem sutera anti-cap jari kelekatan rendah tanpa kesan",
+          "Penghantaran jauh: pilih gam tahan penuaan; sahkan daya tanggal selepas 30/60/90 hari"
+        ],
+        "ar": [
+          "ألواح الستانلس/المصقولة: اختر PE أو PET بلزوجة متوسطة وطبقة لاصق ناعمة لتجنب آثار الملمس",
+          "الزجاج والواجهات اللامعة: اختر أفلام حريرية مضادة للبصمات بلزوجة منخفضة لا تترك آثاراً",
+          "للشحن لمسافات طويلة: اختر لاصقاً مقاوماً للشيخوخة؛ وتحقق من قوة النزع بعد 30/60/90 يوماً"
+        ]
+      },
+      "recommendedCodes": ["GDY-022", "GDY-071", "GDY-023", "GDY-072"],
+      "metaTitle": {
+        "en": "Home Appliance Protective Film | Panel & Stainless Steel | Guangdayuan",
+        "zh": "家电保护膜 | 面板·不锈钢保护 | 光大远",
+        "vi": "Màng bảo vệ thiết bị gia dụng | Panel & Inox | Guangdayuan",
+        "th": "ฟิล์มป้องกันเครื่องใช้ไฟฟ้า | แผงและสแตนเลส | Guangdayuan",
+        "id": "Film Pelindung Peralatan Rumah Tangga | Panel & Stainless | Guangdayuan",
+        "ms": "Filem Pelindung Peralatan Rumah | Panel & Keluli Tahan Karat | Guangdayuan",
+        "ar": "فيلم حماية الأجهزة المنزلية | اللوحات والستانلس | Guangdayuan"
+      },
+      "metaDesc": {
+        "en": "Protective films for refrigerator, AC, washer panels: stainless steel, PCM/VCM, glass fronts. Scratch-proof, no residue after shipping.",
+        "zh": "冰箱/空调/洗衣机面板保护膜：不锈钢、PCM/VCM 彩板、玻璃面板，防刮、运输后撕除不残胶。",
+        "vi": "Màng bảo vệ panel tủ lạnh/điều hòa/máy giặt: inox, PCM/VCM, mặt kính; chống trầy, bóc không để lại keo sau vận chuyển.",
+        "th": "ฟิล์มป้องกันแผงตู้เย็น/แอร์/เครื่องซักผ้า: สแตนเลส PCM/VCM หน้ากระจก กันรอย ลอกไม่ทิ้งคราบหลังขนส่ง",
+        "id": "Film pelindung panel kulkas/AC/mesin cuci: stainless, PCM/VCM, kaca; anti gores, tanpa residu setelah pengiriman.",
+        "ms": "Filem pelindung panel peti sejuk/penghawa dingin/mesin basuh: keluli tahan karat, PCM/VCM, kaca; anti calar, tanpa sisa gam.",
+        "ar": "أفلام حماية لوحات الثلاجات والمكيفات والغسالات: ستانلس ستيل وPCM/VCM وواجهات زجاجية؛ مضادة للخدش ودون بقايا."
+      }
+    },
+    {
+      "id": "building",
+      "order": 2,
+      "name": {
+        "en": "Building Materials & Aluminum Profiles",
+        "zh": "建材与铝型材",
+        "vi": "Vật liệu xây dựng & Nhôm định hình",
+        "th": "วัสดุก่อสร้างและอะลูมิเนียมโปรไฟล์",
+        "id": "Material Bangunan & Profil Aluminium",
+        "ms": "Bahan Binaan & Profil Aluminium",
+        "ar": "مواد البناء وأشكال الألمنيوم"
+      },
+      "headline": {
+        "en": "Aluminum Profile Protective Film Solutions",
+        "zh": "铝型材保护膜解决方案",
+        "vi": "Giải pháp màng bảo vệ nhôm định hình",
+        "th": "โซลูชันฟิล์มป้องกันอะลูมิเนียมโปรไฟล์",
+        "id": "Solusi Film Pelindung Profil Aluminium",
+        "ms": "Penyelesaian Filem Pelindung Profil Aluminium",
+        "ar": "حلول أفلام حماية أشكال الألمنيوم"
+      },
+      "intro": {
+        "en": "For extrusion lines, powder coating, anodizing and curtain-wall installation — aluminum profile protective film that matches your surface finish, survives outdoor exposure, and peels clean after months on site.",
+        "zh": "覆盖挤压、粉末喷涂、氧化电泳到幕墙安装全流程——铝型材保护膜按表面工艺匹配粘度，户外暴晒不脱胶，工地存放数月后撕除依然不残胶。",
+        "vi": "Cho dây chuyền đùn, sơn tĩnh điện, ôxy hóa và lắp đặt mặt dựng — màng bảo vệ nhôm định hình phù hợp với bề mặt hoàn thiện, chịu được nắng ngoài trởi, bóc sạch sau nhiều tháng tại công trường.",
+        "th": "สำหรับสายรีดขึ้นรูป พ่นสีฝุ่น อโนไดซ์ และการติดตั้งผนังม่าน — ฟิล์มป้องกันอะลูมิเนียมโปรไฟล์ที่เหมาะกับผิวสัมผัส ทนแดดกลางแจ้ง ลอกสะอาดหลังเก็บในหน้างานหลายเดือน",
+        "id": "Untuk lini ekstrusi, powder coating, anodizing, dan pemasangan curtain wall — film pelindung profil aluminium yang sesuai dengan finishing permukaan, tahan paparan luar ruangan, dan terkelupas bersih setelah berbulan-bulan di lokasi proyek.",
+        "ms": "Untuk barisan penyemperitan, salutan serbuk, anodizing dan pemasangan dinding tirai — filem pelindung profil aluminium yang sepadan dengan kemasan permukaan, tahan pendedahan luar, dan mudah ditanggalkan selepas berbulan-bulan di tapak.",
+        "ar": "لخطوط البثق والطلاء بالمسحوق والأنودة وتركيب الواجهات — فيلم حماية أشكال الألمنيوم المناسب لتشطيب السطح، يتحمل التعرض الخارجي، وينزع نظيفاً بعد أشهر في الموقع."
+      },
+      "painPoints": {
+        "en": [
+          "Scratches and drag marks on mill-finish and powder-coated profiles during bundling, transport and hoisting",
+          "UV exposure and outdoor storage causing adhesive degradation, edge lifting or ghost marks",
+          "Residue or shadow marks after months on construction sites, especially on anodized and matte finishes"
+        ],
+        "zh": [
+          "光身料与喷涂料在打捆、运输、吊装中的划伤与拖痕",
+          "户外暴晒与长期存放导致胶层老化、边缘起翘或留下影子印",
+          "工地存放数月后撕膜残胶或留印，氧化面与磨砂面尤其明显"
+        ],
+        "vi": [
+          "Trầy xước và vết kéo trên nhôm nguyên bản và sơn tĩnh điện khi bó, vận chuyển, cẩu",
+          "Tia UV và lưu kho ngoài trởi làm keo lão hóa, bong mép hoặc để lại vết bóng",
+          "Keo thừa hoặc vết mờ sau nhiều tháng tại công trường, đặc biệt trên bề mặt ôxy hóa và mờ"
+        ],
+        "th": [
+          "รอยขีดข่วนและรอยลากบนโปรไฟล์ผิวดิบและพ่นสีระหว่างรวมมัด ขนส่ง และยก",
+          "รังสี UV และการจัดเก็บกลางแจ้งทำให้กาวเสื่อม ขอบยก หรือทิ้งรอยเงา",
+          "คราบกาวหรือรอยเงาหลังเก็บในหน้างานหลายเดือน โดยเฉพาะผิวอโนไดซ์และผิวด้าน"
+        ],
+        "id": [
+          "Goresan dan bekas geseran pada profil mill-finish dan powder-coated saat pengemasan, pengiriman, dan pengangkatan",
+          "Paparan UV dan penyimpanan luar ruangan menyebabkan perekat terdegradasi, tepi terangkat, atau bekas bayangan",
+          "Residu atau bekas bayangan setelah berbulan-bulan di lokasi konstruksi, terutama pada finishing anodized dan matte"
+        ],
+        "ms": [
+          "Calaran dan kesan seret pada profil mill-finish dan salutan serbuk semasa pengikatan, pengangkutan dan pengangkatan",
+          "Pendedahan UV dan penyimpanan luar menyebabkan gam merosot, tepi terangkat atau kesan bayang",
+          "Sisa gam atau kesan bayang selepas berbulan-bulan di tapak pembinaan, terutama kemasan anodized dan matte"
+        ],
+        "ar": [
+          "خدوش وعلامات سحب على الأشكال الخام والمطلية بالمسحوق أثناء التجميع والنقل والرفع",
+          "التعرض للأشعة فوق البنفسجية والتخزين الخارجي يسبب تدهور اللاصق ورفع الحواف أو علامات ظلية",
+          "بقايا أو علامات ظلية بعد أشهر في مواقع البناء، خاصة على الأسطح المؤكسدة والمطفية"
+        ]
+      },
+      "materialsGuide": {
+        "en": [
+          "Mill finish / anodized profiles: black-white PE film, medium-high tack, UV-stabilized for 6+ months outdoor",
+          "Powder-coated & fluorocarbon finishes: low-to-medium tack PE; adhesive must not react with coating chemistry",
+          "Matte and sandblasted surfaces: higher tack to anchor into texture; always validate peel force after aging tests",
+          "Stainless sheets & color steel: milky white or blue PE film for visibility of protected areas"
+        ],
+        "zh": [
+          "光身/氧化料：选黑白 PE 膜，中高粘度，加 UV 稳定剂可户外存放 6 个月以上",
+          "粉末喷涂与氟碳面：选低中粘度 PE，胶系不得与涂层发生反应",
+          "磨砂与喷砂面：需更高粘度咬合纹理，务必做老化后剥离力验证",
+          "不锈钢板与彩钢板：选乳白或蓝色 PE 膜，便于识别已保护区域"
+        ],
+        "vi": [
+          "Nhôm nguyên bản/ôxy hóa: chọn màng PE đen-trắng, độ dính trung-cao, ổn định UV cho 6+ tháng ngoài trởi",
+          "Bề mặt sơn tĩnh điện & fluorocarbon: chọn PE độ dính thấp-trung bình; keo không được phản ứng với lớp sơn",
+          "Bề mặt mờ và phun cát: cần độ dính cao hơn để bám vào vân; luôn kiểm tra lực bóc sau lão hóa",
+          "Inox & tôn màu: chọn màng PE trắng đục hoặc xanh dương để dễ nhận biết vùng đã bảo vệ"
+        ],
+        "th": [
+          "โปรไฟล์ผิวดิบ/อโนไดซ์: เลือกฟิล์ม PE ขาว-ดำ ความเหนียวกลาง-สูง เสถียร UV สำหรับกลางแจ้ง 6+ เดือน",
+          "ผิวพ่นสีฝุ่นและฟลูออโรคาร์บอน: เลือก PE ความเหนียวต่ำ-กลาง กาวต้องไม่ทำปฏิกิริยากับสารเคลือบ",
+          "ผิวด้านและพ่นทราย: ต้องการความเหนียวสูงกว่าเพื่อยึดเข้ากับพื้นผิว ตรวจแรงลอกหลังทดสอบอายุเสมอ",
+          "แผ่นสแตนเลสและเหล็กสี: เลือกฟิล์ม PE ขาวนมหรือสีน้ำเงินเพื่อมองเห็นพื้นที่ที่ป้องกัน"
+        ],
+        "id": [
+          "Profil mill-finish/anodized: pilih film PE hitam-putih, tack sedang-tinggi, stabil UV untuk 6+ bulan di luar ruangan",
+          "Finishing powder-coated & fluorocarbon: pilih PE tack rendah-sedang; perekat tidak boleh bereaksi dengan kimia coating",
+          "Permukaan matte dan sandblasted: butuh tack lebih tinggi untuk mencengkeram tekstur; selalu validasi gaya kelupas setelah uji penuaan",
+          "Lembaran stainless & baja warna: pilih film PE putih susu atau biru untuk visibilitas area yang dilindungi"
+        ],
+        "ms": [
+          "Profil mill-finish/anodized: pilih filem PE hitam-putih, kelekatan sederhana-tinggi, stabil UV untuk 6+ bulan di luar",
+          "Kemasan salutan serbuk & fluorocarbon: pilih PE kelekatan rendah-sederhana; gam tidak boleh bertindak balas dengan kimia salutan",
+          "Permukaan matte dan sandblasted: perlukan kelekatan lebih tinggi untuk mencengkam tekstur; sentiasa sahkan daya tanggal selepas ujian penuaan",
+          "Lembaran keluli tahan karat & keluli warna: pilih filem PE putih susu atau biru untuk penglihatan kawasan yang dilindungi"
+        ],
+        "ar": [
+          "الأشكال الخام/المؤكسدة: اختر فيلم PE أبيض-أسود بلزوجة متوسطة-عالية ومثبت UV للتخزين الخارجي 6+ أشهر",
+          "التشطيبات المطلية بالمسحوق والفلوروكربون: اختر PE بلزوجة منخفضة-متوسطة؛ يجب ألا يتفاعل اللاصق مع كيمياء الطلاء",
+          "الأسطح المطفية والمرشوشة بالرمل: تحتاج لزوجة أعلى للالتصاق بالملمس؛ تحقق دائماً من قوة النزع بعد اختبارات الشيخوخة",
+          "ألواح الستانلس والفولاذ الملون: اختر فيلم PE أبيض حليبي أو أزرق لسهولة تمييز المناطق المحمية"
+        ]
+      },
+      "recommendedCodes": ["GDY-025", "GDY-033", "GDY-047", "GDY-032"],
+      "metaTitle": {
+        "en": "Aluminum Profile Protective Film | Building Materials | Guangdayuan",
+        "zh": "铝型材保护膜 | 建材表面保护 | 光大远",
+        "vi": "Màng bảo vệ nhôm định hình | Vật liệu xây dựng | Guangdayuan",
+        "th": "ฟิล์มป้องกันอะลูมิเนียมโปรไฟล์ | วัสดุก่อสร้าง | Guangdayuan",
+        "id": "Film Pelindung Profil Aluminium | Material Bangunan | Guangdayuan",
+        "ms": "Filem Pelindung Profil Aluminium | Bahan Binaan | Guangdayuan",
+        "ar": "فيلم حماية أشكال الألمنيوم | مواد البناء | Guangdayuan"
+      },
+      "metaDesc": {
+        "en": "Aluminum profile protective film for extrusion, powder coating, anodizing. UV-stabilized, 6+ months outdoor, clean peel with no residue.",
+        "zh": "铝型材保护膜：覆盖挤压、喷涂、氧化工艺；UV 稳定户外存放 6 个月+，撕除不残胶、不留影子印。",
+        "vi": "Màng bảo vệ nhôm định hình cho đùn, sơn tĩnh điện, ôxy hóa; ổn định UV 6+ tháng ngoài trởi, bóc sạch không để lại keo.",
+        "th": "ฟิล์มป้องกันอะลูมิเนียมโปรไฟล์สำหรับรีดขึ้นรูป พ่นสี อโนไดซ์ เสถียร UV 6+ เดือนกลางแจ้ง ลอกสะอาดไม่ทิ้งคราบ",
+        "id": "Film pelindung profil aluminium untuk ekstrusi, powder coating, anodizing; stabil UV 6+ bulan, terkelupas bersih tanpa residu.",
+        "ms": "Filem pelindung profil aluminium untuk penyemperitan, salutan serbuk, anodizing; stabil UV 6+ bulan, tanggal bersih tanpa sisa gam.",
+        "ar": "فيلم حماية أشكال الألمنيوم للبثق والطلاء بالمسحوق والأنودة؛ مثبت UV لأكثر من 6 أشهر خارجياً، ينزع نظيفاً دون بقايا."
+      }
+    },
+    {
+      "id": "automotive",
+      "order": 3,
+      "name": {
+        "en": "Automotive",
+        "zh": "汽车",
+        "vi": "Ô tô",
+        "th": "ยานยนต์",
+        "id": "Otomotif",
+        "ms": "Automotif",
+        "ar": "السيارات"
+      },
+      "headline": {
+        "en": "Protective Films for Automotive Parts & Displays",
+        "zh": "汽车零部件与显示保护膜方案",
+        "vi": "Màng bảo vệ linh kiện & màn hình ô tô",
+        "th": "ฟิล์มป้องกันชิ้นส่วนและจอแสดงผลยานยนต์",
+        "id": "Film Pelindung Komponen & Display Otomotif",
+        "ms": "Filem Pelindung Komponen & Paparan Automotif",
+        "ar": "أفلام حماية قطع غيار وشاشات السيارات"
+      },
+      "intro": {
+        "en": "Interior/exterior trim, painted panels, dashboard and in-vehicle displays — protection through stamping, injection molding, painting and final assembly without scratches or residue.",
+        "zh": "内外饰件、喷涂面板、仪表盘与车载显示——覆盖冲压、注塑、喷涂到总装全流程保护，无划伤、无残胶。",
+        "vi": "Nội/ngoại thất, panel sơn, táp lô và màn hình xe — bảo vệ qua dập, ép nhựa, sơn và lắp ráp cuối mà không trầy xước hay để lại keo.",
+        "th": "ชิ้นส่วนตกแต่งภายใน/ภายนอก แผงพ่นสี แดชบอร์ด และจอในรถ — ป้องกันตลอดการปั๊ม ฉีดขึ้นรูป พ่นสี และประกอบขั้นสุดท้ายโดยไม่มีรอยขีดข่วนหรือคราบกาว",
+        "id": "Trim interior/eksterior, panel cat, dashboard, dan display kendaraan — perlindungan melalui stamping, injection molding, pengecatan, dan perakitan akhir tanpa goresan atau residu.",
+        "ms": "Trim dalaman/luaran, panel cat, papan pemuka dan paparan kenderaan — perlindungan melalui pengetukan, pengacuanan suntikan, pengecatan dan pemasangan akhir tanpa calaran atau sisa gam.",
+        "ar": "قطع التزيين الداخلية/الخارجية والألواح المطلية ولوحة القيادة وشاشات المركبات — حماية عبر الختم والقولبة بالحقن والطلاء والتجميع النهائي دون خدوش أو بقايا."
+      },
+      "painPoints": {
+        "en": [
+          "Class-A painted surfaces scratched between stamping plant and assembly line",
+          "High-gloss interior trim showing fingerprints and handling marks",
+          "Instrument cluster and infotainment displays damaged during installation"
+        ],
+        "zh": [
+          "A 级漆面在冲压厂到总装线之间流转时划伤",
+          "高光内饰件留下指纹与搬运痕迹",
+          "仪表盘与中控显示屏在安装过程中损伤"
+        ],
+        "vi": [
+          "Bề mặt sơn Class-A bị trầy xước khi vận chuyển giữa nhà máy dập và dây chuyền lắp ráp",
+          "Nội thất bóng để lại vân tay và vết vận chuyển",
+          "Màn hình táp lô và giải trí bị hư hỏng trong quá trình lắp đặt"
+        ],
+        "th": [
+          "ผิวสี Class-A ถูกขีดข่วนระหว่างโรงปั๊มและสายประกอบ",
+          "ชิ้นส่วนตกแต่งภายในเงางามแสดงรอยนิ้วมือและรอยการจับ",
+          "จอแสดงผลหน้าปัดและระบบสาระบันเทิงเสียหายระหว่างติดตั้ง"
+        ],
+        "id": [
+          "Permukaan cat Class-A tergores antara pabrik stamping dan lini perakitan",
+          "Trim interior mengkilap menunjukkan sidik jari dan bekas penanganan",
+          "Display instrument cluster dan infotainment rusak saat pemasangan"
+        ],
+        "ms": [
+          "Permukaan cat Class-A tercalar antara kilang pengetukan dan barisan pemasangan",
+          "Trim dalaman berkilat menunjukkan cap jari dan kesan pengendalian",
+          "Paparan kluster instrumen dan infotaimen rosak semasa pemasangan"
+        ],
+        "ar": [
+          "خدوش أسطح الطلاء من الفئة A بين مصنع الختم وخط التجميع",
+          "قطع التزيين الداخلية اللامعة تظهر بصمات وعلامات المناولة",
+          "تلف شاشات العدادات والترفيه أثناء التركيب"
+        ]
+      },
+      "materialsGuide": {
+        "en": [
+          "Class-A paint surfaces: anti-scratch silky films with conformable adhesive that follows curves",
+          "Displays and clusters: optical-grade PET with anti-fingerprint coating, low tack for bubble-free application",
+          "High-temperature paint shops: verify film heat resistance matches your curing cycle before rollout"
+        ],
+        "zh": [
+          "A 级漆面：选抗刮肤感膜，胶层要服帖能贴合曲面",
+          "显示屏与仪表：选光学级 PET 防指纹膜，低粘度易贴不起泡",
+          "高温烤漆车间：上线前验证膜耐温与你的固化曲线匹配"
+        ],
+        "vi": [
+          "Bề mặt sơn Class-A: chọn màng mịn chống trầy, keo mềm bám theo bề mặt cong",
+          "Màn hình và táp lô: chọn PET cấp quang học chống vân tay, độ dính thấp dán không bong bóng",
+          "Xưởng sơn nhiệt độ cao: kiểm tra khả năng chịu nhiệt của màng khớp với chu trình sấy trước khi triển khai"
+        ],
+        "th": [
+          "ผิวสี Class-A: เลือกฟิล์มสัมผัสนุ่มกันรอย กาวยืดหยุ่นตามโค้ง",
+          "จอแสดงผลและหน้าปัด: เลือก PET เกรดออปติคัลกันรอยนิ้วมือ ความเหนียวต่ำติดไม่มีฟอง",
+          "ห้องพ่นสีอุณหภูมิสูง: ตรวจความทนความร้อนของฟิล์มให้ตรงกับวงจรอบก่อนใช้งาน"
+        ],
+        "id": [
+          "Permukaan cat Class-A: pilih film silky anti-gores dengan perekat lentur yang mengikuti lekukan",
+          "Display dan cluster: pilih PET kelas optik dengan lapisan anti-sidik jari, tack rendah untuk aplikasi bebas gelembung",
+          "Paint shop suhu tinggi: verifikasi ketahanan panas film sesuai siklus curing Anda sebelum rollout"
+        ],
+        "ms": [
+          "Permukaan cat Class-A: pilih filem sutera anti-calar dengan gam lentur yang mengikut lengkung",
+          "Paparan dan kluster: pilih PET gred optik dengan salutan anti-cap jari, kelekatan rendah untuk pemasangan tanpa gelembung",
+          "Kedai cat suhu tinggi: sahkan ketahanan haba filem sepadan dengan kitaran pengawetan anda sebelum pelancaran"
+        ],
+        "ar": [
+          "أسطح الطلاء من الفئة A: اختر أفلاماً حريرية مضادة للخدش بلاصق مرن يتبع المنحنيات",
+          "الشاشات والعدادات: اختر PET بالدرجة البصرية مع طلاء مضاد للبصمات ولزوجة منخفضة للتطبيق الخالي من الفقاعات",
+          "ورش الطلاء عالية الحرارة: تحقق من تطابق مقاومة الفيلم للحرارة مع دورة المعالجة قبل التطبيق"
+        ]
+      },
+      "recommendedCodes": ["GDY-070", "GDY-044", "GDY-036", "GDY-051"],
+      "metaTitle": {
+        "en": "Automotive Protective Film | Trim, Paint & Displays | Guangdayuan",
+        "zh": "汽车保护膜 | 饰件·漆面·显示保护 | 光大远",
+        "vi": "Màng bảo vệ ô tô | Nội thất, sơn & màn hình | Guangdayuan",
+        "th": "ฟิล์มป้องกันยานยนต์ | ชิ้นส่วน สี และจอ | Guangdayuan",
+        "id": "Film Pelindung Otomotif | Trim, Cat & Display | Guangdayuan",
+        "ms": "Filem Pelindung Automotif | Trim, Cat & Paparan | Guangdayuan",
+        "ar": "فيلم حماية السيارات | التزيين والطلاء والشاشات | Guangdayuan"
+      },
+      "metaDesc": {
+        "en": "Protective films for automotive Class-A paint, high-gloss trim and in-vehicle displays. Anti-scratch, anti-fingerprint, no residue.",
+        "zh": "汽车 A 级漆面、高光饰件与车载显示保护膜：抗刮、防指纹、撕除不残胶。",
+        "vi": "Màng bảo vệ sơn Class-A ô tô, nội thất bóng và màn hình xe: chống trầy, chống vân tay, bóc không để lại keo.",
+        "th": "ฟิล์มป้องกันสี Class-A รถยนต์ ชิ้นส่วนเงางาม และจอในรถ: กันรอย กันรอยนิ้วมือ ลอกไม่ทิ้งคราบ",
+        "id": "Film pelindung cat Class-A otomotif, trim mengkilap, dan display kendaraan: anti gores, anti sidik jari, tanpa residu.",
+        "ms": "Filem pelindung cat Class-A automotif, trim berkilat dan paparan kenderaan: anti calar, anti cap jari, tanpa sisa gam.",
+        "ar": "أفلام حماية طلاء السيارات من الفئة A والتزيين اللامع وشاشات المركبات: مضادة للخدش والبصمات ودون بقايا."
+      }
+    },
+    {
+      "id": "new-energy",
+      "order": 4,
+      "name": {
+        "en": "New Energy & Batteries",
+        "zh": "新能源",
+        "vi": "Năng lượng mới",
+        "th": "พลังงานใหม่",
+        "id": "Energi Baru & Baterai",
+        "ms": "Tenaga Baharu & Bateri",
+        "ar": "الطاقة الجديدة والبطاريات"
+      },
+      "headline": {
+        "en": "Films & Tapes for Battery and Solar Manufacturing",
+        "zh": "电池与光伏制程薄膜胶带方案",
+        "vi": "Màng & băng keo cho sản xuất pin và năng lượng mặt trỏi",
+        "th": "ฟิล์มและเทปสำหรับการผลิตแบตเตอรี่และโซลาร์",
+        "id": "Film & Tape untuk Manufaktur Baterai dan Solar",
+        "ms": "Filem & Pita untuk Pembuatan Bateri dan Solar",
+        "ar": "أفلام وأشرطة لتصنيع البطاريات والطاقة الشمسية"
+      },
+      "intro": {
+        "en": "Lithium battery cells, soft-pack processes, solar panels and EV components — high-temperature tapes, termination tapes and process films engineered for battery-grade safety requirements.",
+        "zh": "锂电池电芯、软包制程、光伏组件与电动车零部件——耐高温胶带、终止胶带与制程膜，按电池级安全要求设计。",
+        "vi": "Cell pin lithium, quy trình pin mềm, tấm pin mặt trỏi và linh kiện xe điện — băng keo chịu nhiệt, băng keo kết thúc và màng quy trình được thiết kế theo yêu cầu an toàn cấp pin.",
+        "th": "เซลล์แบตเตอรี่ลิเธียม กระบวนการซองอ่อน แผงโซลาร์ และชิ้นส่วน EV — เทปทนความร้อน เทปปิดท้าย และฟิล์มกระบวนการที่ออกแบบตามข้อกำหนดความปลอดภัยระดับแบตเตอรี่",
+        "id": "Sel baterai lithium, proses soft-pack, panel surya, dan komponen EV — tape tahan suhu tinggi, termination tape, dan film proses yang dirancang untuk persyaratan keselamatan kelas baterai.",
+        "ms": "Sel bateri litium, proses pek lembut, panel solar dan komponen EV — pita tahan suhu tinggi, pita penamatan dan filem proses yang direka untuk keperluan keselamatan gred bateri.",
+        "ar": "خلايا بطاريات الليثيوم وعمليات الحزم المرنة والألواح الشمسية ومكونات المركبات الكهربائية — أشرطة مقاومة للحرارة العالية وأشرطة إنهاء وأفلام معالجة مصممة لمتطلبات السلامة بدرجة البطاريات."
+      },
+      "painPoints": {
+        "en": [
+          "Electrolyte corrosion and high-temperature exposure degrading ordinary tapes",
+          "Insulation failures at tab welding and termination points",
+          "Solar glass and backsheet scratching during lamination and framing"
+        ],
+        "zh": [
+          "电解液腐蚀与高温环境导致普通胶带失效",
+          "极耳焊接与终止部位的绝缘失效",
+          "光伏玻璃与背板在层压与装框过程中的划伤"
+        ],
+        "vi": [
+          "Ăn mòn điện phân và nhiệt độ cao làm băng keo thường bị hỏng",
+          "Hỏng cách điện tại điểm hàn cực và kết thúc",
+          "Kính mặt trỏi và backsheet bị trầy xước trong quá trình cán màng và đóng khung"
+        ],
+        "th": [
+          "การกัดกร่อนของอิเล็กโทรไลต์และอุณหภูมิสูงทำให้เทปธรรมดาเสื่อม",
+          "ฉนวนล้มเหลวที่จุดเชื่อมแท็บและจุดปิดท้าย",
+          "กระจกโซลาร์และแผ่นหลังถูกขีดข่วนระหว่างลามิเนตและใส่กรอบ"
+        ],
+        "id": [
+          "Korosi elektrolit dan paparan suhu tinggi merusak tape biasa",
+          "Kegagalan insulasi di titik las tab dan terminasi",
+          "Goresan pada kaca surya dan backsheet selama laminasi dan pemasangan frame"
+        ],
+        "ms": [
+          "Kakisan elektrolit dan pendedahan suhu tinggi merosakkan pita biasa",
+          "Kegagalan penebat di titik kimpalan tab dan penamatan",
+          "Kaca solar dan backsheet tercalar semasa laminasi dan pembingkaian"
+        ],
+        "ar": [
+          "تآكل المنحل الكهربائي والتعرض للحرارة العالية يتلف الأشرطة العادية",
+          "فشل العزل عند نقاط لحام الأطراف والإنهاء",
+          "خدوش زجاج الطاقة الشمسية والغلاف الخلفي أثناء الترقيق والتأطير"
+        ]
+      },
+      "materialsGuide": {
+        "en": [
+          "Tab welding & termination: polyimide (gold finger) tape for 260°C+ solder resistance",
+          "Cell packaging: electrolyte-resistant PET termination tape; verify electrolyte immersion test data",
+          "Solar glass/backsheet: co-extruded PE protection with UV stability for outdoor staging"
+        ],
+        "zh": [
+          "极耳焊接与终止：选聚酰亚胺（金手指）胶带，耐 260°C+ 焊锡温度",
+          "电芯封装：选耐电解液 PET 终止胶带，务必验证电解液浸泡测试数据",
+          "光伏玻璃与背板：选共挤 PE 保护膜，带 UV 稳定性适应户外堆场"
+        ],
+        "vi": [
+          "Hàn cực & kết thúc: chọn băng keo polyimide (gold finger) chịu nhiệt hàn 260°C+",
+          "Đóng gói cell: chọn băng keo kết thúc PET chịu điện phân; kiểm tra dữ liệu thử ngâm điện phân",
+          "Kính mặt trỏi/backsheet: chọn màng PE đồng đùn ổn định UV cho lưu kho ngoài trởi"
+        ],
+        "th": [
+          "เชื่อมแท็บและปิดท้าย: เลือกเทปโพลีไอไมด์ (โกลด์ฟิงเกอร์) ทนอุณหภูมิบัดกรี 260°C+",
+          "บรรจุเซลล์: เลือกเทปปิดท้าย PET ทนอิเล็กโทรไลต์ ตรวจข้อมูลทดสอบแช่อิเล็กโทรไลต์",
+          "กระจกโซลาร์/แผ่นหลัง: เลือกฟิล์ม PE ร่วมอัดเสถียร UV สำหรับจัดเก็บกลางแจ้ง"
+        ],
+        "id": [
+          "Las tab & terminasi: pilih tape polyimide (gold finger) tahan solder 260°C+",
+          "Kemasan sel: pilih termination tape PET tahan elektrolit; verifikasi data uji perendaman elektrolit",
+          "Kaca surya/backsheet: pilih film PE co-extruded dengan stabilitas UV untuk staging luar ruangan"
+        ],
+        "ms": [
+          "Kimpalan tab & penamatan: pilih pita poliimida (gold finger) tahan pateri 260°C+",
+          "Pembungkusan sel: pilih pita penamatan PET tahan elektrolit; sahkan data ujian rendaman elektrolit",
+          "Kaca solar/backsheet: pilih filem PE penyemperitan bersama dengan kestabilan UV untuk pementasan luar"
+        ],
+        "ar": [
+          "لحام الأطراف والإنهاء: اختر شريط البوليميد (الإصبع الذهبي) المقاوم لحرارة اللحام 260°C+",
+          "تغليف الخلايا: اختر شريط إنهاء PET مقاوم للمنحل الكهربائي؛ وتحقق من بيانات اختبار الغمر",
+          "زجاج الطاقة الشمسية/الغلاف الخلفي: اختر حماية PE بالبثق المشترك مع ثبات UV للتخزين الخارجي"
+        ]
+      },
+      "recommendedCodes": ["GDY-046", "GDY-057", "GDY-058", "GDY-059"],
+      "metaTitle": {
+        "en": "Battery & Solar Protective Films | High-Temp Tapes | Guangdayuan",
+        "zh": "电池光伏保护膜胶带 | 耐高温·耐电解液 | 光大远",
+        "vi": "Màng & băng keo pin/năng lượng mặt trỏi | Chịu nhiệt | Guangdayuan",
+        "th": "ฟิล์มและเทปแบตเตอรี่โซลาร์ | ทนความร้อน | Guangdayuan",
+        "id": "Film & Tape Baterai/Solar | Tahan Suhu Tinggi | Guangdayuan",
+        "ms": "Filem & Pita Bateri/Solar | Tahan Suhu Tinggi | Guangdayuan",
+        "ar": "أفلام وأشرطة البطاريات والطاقة الشمسية | مقاومة للحرارة | Guangdayuan"
+      },
+      "metaDesc": {
+        "en": "Polyimide tapes, termination tapes and process films for lithium batteries and solar panels. 260°C+ resistance, electrolyte-proof.",
+        "zh": "锂电池与光伏用聚酰亚胺胶带、终止胶带与制程膜：耐 260°C+ 高温、耐电解液。",
+        "vi": "Băng keo polyimide, băng kết thúc và màng quy trình cho pin lithium và tấm mặt trỏi: chịu 260°C+, chịu điện phân.",
+        "th": "เทปโพลีไอไมด์ เทปปิดท้าย และฟิล์มกระบวนการสำหรับแบตเตอรี่ลิเธียมและแผงโซลาร์: ทน 260°C+ ทนอิเล็กโทรไลต์",
+        "id": "Tape polyimide, termination tape, dan film proses untuk baterai lithium dan panel surya: tahan 260°C+, tahan elektrolit.",
+        "ms": "Pita poliimida, pita penamatan dan filem proses untuk bateri litium dan panel solar: tahan 260°C+, kalis elektrolit.",
+        "ar": "أشرطة بوليميد وأشرطة إنهاء وأفلام معالجة لبطاريات الليثيوم والألواح الشمسية: مقاومة 260°C+ ومنع للمنحل الكهربائي."
+      }
+    },
+    {
+      "id": "hardware",
+      "order": 5,
+      "name": {
+        "en": "Hardware & Furniture",
+        "zh": "五金与家具",
+        "vi": "Kim khí & Nội thất",
+        "th": "ฮาร์ดแวร์และเฟอร์นิเจอร์",
+        "id": "Hardware & Furnitur",
+        "ms": "Perkakasan & Perabot",
+        "ar": "الأجهزة المعدنية والأثاث"
+      },
+      "headline": {
+        "en": "Protective Films for Metal Panels, Plastics & Furniture",
+        "zh": "金属板材、塑胶与家具保护膜方案",
+        "vi": "Màng bảo vệ tấm kim loại, nhựa & nội thất",
+        "th": "ฟิล์มป้องกันแผ่นโลหะ พลาสติก และเฟอร์นิเจอร์",
+        "id": "Film Pelindung Panel Logam, Plastik & Furnitur",
+        "ms": "Filem Pelindung Panel Logam, Plastik & Perabot",
+        "ar": "أفلام حماية الألواح المعدنية والبلاستيك والأثاث"
+      },
+      "intro": {
+        "en": "Metal sheets, plastic profiles, signage and furniture surfaces — general-purpose protection that survives cutting, bending, polishing and final delivery to showrooms.",
+        "zh": "金属板材、塑胶型材、标牌与家具表面——通用保护方案，历经切割、折弯、抛光到展厅交付全程无损。",
+        "vi": "Tấm kim loại, thanh nhựa, biển hiệu và bề mặt nội thất — bảo vệ đa dụng chịu được cắt, uốn, đánh bóng và giao hàng đến showroom.",
+        "th": "แผ่นโลหะ โปรไฟล์พลาสติก ป้าย และผิวเฟอร์นิเจอร์ — การป้องกันอเนกประสงค์ที่รอดผ่านการตัด ดัด ขัดเงา และส่งมอบถึงโชว์รูม",
+        "id": "Lembaran logam, profil plastik, signage, dan permukaan furnitur — perlindungan serbaguna yang tahan pemotongan, pembengkokan, pemolesan, hingga pengiriman ke showroom.",
+        "ms": "Lembaran logam, profil plastik, papan tanda dan permukaan perabot — perlindungan serbaguna yang tahan pemotongan, pembengkokan, penggilapan dan penghantaran ke bilik pameran.",
+        "ar": "الألواح المعدنية والأشكال البلاستيكية واللافتات وأسطح الأثاث — حماية عامة تتحمل القطع والثني والتلميع والتسليم النهائي لصالات العرض."
+      },
+      "painPoints": {
+        "en": [
+          "Polished and brushed metal surfaces scratched during cutting and bending",
+          "Glossy furniture panels picking up dust and handling marks before retail display",
+          "Mixed-batch small orders needing flexible film widths without long lead times"
+        ],
+        "zh": [
+          "抛光与拉丝金属面在切割折弯中划伤",
+          "高光家具板在零售展示前沾灰留痕",
+          "混批小单需要灵活幅宽、交期不能长"
+        ],
+        "vi": [
+          "Bề mặt kim loại đánh bóng và xước bị trầy khi cắt và uốn",
+          "Panel nội thất bóng bám bụi và vết vận chuyển trước khi trưng bày",
+          "Đơn hàng nhỏ nhiều mẫu cần khổ màng linh hoạt, giao hàng nhanh"
+        ],
+        "th": [
+          "ผิวโลหะขัดเงาและขัดลายถูกขีดข่วนระหว่างตัดและดัด",
+          "แผงเฟอร์นิเจอร์เงางามเก็บฝุ่นและรอยการจับก่อนจัดแสดง",
+          "ออเดอร์เล็กหลายแบบต้องการความกว้างฟิล์มยืดหยุ่น ระยะเวลาส่งมอบสั้น"
+        ],
+        "id": [
+          "Permukaan logam poles dan brushed tergores saat pemotongan dan pembengkokan",
+          "Panel furnitur mengkilap berdebu dan berbekas sebelum display retail",
+          "Pesanan kecil campuran butuh lebar film fleksibel tanpa lead time panjang"
+        ],
+        "ms": [
+          "Permukaan logam gilap dan brushed tercalar semasa pemotongan dan pembengkokan",
+          "Panel perabot berkilat mengutip habuk dan kesan pengendalian sebelum paparan runcit",
+          "Pesanan kecil pelbagai memerlukan lebar filem fleksibel tanpa masa menunggu lama"
+        ],
+        "ar": [
+          "خدوش الأسطح المعدنية المصقولة والمصقولة بالفرشاة أثناء القطع والثني",
+          "ألواح الأثاث اللامعة تلتقط الغبار وعلامات المناولة قبل العرض",
+          "الطلبات الصغيرة المختلطة تحتاج عروض فيلم مرنة دون مواعيد تسليم طويلة"
+        ]
+      },
+      "materialsGuide": {
+        "en": [
+          "Polished/brushed metal: milky white or blue PE film for easy inspection visibility",
+          "Furniture gloss panels: low-tack silky anti-fingerprint film; peel just before display",
+          "Mixed small batches: stock standard widths (1220/1250mm) for fast slitting and short lead times"
+        ],
+        "zh": [
+          "抛光/拉丝金属：选乳白或蓝色 PE 膜，便于检查已保护区域",
+          "家具高光板：选低粘度肤感防指纹膜，展示前再撕",
+          "混批小单：备 1220/1250mm 标准幅宽库存，快速分切、交期短"
+        ],
+        "vi": [
+          "Kim loại đánh bóng/xước: chọn màng PE trắng đục hoặc xanh dương để dễ kiểm tra vùng bảo vệ",
+          "Panel nội thất bóng: chọn màng mịn chống vân tay độ dính thấp; bóc ngay trước khi trưng bày",
+          "Đơn nhỏ nhiều mẫu: dự trữ khổ tiêu chuẩn (1220/1250mm) để cắt nhanh, giao hàng nhanh"
+        ],
+        "th": [
+          "โลหะขัดเงา/ขัดลาย: เลือกฟิล์ม PE ขาวนมหรือสีน้ำเงินเพื่อตรวจสอบพื้นที่ป้องกันได้ง่าย",
+          "แผงเฟอร์นิเจอร์เงางาม: เลือกฟิล์มสัมผัสนุ่มกันรอยนิ้วมือความเหนียวต่ำ ลอกก่อนจัดแสดง",
+          "ออเดอร์เล็กหลายแบบ: สต็อกความกว้างมาตรฐาน (1220/1250mm) เพื่อตัดเร็วและส่งมอบเร็ว"
+        ],
+        "id": [
+          "Logam poles/brushed: pilih film PE putih susu atau biru untuk visibilitas inspeksi mudah",
+          "Panel furnitur mengkilap: pilih film silky anti-sidik jari tack rendah; kelupas tepat sebelum display",
+          "Batch kecil campuran: stok lebar standar (1220/1250mm) untuk slitting cepat dan lead time pendek"
+        ],
+        "ms": [
+          "Logam gilap/brushed: pilih filem PE putih susu atau biru untuk penglihatan pemeriksaan mudah",
+          "Panel perabot berkilat: pilih filem sutera anti-cap jari kelekatan rendah; tanggalkan sebelum paparan",
+          "Kumpulan kecil pelbagai: simpan lebar standard (1220/1250mm) untuk pemotongan pantas dan masa menunggu singkat"
+        ],
+        "ar": [
+          "المعدن المصقول/المفرشى: اختر فيلم PE أبيض حليبي أو أزرق لسهولة فحص المناطق المحمية",
+          "ألواح الأثاث اللامعة: اختر فيلماً حريرياً مضاداً للبصمات بلزوجة منخفضة؛ انزعه قبل العرض مباشرة",
+          "الدفعات الصغيرة المختلطة: خزّن العروض القياسية (1220/1250مم) للقص السريع ومواعيد التسليم القصيرة"
+        ]
+      },
+      "recommendedCodes": ["GDY-023", "GDY-072", "GDY-029", "GDY-031"],
+      "metaTitle": {
+        "en": "Hardware & Furniture Protective Film | Metal & Gloss Panels | Guangdayuan",
+        "zh": "五金家具保护膜 | 金属·高光板保护 | 光大远",
+        "vi": "Màng bảo vệ kim khí & nội thất | Kim loại, panel bóng | Guangdayuan",
+        "th": "ฟิล์มป้องกันฮาร์ดแวร์เฟอร์นิเจอร์ | โลหะและแผงเงา | Guangdayuan",
+        "id": "Film Pelindung Hardware & Furnitur | Logam & Panel Mengkilap | Guangdayuan",
+        "ms": "Filem Pelindung Perkakasan & Perabot | Logam & Panel Berkilat | Guangdayuan",
+        "ar": "فيلم حماية الأجهزة المعدنية والأثاث | المعدن والألواح اللامعة | Guangdayuan"
+      },
+      "metaDesc": {
+        "en": "General-purpose protective films for metal sheets, plastic profiles, signage and furniture. Flexible widths, fast slitting, no residue.",
+        "zh": "金属板材、塑胶型材、标牌与家具通用保护膜：幅宽灵活、快速分切、撕除不残胶。",
+        "vi": "Màng bảo vệ đa dụng cho tấm kim loại, thanh nhựa, biển hiệu và nội thất: khổ linh hoạt, cắt nhanh, bóc không để lại keo.",
+        "th": "ฟิล์มป้องกันอเนกประสงค์สำหรับแผ่นโลหะ โปรไฟล์พลาสติก ป้าย และเฟอร์นิเจอร์: ความกว้างยืดหยุ่น ตัดเร็ว ลอกไม่ทิ้งคราบ",
+        "id": "Film pelindung serbaguna untuk lembaran logam, profil plastik, signage, dan furnitur: lebar fleksibel, slitting cepat, tanpa residu.",
+        "ms": "Filem pelindung serbaguna untuk lembaran logam, profil plastik, papan tanda dan perabot: lebar fleksibel, pemotongan pantas, tanpa sisa gam.",
+        "ar": "أفلام حماية عامة للألواح المعدنية والأشكال البلاستيكية واللافتات والأثاث: عروض مرنة وقص سريع ودون بقايا."
+      }
+    }
+  ]
+}

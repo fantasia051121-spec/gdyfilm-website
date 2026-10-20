@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "GDY — Produsen Film Pelindung Profesional | Solusi Perlindungan Permukaan PET",
+    "description": "Shenzhen Guangdayuan Film Co., Ltd. (GDY) — lebih dari 20 tahun memproduksi film pelindung PET dan PE, film poliester PET, film PVC pelindung dan susut, serta pita industri. 72 model produksi dalam enam seri, bersertifikat ISO 9001 dan ISO 14001, diekspor ke lebih dari 40 negara."
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "services": "Produk",
+    "cases": "Aplikasi",
+    "contact": "Kontak",
+    "news": "Berita",
+    "language": "Bahasa",
+    "faq": "FAQ",
+    "quality": "Kualitas"
+  },
+  "hero": {
+    "badge": "Sejak 2004 · Pabrik 16.000 m² · Tersertifikasi ISO 9001 / 14001",
+    "title": "Solusi Perlindungan Permukaan yang Stabil dan Andal",
+    "titleHighlight": "untuk Setiap Industri",
+    "subtitle": "GDY memproduksi film pelindung PET dan PE, film poliester PET, film PVC pelindung dan susut serta pita industri — 72 model produksi dalam enam seri, seluruh parameternya dapat disesuaikan dan dikirim cepat ke seluruh Asia Tenggara.",
+    "ctaPrimary": "Hubungi Kami",
+    "ctaSecondary": "Lihat Produk",
+    "stats": {
+      "years": "Tahun pengalaman",
+      "factory": "m² basis produksi",
+      "countries": "Negara ekspor",
+      "models": "Model produk"
+    }
+  },
+  "services": {
+    "title": "Enam Seri Produk",
+    "subtitle": "Film pelindung PET dan PE, film poliester PET, film PVC pelindung dan susut serta pita industri — 72 model dalam produksi, setiap parameter dapat disesuaikan dengan proses Anda.",
+    "modelsBadge": "model",
+    "viewSeries": "Lihat seri"
+  },
+  "advantages": {
+    "title": "Mengapa Memilih GDY",
+    "subtitle": "20 tahun fokus pada film pelindung PET — dari R&D hingga lini produksi Anda.",
+    "items": [
+      {
+        "title": "Kapasitas Produksi Skala Besar",
+        "desc": "Pabrik 16.000 m² dengan mesin blown film, mesin coating, meja potong otomatis, slitter dan laminator — siap menangani pesanan dalam jumlah besar."
+      },
+      {
+        "title": "Enam Seri untuk Berbagai Industri",
+        "desc": "PET, PE, film poliester, PVC dan pita industri melayani elektronik, kedirgantaraan, medis, material bangunan, transportasi, peralatan rumah tangga dan infrastruktur."
+      },
+      {
+        "title": "Riset Bersama dengan Institut Teknologi Harbin",
+        "desc": "Kemitraan strategis dengan HIT mendorong pengembangan film pelindung berkinerja tinggi yang ramah lingkungan dan menjaga teknologi kami tetap terdepan."
+      },
+      {
+        "title": "Bersertifikat ISO 9001 & ISO 14001",
+        "desc": "Sistem manajemen mutu dan lingkungan diaudit oleh pelanggan dan pihak ketiga, menjamin daya tahan yang konsisten dan kepatuhan lingkungan bagi pembeli global."
+      },
+      {
+        "title": "Solusi Ramah Lingkungan dan Dapat Didaur Ulang",
+        "desc": "Kami berfokus pada film yang dapat didaur ulang dan berdampak lingkungan rendah, sehingga Anda dapat memenuhi target kinerja dan persyaratan keberlanjutan sekaligus."
+      },
+      {
+        "title": "Pengiriman Cepat & Layanan Responsif",
+        "desc": "Lini produksi yang dioptimalkan dengan kapasitas yang dapat diskalakan — produk standar tiba di pelabuhan utama Asia Tenggara dalam 7 hari, dan solusi khusus tersedia untuk proyek mendesak."
+      }
+    ],
+    "certsTitle": "Sertifikasi & Kepatuhan",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "Diujji SGS",
+      "RoHS",
+      "REACH",
+      "Perusahaan Teknologi Tinggi Nasional"
+    ]
+  },
+  "cases": {
+    "title": "Industri yang Kami Layani",
+    "subtitle": "Solusi perlindungan permukaan untuk enam sektor utama.",
+    "viewAll": "Lihat semua produk",
+    "items": [
+      {
+        "title": "Elektronik & Elektronik Konsumen",
+        "desc": "Perlindungan layar dan komponen untuk ponsel, tablet, laptop, dan display.",
+        "sector": "Elektronik"
+      },
+      {
+        "title": "Peralatan Rumah Tangga",
+        "desc": "Perlindungan panel dan bodi untuk lemari es, AC, mesin cuci, dan peralatan dapur.",
+        "sector": "Peralatan"
+      },
+      {
+        "title": "Material Bangunan",
+        "desc": "Perlindungan permukaan profil aluminium, baja tahan karat, kaca, dan batu.",
+        "sector": "Konstruksi"
+      },
+      {
+        "title": "Otomotif",
+        "desc": "Film trim interior/eksterior, masking pengecatan, dan pelindung dashboard.",
+        "sector": "Otomotif"
+      },
+      {
+        "title": "Energi Baru",
+        "desc": "Perlindungan panel surya, modul baterai litium, dan komponen kendaraan listrik.",
+        "sector": "Energi Baru"
+      },
+      {
+        "title": "Logam & Furnitur",
+        "desc": "Pelat logam, profil plastik, signage, dan perlindungan permukaan furnitur.",
+        "sector": "Logam"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap melindungi produk Anda?",
+    "subtitle": "Kirimkan kebutuhan Anda — sampel gratis dan solusi yang tepat dalam 24 jam.",
+    "button": "Hubungi tim kami"
+  },
+  "about": {
+    "title": "Tentang GDY",
+    "subtitle": "Produsen profesional di industri film pelindung",
+    "lead": "Shenzhen Guangdayuan Film Co., Ltd. — lebih dari 20 tahun berfokus pada penelitian, pengembangan dan pembuatan rangkaian film pelindung berbahan baru, menghadirkan perlindungan permukaan yang stabil dan andal bagi pelanggan di seluruh dunia.",
+    "missionTitle": "Misi Kami",
+    "missionText": "Memberikan solusi perlindungan permukaan yang stabil dan andal — film yang tepat, adhesi yang tepat, tepat waktu.",
+    "visionTitle": "Visi Kami",
+    "visionText": "Menjadi mitra film pelindung paling tepercaya bagi produsen elektronik, otomotif, dan energi baru di Asia dan seluruh dunia.",
+    "paragraphs": [
+      "Didirikan pada 2004, GDY mengoperasikan basis produksi 16.000 m² dengan ruang bersih kelas 100.000 dan 1.000 serta tiga lini pelapisan otomatis penuh — kapasitas 120 juta m² per tahun.",
+      "Peralatan utama meliputi mesin blown film, mesin pelapis, meja potong otomatis, slitter dan laminator. Film dasar dari Toray dan Toyobo (Jepang), bersama laboratorium riset bersama dengan Institut Teknologi Harbin, menjaga mutu tetap stabil antarbatch.",
+      "Produk kami melayani industri kedirgantaraan, elektronik, telekomunikasi, material bangunan, transportasi, peralatan rumah tangga, perawatan medis, konstruksi dan infrastruktur, serta diekspor ke lebih dari 40 negara."
+    ],
+    "statsTitle": "Kekuatan Pabrik",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "Didirikan"
+      },
+      {
+        "value": "16.000 m²",
+        "label": "Basis produksi"
+      },
+      {
+        "value": "3",
+        "label": "Lini coating otomatis"
+      },
+      {
+        "value": "120 jt m²",
+        "label": "Kapasitas tahunan"
+      },
+      {
+        "value": "10 jt m²",
+        "label": "Kapasitas bulanan"
+      },
+      {
+        "value": "100K / 1K",
+        "label": "Cleanroom"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Ceritakan proyek Anda — kami akan segera merespons.",
+    "form": {
+      "name": "Nama",
+      "namePlaceholder": "Nama Anda",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Pesan",
+      "messagePlaceholder": "Jelaskan kebutuhan Anda…",
+      "submit": "Kirim Pertanyaan",
+      "success": "Terima kasih! Pertanyaan Anda telah diterima. Kami akan menghubungi Anda dalam 24 jam."
+    },
+    "info": {
+      "title": "Kontak",
+      "address": "Kantor Pusat",
+      "phone": "Telepon / WhatsApp",
+      "email": "Email"
+    },
+    "channelsTitle": "Kanal Lainnya"
+  },
+  "footer": {
+    "tagline": "Produsen film pelindung PET profesional — perlindungan permukaan yang stabil dan andal untuk industri global.",
+    "product": "Produk",
+    "company": "Perusahaan",
+    "follow": "Ikuti Kami",
+    "rights": "Hak cipta dilindungi."
+  },
+  "chat": {
+    "title": "Asisten Bisnis AI",
+    "subtitle": "Tanya tentang perusahaan, produk, layanan, atau cara memulai proyek.",
+    "placeholder": "Ketik pertanyaan Anda…",
+    "send": "Kirim",
+    "thinking": "Sedang berpikir…",
+    "quick": "Pertanyaan populer",
+    "quickItems": [
+      "Perusahaan Anda terutama bergerak di bidang apa?",
+      "Layanan apa saja yang Anda tawarkan?",
+      "Bagaimana cara berkonsultasi soal proyek?",
+      "Bagaimana cara meminta sampel?"
+    ],
+    "wizard": "Formulir Kebutuhan · Sampel/Inquiry",
+    "wizardProduct": "Jenis produk",
+    "wizardThickness": "Ketebalan (μm)",
+    "wizardWidth": "Lebar (mm)",
+    "wizardAdhesion": "Kekuatan rekat (g/in)",
+    "wizardQty": "Jumlah (gulungan / m²)",
+    "wizardGenerate": "Buat ringkasan permintaan",
+    "human": "Hubungi manusia",
+    "humanDesc": "Tidak menemukan jawaban? Tim sales kami hanya satu ketukan.",
+    "whatsapp": "WhatsApp",
+    "wechat": "WeChat",
+    "wechatScan": "Pindai untuk tambah WeChat",
+    "wechatIdLabel": "ID WeChat",
+    "offline": "Mode demo (tanpa kunci AI) — hanya jawaban dasar. Ketuk WeChat / WhatsApp untuk bicara dengan orang asli.",
+    "hint": "Ada yang bisa saya bantu?",
+    "hintClose": "Tutup",
+    "handoffTitle": "Hubungi tim penjualan",
+    "handoffDesc": "Pertanyaan ini perlu ditangani staf ahli. Silakan hubungi kami langsung — biasanya kami balas dalam satu hari kerja.",
+    "handoffWhatsapp": "WhatsApp",
+    "handoffWechat": "WeChat",
+    "handoffPhone": "Telepon",
+    "handoffEmail": "Email",
+    "wizardCountry": "Negara/Wilayah",
+    "wizardApplication": "Aplikasi/Industri",
+    "wizardProductOther": "Lainnya (tidak menemukan? tulis di sini)",
+    "wizardProductOtherPlaceholder": "Jelaskan produk / spesifikasi / kegunaan yang Anda butuhkan",
+    "wizardContactTitle": "Info kontak (agar kami bisa menindaklanjuti)",
+    "wizardContactHint": "Mohon isi setidaknya email atau telepon.",
+    "wizardContactRequired": "Mohon isi setidaknya satu cara kontak (email atau telepon).",
+    "wizardName": "Nama",
+    "wizardCompany": "Perusahaan",
+    "wizardEmail": "Email",
+    "wizardPhone": "Telepon / WhatsApp"
+  },
+  "news": {
+    "title": "Berita & Wawasan",
+    "subtitle": "Pembaruan perusahaan dan wawasan industri film pelindung.",
+    "featured": "Unggulan",
+    "latest": "Terbaru",
+    "readMore": "Baca selengkapnya",
+    "back": "Kembali ke berita",
+    "publishedOn": "Diterbitkan pada",
+    "categoryCompany": "Berita Perusahaan",
+    "categoryIndustry": "Wawasan Industri",
+    "relatedTitle": "Berita lainnya",
+    "shareTitle": "Ikuti kami",
+    "shareDesc": "Ikuti GDY di media sosial untuk pembaruan terbaru.",
+    "viewAll": "Lihat semua",
+    "homeTitle": "Berita & Wawasan",
+    "homeSubtitle": "Pembaruan terbaru dari GDY dan tren industri film pelindung.",
+    "source": "Sumber"
+  },
+  "trust": {
+    "line": "Dipercaya oleh manufaktur di 40+ negara · Kualitas bersertifikat ISO · Kirim 7 hari ke Asia Tenggara"
+  },
+  "faq": {
+    "title": "Pertanyaan Umum",
+    "subtitle": "Jawaban atas pertanyaan umum tentang film PET, kustomisasi, sampel, dan pengiriman."
+  },
+  "products": {
+    "pageTitle": "Katalog Produk",
+    "pageSubtitle": "Enam seri mencakup film pelindung PET dan PE, film poliester PET, film PVC pelindung dan susut, serta pita industri — setiap model memiliki kode GDY sehingga Anda dapat bertanya langsung dengan nomornya.",
+    "note": "Semua model dapat disesuaikan ketebalan, lebar, daya rekat dan cetakannya. Sampel gratis tersedia sebelum Anda memesan.",
+    "jumpTo": "Lompat ke",
+    "modelsCount": "model",
+    "seriesInquiry": "Tanyakan seri ini",
+    "specs": "Spesifikasi",
+    "structure": "Struktur",
+    "applications": "Aplikasi",
+    "requestSample": "Minta sampel / tanyakan",
+    "viewDetails": "Lihat Detail"
+  },
+  "productDetail": {
+    "breadcrumbProducts": "Produk",
+    "inquiryNow": "Ajukan Pertanyaan",
+    "backToSeries": "Kembali ke Seri",
+    "relatedModels": "Model Terkait"
+  },
+  "casesIndustry": {
+    "breadcrumbCases": "Aplikasi",
+    "painPointsTitle": "Masalah Umum",
+    "materialsTitle": "Panduan Pemilihan Film",
+    "recommendedTitle": "Model yang Direkomendasikan",
+    "backToCases": "Kembali ke Aplikasi",
+    "inquiryCta": "Diskusikan Aplikasi Anda"
+  },
+  "quality": {
+    "metaTitle": "Kualitas & Teknologi — Sertifikasi, Peralatan, Proses QC | Guangdayuan",
+    "metaDesc": "Sistem kualitas Guangdayuan: tersertifikasi ISO 9001 & ISO 14001, peralatan coating/slitting/laminating, proses QC 5 langkah dari bahan baku hingga pengiriman, dan R&D bersama Harbin Institute of Technology.",
+    "title": "Kualitas & Teknologi",
+    "subtitle": "Bagaimana kami mengontrol setiap roll — sertifikasi, peralatan, proses inspeksi, dan kemampuan R&D.",
+    "certsTitle": "Sertifikasi & Kualifikasi",
+    "certsIntro": "Sistem manajemen kami tersertifikasi standar internasional. Dokumen sertifikat sedang diunggah dan dapat diminta kapan saja.",
+    "certs": [
+      {
+        "name": "ISO 9001 Manajemen Mutu",
+        "desc": "Sistem manajemen mutu tersertifikasi yang mencakup alur produksi dan inspeksi.",
+        "note": "Area unggah gambar sertifikat"
+      },
+      {
+        "name": "ISO 14001 Manajemen Lingkungan",
+        "desc": "Sistem manajemen lingkungan tersertifikasi untuk manufaktur yang bertanggung jawab.",
+        "note": "Area unggah gambar sertifikat"
+      },
+      {
+        "name": "Laporan Uji Pihak Ketiga",
+        "desc": "Pengujian SGS / RoHS / REACH dapat diatur sesuai kebutuhan pesanan; laporan pengiriman sebelumnya tersedia atas permintaan.",
+        "note": "Area unggah contoh laporan"
+      }
+    ],
+    "equipTitle": "Peralatan Produksi & Inspeksi",
+    "equipIntro": "Pabrik 16.000 m² kami dilengkapi untuk coating, konversi, dan pengujian film pelindung.",
+    "equipment": [
+      {
+        "name": "Mesin Blown Film",
+        "desc": "Lini ekstrusi film PE untuk kualitas substrat yang stabil."
+      },
+      {
+        "name": "Coater Presisi",
+        "desc": "Lini coating perekat yang mengontrol berat dan keseragaman coating."
+      },
+      {
+        "name": "Slitter & Laminator",
+        "desc": "Meja potong otomatis, slitter, dan laminator untuk ukuran kustom."
+      },
+      {
+        "name": "Instrumen Pengujian",
+        "desc": "Alat uji peel strength, tensile, ketebalan, dan oven penuaan untuk verifikasi per lot."
+      }
+    ],
+    "processTitle": "Proses Kontrol Kualitas 5 Langkah",
+    "processIntro": "Setiap batch melewati rantai inspeksi yang sama sebelum dikirim.",
+    "steps": [
+      {
+        "title": "Inspeksi Bahan Masuk",
+        "desc": "Film substrat dan perekat diperiksa sesuai spesifikasi sebelum produksi."
+      },
+      {
+        "title": "Monitoring Dalam Proses",
+        "desc": "Berat coating, ketebalan, dan tampilan disampling selama produksi."
+      },
+      {
+        "title": "Pengujian Roll Jadi",
+        "desc": "Uji peel strength, tarik, elongasi, dan residu pada roll jadi."
+      },
+      {
+        "title": "Pemeriksaan Ulang Pra-Kirim",
+        "desc": "Tampilan, dimensi, dan kemasan diverifikasi ulang sebelum dimuat."
+      },
+      {
+        "title": "Ketertelusuran & Catatan",
+        "desc": "Catatan batch disimpan agar setiap pengiriman dapat ditelusuri ke bahan baku dan data uji."
+      }
+    ],
+    "rdTitle": "Kemampuan R&D",
+    "rdIntro": "Pengembangan teknologi dilakukan bersama Harbin Institute of Technology (HIT).",
+    "rdPoints": [
+      "Kemitraan R&D strategis dengan Harbin Institute of Technology",
+      "Pengembangan formulasi perekat untuk berbagai substrat dan lingkungan",
+      "Pengembangan berkelanjutan film pelindung berkinerja tinggi dan ramah lingkungan",
+      "Pengembangan kustom — tahan suhu, residu rendah, tingkat tack khusus"
+    ],
+    "ctaTitle": "Butuh Data Uji untuk Material Anda?",
+    "ctaDesc": "Beritahu kami substrat dan kondisi proses Anda — kami dapat merekomendasikan model dan menyediakan sampel atau laporan uji.",
+    "ctaButton": "Hubungi Kami"
+  }
+}

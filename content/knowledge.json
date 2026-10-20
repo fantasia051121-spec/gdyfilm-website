@@ -1,0 +1,3448 @@
+{
+  "version": 2,
+  "updatedAt": "2026-09-30",
+  "company": {
+    "en": [
+      "Shenzhen Guangdayuan Film Co., Ltd. (brand: GDY), founded in 2004, 20+ years focused on PET protective film R&D and manufacturing.",
+      "Plant: 16,000 m² with Class-100k and Class-1k cleanrooms, 3 fully automatic coating lines, annual capacity 120 million m² (monthly 10 million m²).",
+      "Certifications: ISO 9001, ISO 14001, SGS tested, RoHS and REACH compliant, recognized as a National High-Tech Enterprise.",
+      "Joint laboratory with Harbin Institute of Technology (HIT); base films sourced from Toray and Toyobo (Japan).",
+      "Exported to 40+ countries; DDP and DDU trade terms supported."
+    ],
+    "zh": [
+      "深圳市光大远薄膜有限公司（品牌缩写 GDY），2004 年成立，20+ 年专注 PET 保护膜研发制造。",
+      "工厂：16,000 ㎡，十万级 + 千级无尘车间，3 条全自动涂布线，年产能 1.2 亿㎡（月产能 1,000 万㎡）。",
+      "认证：ISO 9001、ISO 14001、SGS 检测、RoHS、REACH 合规，国家高新技术企业。",
+      "与哈尔滨工业大学（HIT）共建联合实验室；基材采用日本东丽（Toray）、东洋纺（Toyobo）。",
+      "出口 40+ 国家，支持 DDP / DDU 贸易条款。"
+    ]
+  },
+  "products": [
+    {
+      "id": "gdy-013",
+      "enabled": true,
+      "name": {
+        "en": "Single-Layer PET Protective Film (GDY-001)",
+        "zh": "单层 PET 保护膜（GDY-001）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. PET film coated with pressure-sensitive adhesive — high transparency, high strength, self-venting, slit to any width.",
+        "zh": "PET 保护膜系列。聚酯薄膜涂布压敏胶，高透高强、自动排气，可按任意宽度分条。"
+      },
+      "specs": {
+        "en": [
+          "Transparent, grey and gold PET variants available",
+          "Produced in a dust-free environment",
+          "Low, medium and high adhesion to match different substrates",
+          "Adhesion: low / medium / high"
+        ],
+        "zh": [
+          "透明 / 灰色 / 金色三种 PET 可选",
+          "无尘环境生产",
+          "按被贴物选择低 / 中 / 高粘力",
+          "粘着力: 低粘 / 中粘 / 高粘"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Glass and mirror surface protection",
+          "Plastic sheets and panels",
+          "Metal sheets during processing"
+        ],
+        "zh": [
+          "玻璃与镜面保护",
+          "塑料板材与面板",
+          "金属板材加工保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-005",
+      "enabled": true,
+      "name": {
+        "en": "PET Three-Layer Scratch-Resistant Protective Film (GDY-002)",
+        "zh": "PET 三层抗刮保护膜（GDY-002）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. A scratch-resistant layer added on top of the silicone PET base — noticeably better wear and scratch resistance.",
+        "zh": "PET 保护膜系列。在硅胶 PET 基础上增加抗刮层，耐磨与防刮性能显著提升。"
+      },
+      "specs": {
+        "en": [
+          "Three-layer build: protective layer / use layer / release liner",
+          "Six variants including matte, high-transparency and red-grid",
+          "Low, medium and high adhesion available",
+          "Adhesion: low / medium / high"
+        ],
+        "zh": [
+          "三层结构：保护层 / 使用层 / 离型层",
+          "哑光、高透、红格等六种细分品类",
+          "粘力低 / 中 / 高可选",
+          "粘着力: 低粘 / 中粘 / 高粘"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Mobile phone and tablet screens",
+          "Digital displays and touch panels",
+          "LCD modules during assembly"
+        ],
+        "zh": [
+          "手机 / 平板屏幕",
+          "数码显示屏与触控面板",
+          "LCD 模组制程保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-014",
+      "enabled": true,
+      "name": {
+        "en": "PU Adhesive PET Protective Film (GDY-003)",
+        "zh": "PU 胶 PET 保护膜（GDY-003）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Silicone-free so nothing transfers; releases air better than acrylic and peels clean even after long lamination.",
+        "zh": "PET 保护膜系列。不含硅成分、无转移；排气性优于亚克力胶，长时间贴合后仍易剥离。"
+      },
+      "specs": {
+        "en": [
+          "Adhesion stays stable over time, no residue on removal",
+          "Acid and alkali resistant with good weatherability",
+          "Can be die-cut to shape; clarity lets you inspect while applied",
+          "Adhesion: low / medium / high"
+        ],
+        "zh": [
+          "粘力随时间变化小、剥离无残胶",
+          "耐酸碱、耐候性佳",
+          "可模切成型，贴合后仍可检验外观",
+          "粘着力: 低粘 / 中粘 / 高粘"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Touch glass and ITO sensor shipment protection",
+          "Panels treated with HC / Primer / AS",
+          "Smartphones, tablets and flat panel displays"
+        ],
+        "zh": [
+          "触摸屏玻璃与 ITO Sensor 出货保护",
+          "经 HC / Primer / AS 表面处理的面板",
+          "智能手机、平板等平板显示器"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-030",
+      "enabled": true,
+      "name": {
+        "en": "PET Explosion-Proof Protective Film (GDY-004)",
+        "zh": "PET 防爆保护膜（GDY-004）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Multi-layer PET that holds glass together on impact and blocks over 99% of ultraviolet rays.",
+        "zh": "PET 保护膜系列。多层 PET 结构，受冲击时兜住玻璃碎片，并阻隔 99% 以上紫外线。"
+      },
+      "specs": {
+        "en": [
+          ">99% UV rejection slows screen ageing",
+          "High-tensile PET resists impact and shattering",
+          "Optical clarity preserved for displays",
+          "Weather-resistant acrylic installation adhesive",
+          "UV rejection: >99 %"
+        ],
+        "zh": [
+          "阻隔 99% 以上紫外线，减缓屏幕老化",
+          "高张力 PET 抗冲击防碎裂",
+          "保持光学清晰度，适用显示器件",
+          "耐候型高透亚克力安装胶",
+          "紫外线阻隔: >99 %"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Electronic screens and smart devices",
+          "Automotive side and rear windows",
+          "Building glass and public infrastructure"
+        ],
+        "zh": [
+          "电子屏幕与智能设备",
+          "汽车侧窗与后挡风玻璃",
+          "建筑玻璃与公共设施"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-026",
+      "enabled": true,
+      "name": {
+        "en": "PET Frosted (Matte) Film (GDY-005)",
+        "zh": "PET 磨砂 / 哑光保护膜（GDY-005）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Matte finish that removes glare and fingerprints while still giving scratch-resistant protection.",
+        "zh": "PET 保护膜系列。哑光表面消除眩光与指纹，同时提供抗刮保护。"
+      },
+      "specs": {
+        "en": [
+          "Anti-glare matte surface resists fingerprints",
+          "Clean removal with no adhesive residue",
+          "Reliable in hot, humid and dusty climates",
+          "Surface finish: matte / frosted"
+        ],
+        "zh": [
+          "哑光防眩且抗指纹",
+          "易贴合、剥离无残胶",
+          "适应高温高湿与多尘环境",
+          "表面处理: 哑光 / 磨砂"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Decorative and privacy glass",
+          "Electronic screens and touch panels",
+          "Consumer device housings"
+        ],
+        "zh": [
+          "装饰与遮蔽玻璃",
+          "电子屏幕与触控面板",
+          "消费电子外壳"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-silicone",
+      "enabled": true,
+      "name": {
+        "en": "Silicone PET Protective Film (GDY-006)",
+        "zh": "硅胶 PET 保护膜（GDY-006）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Residue-free removal with stable performance from −40 °C to 150 °C — the safe choice for optical surfaces.",
+        "zh": "PET 保护膜系列。无残胶剥离，-40~150 °C 性能稳定，光学表面的稳妥选择。"
+      },
+      "specs": {
+        "en": [
+          "Wide service range from −40 °C to 150 °C",
+          "High cleanliness for optical applications",
+          "Adhesion adjustable to your application",
+          "Thickness: 50–188 µm",
+          "Tack: 1–32 g",
+          "Light transmission: ≥92.3 %",
+          "Factory model codes: G2384 / G2501 / G2751 / G2106-830 / G2501-QL"
+        ],
+        "zh": [
+          "适用温度 -40~150 °C",
+          "洁净度高，适合光学用途",
+          "粘力可按用途调整",
+          "厚度: 50–188 µm",
+          "粘力: 1–32 g",
+          "透光率: ≥92.3 %",
+          "对应出厂型号: G2384 / G2501 / G2751 / G2106-830 / G2501-QL"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Phone and tablet screens",
+          "Optical lenses",
+          "Precision electronic components"
+        ],
+        "zh": [
+          "手机 / 平板屏幕",
+          "光学镜片",
+          "精密电子元器件"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-acrylic",
+      "enabled": true,
+      "name": {
+        "en": "Acrylic PET Protective Film (GDY-007)",
+        "zh": "亚克力 PET 保护膜（GDY-007）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Strong, adjustable adhesion with ≥91% light transmission — built for rough transport and processing.",
+        "zh": "PET 保护膜系列。粘着力强且可调，透光率 ≥91%，适合运输与加工环节。"
+      },
+      "specs": {
+        "en": [
+          "Adhesion adjustable from 5 to 1,500 g/in",
+          "Light transmission ≥91%",
+          "Holds through forming and transport",
+          "Thickness: 50–115 µm",
+          "Tack: 1–2000 g",
+          "Light transmission: ≥88 %",
+          "Surface finish: clear / matte / anti-scratch",
+          "Factory model codes: Y5385 / Y5508 / Y5756 / YM510R / YF550R"
+        ],
+        "zh": [
+          "粘着力 5–1500 g/in 可调",
+          "透光率 ≥91%",
+          "成型与运输过程不脱落",
+          "厚度: 50–115 µm",
+          "粘力: 1–2000 g",
+          "透光率: ≥88 %",
+          "表面处理: 光面 / 磨砂 / 防刮",
+          "对应出厂型号: Y5385 / Y5508 / Y5756 / YM510R / YF550R"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Metal sheets",
+          "Plastic parts",
+          "Glass transport protection"
+        ],
+        "zh": [
+          "金属板材",
+          "塑料件",
+          "玻璃运输保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-antistatic",
+      "enabled": true,
+      "name": {
+        "en": "Anti-Static PET Protective Film (GDY-008)",
+        "zh": "防静电 PET 保护膜（GDY-008）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Surface resistivity 10⁸–10¹¹ Ω with ESD protection lasting 12 months or longer.",
+        "zh": "PET 保护膜系列。表面电阻 10⁸–10¹¹ Ω，防静电效果可持续 12 个月以上。"
+      },
+      "specs": {
+        "en": [
+          "Surface resistivity 10⁸–10¹¹ Ω",
+          "Anti-static performance ≥12 months",
+          "Protects sensitive components from ESD damage",
+          "Thickness: 60–62 µm",
+          "Tack: 0.5–2 g",
+          "Light transmission: ≥91 %",
+          "Surface resistivity: 10⁶–10¹¹ Ω",
+          "Factory model codes: G2501-F1 / G2501-F0 / G2501-F2 / P511-F0 / P511-F1 / P511-F2"
+        ],
+        "zh": [
+          "表面电阻 10⁸–10¹¹ Ω",
+          "防静电时效 ≥12 个月",
+          "保护敏感元件免受静电损伤",
+          "厚度: 60–62 µm",
+          "粘力: 0.5–2 g",
+          "透光率: ≥91 %",
+          "表面电阻: 10⁶–10¹¹ Ω",
+          "对应出厂型号: G2501-F1 / G2501-F0 / G2501-F2 / P511-F0 / P511-F1 / P511-F2"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Electronic components",
+          "PCB / FPC",
+          "Semiconductor packaging"
+        ],
+        "zh": [
+          "电子元器件",
+          "PCB / FPC",
+          "半导体封装"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-hightemp",
+      "enabled": true,
+      "name": {
+        "en": "High-Temperature Resistant PET Protective Film (GDY-009)",
+        "zh": "耐高温 PET 保护膜（GDY-009）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Holds at 200 °C and above without lifting or adhesive transfer during spraying and plating.",
+        "zh": "PET 保护膜系列。200 °C 以上不脱落、不残胶，适用于喷涂与电镀工艺。"
+      },
+      "specs": {
+        "en": [
+          "Withstands 200 °C and above",
+          "No lifting during spraying or plating",
+          "Thickness 50–200 µm available",
+          "Temperature resistance: 150–180 °C",
+          "Thickness: 50–188 µm",
+          "Width: ≤1600 mm",
+          "Suitable processes: PCB no residue"
+        ],
+        "zh": [
+          "耐温 200 °C 以上",
+          "喷涂 / 电镀过程不脱落",
+          "厚度 50–200 µm 可选",
+          "耐温: 150–180 °C",
+          "厚度: 50–188 µm",
+          "幅宽: ≤1600 mm",
+          "适用制程: 150°C×2h、180°C×30min 贴合 PCB 无残胶"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Automotive paint masking",
+          "Plating protection",
+          "High-temperature processes"
+        ],
+        "zh": [
+          "汽车喷涂遮蔽",
+          "电镀保护",
+          "高温工艺"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-clear",
+      "enabled": true,
+      "name": {
+        "en": "High-Clarity PET Protective Film (GDY-010)",
+        "zh": "高透 PET 保护膜（GDY-010）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. ≥95% light transmission with optical-grade flatness for flawless high-gloss surfaces.",
+        "zh": "PET 保护膜系列。透光率 ≥95%，光学级平整度，适用于高光面产品。"
+      },
+      "specs": {
+        "en": [
+          "Light transmission ≥95%",
+          "Optical-grade flatness",
+          "Ideal for high-gloss finishes",
+          "Light transmission: ≥95 %",
+          "Thickness: 25–125 µm",
+          "Width: ≤1600 mm"
+        ],
+        "zh": [
+          "透光率 ≥95%",
+          "光学级平整度",
+          "适合高光面产品",
+          "透光率: ≥95 %",
+          "厚度: 25–125 µm",
+          "幅宽: ≤1600 mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Optical lenses",
+          "Touch screens",
+          "High-gloss surface products"
+        ],
+        "zh": [
+          "光学镜头",
+          "触摸屏",
+          "高光面产品"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "touch-screen-film",
+      "enabled": true,
+      "name": {
+        "en": "Touch Screen Protective Film (GDY-011)",
+        "zh": "触屏表面保护膜（GDY-011）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Ultra-low-tack film with excellent self air-release, minimal adhesion build-up over time, anti-static performance against dust, and residue-free removal.",
+        "zh": "PET 保护膜系列。超低粘保护膜，自排气性能极佳，贴合粘着力经时变化小、易剥离，静电防护有效避免吸尘，制程无残留。"
+      },
+      "specs": {
+        "en": [
+          "Excellent self air-release, bubbles rarely form during lamination",
+          "Ultra-low tack with minimal adhesion build-up, easy peeling",
+          "Good anti-static performance effectively prevents dust attraction",
+          "Weather-resistant adhesive with no residue in processing",
+          "Tack: ultra-low",
+          "Light transmission: ≥92 %",
+          "Surface resistivity: 10⁶–10¹¹ Ω",
+          "Suitable processes: process & shipment"
+        ],
+        "zh": [
+          "自排气性能极佳，贴合不易产生气泡",
+          "超低粘性，粘着力经时变化小，易剥离",
+          "良好的抗静电性能，有效避免静电吸附灰尘",
+          "胶水耐候性好，制程无残留",
+          "粘力: 超低粘",
+          "透光率: ≥92 %",
+          "表面电阻: 10⁶–10¹¹ Ω",
+          "适用制程: 触控屏制程加工与出货保护"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Touch panel process protection",
+          "Front/back shipment protection of touch panels"
+        ],
+        "zh": [
+          "各类触控屏制程加工保护",
+          "触控屏出货正背面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "cover-glass-film",
+      "enabled": true,
+      "name": {
+        "en": "Cover Glass Process Protective Film (GDY-012)",
+        "zh": "盖板·触控玻璃制程保护膜（GDY-012）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Customised for glass lens processing: supports laser engraving, screen printing and transfer, made from premium imported raw materials with high cleanliness, easy apply and peel.",
+        "zh": "PET 保护膜系列。针对玻璃镜片加工工序定制，满足镭雕、丝印、转印等工艺要求，进口原料、洁净度高、易贴易撕。"
+      },
+      "specs": {
+        "en": [
+          "Customised for glass lens processing steps",
+          "Supports laser engraving, silk-screen and transfer processes",
+          "Premium imported materials, ultra-clean, easy apply and peel",
+          "Suitable processes: laser engraving / silk-screen / transfer",
+          "Light transmission: ≥92 %"
+        ],
+        "zh": [
+          "针对玻璃镜片加工工序特点定制",
+          "满足镭雕、丝印、转印等加工工艺要求",
+          "采用进口原料，外观洁净度高、易贴易撕",
+          "适用制程: 镭雕、丝印、转印等",
+          "透光率: ≥92 %"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Glass cover lens process & shipment protection",
+          "Acrylic cover process & shipment protection",
+          "PC composite process & shipment protection"
+        ],
+        "zh": [
+          "各类玻璃盖板制程加工与出货保护",
+          "亚克力盖板制程加工与出货保护",
+          "PC 复合材料制程加工与出货保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "ito-process-film",
+      "enabled": true,
+      "name": {
+        "en": "ITO Film & Photoresist Process Protective Film (GDY-013)",
+        "zh": "ITO / 菲林制程加工保护膜（GDY-013）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Dedicated to ITO film and photoresist processes: high transmittance, low haze, high cleanliness and flatness, bubble-free lamination, residue-free peel.",
+        "zh": "PET 保护膜系列。ITO FILM、菲林制程加工专用，高透光、低雾度、高洁净度、高平整度，覆膜无气泡、剥离无残留。"
+      },
+      "specs": {
+        "en": [
+          "Customised for ITO film and photoresist process steps",
+          "High transmittance, low haze, high cleanliness and flatness",
+          "Bubble-free lamination, no delamination in processing, residue-free peel",
+          "Light transmission: high",
+          "Haze: low",
+          "Suitable processes: ITO / film"
+        ],
+        "zh": [
+          "针对 ITO FILM、菲林制程加工定制",
+          "高透光、低雾度、高洁净度、高平整度",
+          "覆膜无气泡，加工中不离型，剥离后无残留",
+          "透光率: 高透光",
+          "雾度: 低雾度",
+          "适用制程: ITO FILM、菲林制程加工专用"
+        ]
+      },
+      "applications": {
+        "en": [
+          "ITO film process protection",
+          "Photoresist process protection"
+        ],
+        "zh": [
+          "ITO FILM 制程加工保护",
+          "菲林制程加工保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "acid-alkali-proof-film",
+      "enabled": true,
+      "name": {
+        "en": "Acid & Alkali Proof Protective Film (GDY-014)",
+        "zh": "耐酸碱保护膜（GDY-014）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Specially developed acid/alkaline-proof film resists hydrochloric, hydrofluoric and sulfuric acid; no edge lifting in processing, residue-free peel after cleaning, with excellent adhesion and mechanical performance.",
+        "zh": "PET 保护膜系列。专业开发抗酸碱保护膜，耐盐酸、氢氟酸、硫酸等腐蚀，加工不翘边、清洗后剥离无残留，粘合强度与力学性能优良。"
+      },
+      "specs": {
+        "en": [
+          "Special acid/alkaline-proof formula resists HCl, HF and H₂SO₄",
+          "No edge lifting during processing, residue-free peel after cleaning",
+          "Strong adhesion to substrates with excellent mechanical performance",
+          "Good stretch and high-temperature resistance with excellent stamping performance",
+          "Suitable processes: immersion / spray",
+          "Suitable processes: OGS"
+        ],
+        "zh": [
+          "专业开发抗酸碱保护膜，耐盐酸、氢氟酸、硫酸等腐蚀",
+          "加工中不翘边，清洗后剥离无残留",
+          "对被贴物粘合强度好，力学性能优良",
+          "耐伸耐高温，冲压性优良",
+          "适用制程: 浸泡式或喷淋式化学加工",
+          "适用制程: OGS 玻璃二次强化化学制程"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Protection for immersion or spray chemical processing",
+          "OGS glass secondary strengthening chemical process protection"
+        ],
+        "zh": [
+          "产品浸泡式或喷淋式化学加工保护",
+          "OGS 制程玻璃二次强化化学制程保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "metal-cover-film",
+      "enabled": true,
+      "name": {
+        "en": "Metal Cover Process Protective Film (GDY-015)",
+        "zh": "前后盖制程保护膜（GDY-015）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Soft adhesive formula applies easily; heat resistant, flexible, with good adhesion and no migration — for metal front/back covers and rougher finished surfaces of electronic devices.",
+        "zh": "PET 保护膜系列。柔软胶水配方易贴性好，耐热、柔软、粘着性好且无迁移，适用于电子产品金属前后盖与粗糙表面加工保护。"
+      },
+      "specs": {
+        "en": [
+          "Soft adhesive formula for easy application",
+          "Heat resistant, flexible, good adhesion, no migration",
+          "Works on both smooth and textured surfaces, no curling",
+          "Temperature resistance: ≥120 °C",
+          "Surface finish: smooth / brushed / coated"
+        ],
+        "zh": [
+          "柔软胶水配方，易贴性好",
+          "良好的耐热性，性质柔软、粘着性好、无迁移",
+          "轻重贴面皆可，不易起翘",
+          "耐温: ≥120 °C",
+          "表面处理: 光滑面 / 拉丝 / 氧化 / 喷涂面"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Metal front/back cover process & shipment protection",
+          "Surface protection for brushed, anodized and other finishes",
+          "Protection for rougher surfaces of aluminum, matte steel and coated steel"
+        ],
+        "zh": [
+          "电子产品金属前后盖制程加工与出货保护",
+          "拉丝、氧化等不同表面加工方式的表面保护",
+          "铝板、磨砂钢板、喷涂钢等较粗糙表面的表面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "uv-relief-film",
+      "enabled": true,
+      "name": {
+        "en": "UV Adhesion-Relief Film (GDY-016)",
+        "zh": "UV 降粘膜（GDY-016）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Excellent die-cutting; initial adhesion above 1000g drops below 20g after UV irradiation or heating — easy peel with no residue and strong internal cohesion.",
+        "zh": "PET 保护膜系列。模切性能优良，初粘力可达 1000g 以上，经 UV 照射或加热后降至 20g 以内，剥离容易且完全无残胶，内聚力强。"
+      },
+      "specs": {
+        "en": [
+          "Excellent die-cutting performance, easy to die-cut",
+          "Initial adhesion >1000g drops below 20g after UV/heating, completely residue-free",
+          "Stable bonding, strong internal cohesion and holding power",
+          "Adhesion: ≥1000 → <20 g",
+          "Suitable processes: wafer / OGS"
+        ],
+        "zh": [
+          "模切性能优良，易于冲切",
+          "初粘力可达 1000g 以上，经 UV 或加热后降至 20g 以内，剥离完全无残胶",
+          "胶水粘接稳定，内聚力强、保持力优良",
+          "粘着力: ≥1000 → <20 g",
+          "适用制程: 晶圆加工、半导体加工、屏幕/OGS 制程、手机后盖薄膜加工"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Wafer and semiconductor process protection",
+          "Screen/OGS process protection",
+          "Mobile cover film processing and glass protector production"
+        ],
+        "zh": [
+          "晶圆加工保护、半导体加工保护",
+          "屏幕/OGS 加工制程保护",
+          "手机后盖薄膜加工、玻璃保护片制程"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "polarizer-film",
+      "enabled": true,
+      "name": {
+        "en": "Polarizer Protective Film (GDY-017)",
+        "zh": "偏光片保护膜（GDY-017）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. High cleanliness, high flatness and few fish-eyes; minimal shrinkage after roll slitting, no curling or marks, UV resistant — double-sided protection for finished polarizers.",
+        "zh": "PET 保护膜系列。高洁净度、高平整度、鱼眼少，卷材分切后收缩小，无翘曲、无印痕、耐 UV，用于偏光片出货双面保护。"
+      },
+      "specs": {
+        "en": [
+          "High cleanliness and flatness, few fish-eyes",
+          "Minimal shrinkage after roll lamination and slitting",
+          "No curling or marks, UV resistant",
+          "Suitable processes: double-sided"
+        ],
+        "zh": [
+          "高洁净度、高平整度、鱼眼少",
+          "卷材贴膜分切后收缩小",
+          "无翘曲、无印痕、耐 UV",
+          "适用制程: 偏光片出货用双面保护"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Double-sided shipment protection for finished polarizers"
+        ],
+        "zh": [
+          "偏光片出货双面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "bef-diffuser-film",
+      "enabled": true,
+      "name": {
+        "en": "BEF & Diffuser Protective Film (GDY-018)",
+        "zh": "增亮片·扩散片专用保护膜（GDY-018）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Specially developed for brightness enhancement film (BEF): high cleanliness and flatness, no fish-eyes, minimal shrinkage after slitting, no curling or marks.",
+        "zh": "PET 保护膜系列。针对增亮片（BEF）专业开发，高洁净度、高平整度、无鱼眼，卷材分切后收缩小，无翘曲、无印痕。"
+      },
+      "specs": {
+        "en": [
+          "Specially developed for brightness enhancement film (BEF)",
+          "High cleanliness and flatness, no fish-eyes",
+          "Minimal shrinkage after slitting, no curling or marks",
+          "Suitable processes: structured face"
+        ],
+        "zh": [
+          "针对增亮片（BEF）专业开发",
+          "高洁净度、高平整度、无鱼眼",
+          "卷材分切后收缩小，无翘曲、无印痕",
+          "适用制程: 增亮片、扩散片结构面专用"
+        ]
+      },
+      "applications": {
+        "en": [
+          "For BEF structured faces",
+          "For diffuser structured faces"
+        ],
+        "zh": [
+          "增亮片（BEF）结构面专用",
+          "扩散片结构面专用"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "paperwork-film",
+      "enabled": true,
+      "name": {
+        "en": "Exquisite Paperwork Protective Film (GDY-019)",
+        "zh": "高档纸制品表面保护膜（GDY-019）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Heat resistant, soft, with good adhesion and no migration; low initial tack and slight build-up on ink-jet or coated PP feel papers — easy apply and peel without residue.",
+        "zh": "PET 保护膜系列。耐热性好、性质柔软、粘着性好且无迁移，对纸制品水墨或涂布 PP 触感膜初粘低、粘力增长小，易贴易撕无残留。"
+      },
+      "specs": {
+        "en": [
+          "Heat resistant, soft, good adhesion, no migration",
+          "Low initial tack and slight build-up on ink-jet or coated PP papers",
+          "Easy apply and peel, residue-free",
+          "Suitable processes: packaging"
+        ],
+        "zh": [
+          "良好的耐热性、性质柔软、粘着性好、无迁移",
+          "无论水墨或涂布 PP 触感膜纸面，初粘低、粘力增长小",
+          "易贴易撕，剥离无残留",
+          "适用制程: 广告纸、手机纸盒、高档包装"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Surface lamination and shipment protection for advertisement papers, phone boxes and premium packaging"
+        ],
+        "zh": [
+          "各类广告纸、手机纸盒、高档包装等纸制品表面过塑和出货保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "lgp-coex-film",
+      "enabled": true,
+      "name": {
+        "en": "Light Guide Panel Co-extruded Protective Film (GDY-020)",
+        "zh": "导光板共挤保护膜（GDY-020）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Co-extruded in three layers from special functional resin in a class-10000 cleanroom; no adhesion on LGP dots or surfaces, no edge spill, clean cut without debris.",
+        "zh": "PET 保护膜系列。采用特殊功能塑料，三层共挤工艺于万级无尘车间生产，导光板点面无粘贴、边缘无溢胶，裁切无残屑。"
+      },
+      "specs": {
+        "en": [
+          "Three-layer co-extrusion of special functional resin in class-10000 cleanroom",
+          "No adhesion on LGP dots or surfaces, no edge adhesive spill",
+          "Clean cutting without debris",
+          "Suitable processes: LGP"
+        ],
+        "zh": [
+          "特殊功能塑料，三层共挤，万级无尘车间生产",
+          "导光板点面无粘贴、边缘无溢胶",
+          "裁切干净，无残屑",
+          "适用制程: 丝印、激光、压印等工艺的结构面与光面板"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Protection for LGP structural faces via silk-screen, laser or imprinting",
+          "Shipment protection for smooth LGP surfaces"
+        ],
+        "zh": [
+          "丝印、激光、压印等工艺加工的导光板结构面保护",
+          "导光板光面板出货表面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "silky-af-film",
+      "enabled": true,
+      "name": {
+        "en": "Eco Anti-Scratch Anti-Fingerprint Silky Film (GDY-021)",
+        "zh": "环保防刮防指纹触感膜（GDY-021）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Durable silky touch, velvet-smooth and delicate, excellent scratch resistance, no extra coating needed — for premium electronics packaging and decoration.",
+        "zh": "PET 保护膜系列。触感效果持久耐磨，丝绒般光滑细腻，防刮性能优异，可免喷涂硬化处理，用于高档电子产品包装美化。"
+      },
+      "specs": {
+        "en": [
+          "Durable, wear-resistant silky touch",
+          "Velvet-smooth, delicate feel",
+          "Excellent anti-scratch performance",
+          "Pre-coated hardening, ready to use",
+          "Scratch hardness: ≥1H",
+          "Abrasion resistance: durable"
+        ],
+        "zh": [
+          "触感效果持久耐磨",
+          "丝绒般光滑、细腻的触感",
+          "优异的防刮性能",
+          "可免喷涂硬化处理，方便使用",
+          "防刮度: ≥1H",
+          "耐磨性: 持久耐磨"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Premium phone packaging boxes",
+          "Electronics packaging decoration",
+          "Charger and accessory packaging"
+        ],
+        "zh": [
+          "高档手机包装盒表面",
+          "电子产品包装印刷美化",
+          "手机充电头等配件包装"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "appliance-film",
+      "enabled": true,
+      "name": {
+        "en": "Home Appliance Protective Film (GDY-022)",
+        "zh": "家电保护膜（GDY-022）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Few gel particles, good elongation and slight adhesion build-up; applies flat and peels clean, withstands punching and stamping, available in red/black/white with high-temperature resistance — for PCM/VCM coated steel and appliance panels.",
+        "zh": "PET 保护膜系列。晶点少、拉伸性好、粘性增长小，粘贴平整易贴易撕无残胶，耐冲切冲压，可选红黑白等颜色并耐受高温，用于 PCM/VCM 彩涂板等家电板材。"
+      },
+      "specs": {
+        "en": [
+          "Few gel particles, good elongation, slight adhesion build-up, flat apply, clean peel",
+          "Withstands punching, blanking and stamping processes",
+          "High-temperature resistant; red, black, white and other colours available",
+          "Colour options: red / black / white"
+        ],
+        "zh": [
+          "晶点少、拉伸性好、粘性增长小，粘贴平整、易贴易撕、无残胶",
+          "可耐多道工程制程的冲切、冲压",
+          "可耐较高温度，红色、黑色、白色等不同颜色可选",
+          "颜色选择: 红 / 黑 / 白 等可选"
+        ]
+      },
+      "applications": {
+        "en": [
+          "PCM/VCM coated steel and stainless steel processing & shipment protection",
+          "Adhesive protection for appliance processing",
+          "Low-tack packaging protection film for MLCC processes",
+          "Processing & shipment protection for other metal and plastic panels"
+        ],
+        "zh": [
+          "家电用彩涂板（PCM/VCM 板）与不锈钢板加工制程与出货保护",
+          "家电、电器加工制程胶粘保护",
+          "MLCC 制程低粘包装保护膜",
+          "其他金属、塑料板材加工与出货保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "panel-film",
+      "enabled": true,
+      "name": {
+        "en": "General Panel Protective Film (GDY-023)",
+        "zh": "板材保护膜（GDY-023）"
+      },
+      "summary": {
+        "en": "PET Protective Film Series. Good workability and easy die-cutting; weather resistant with residue-free peel; flat and clean application, slight adhesion build-up, no blocking when stack-cut — for all kinds of plastic panels.",
+        "zh": "PET 保护膜系列。加工性能好、易于冲切，耐候性好、剥离无残胶，粘贴平整洁净、粘性增长小、堆叠切割不粘连，适配各类塑料板材。"
+      },
+      "specs": {
+        "en": [
+          "Good workability, easy die-cutting",
+          "Weather resistant, residue-free peel",
+          "Flat clean application, slight adhesion build-up, no blocking on stack cutting",
+          "Suitable processes: panels",
+          "Suitable processes: transit / die-cut"
+        ],
+        "zh": [
+          "加工性能好，易于冲切",
+          "耐候性好，剥离无残胶",
+          "粘贴平整、洁净度高，粘性增长小，堆叠切割不粘连",
+          "适用制程: HLC 板、PMMA 板、PS 板、PC 板等塑料板材",
+          "适用制程: 运输保护、模切转贴排废、临时转贴固定"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Processing & shipment protection for HLC, PMMA, PS and PC panels",
+          "Surface protection during transit",
+          "Carrier film for PC/PET/diffuser die-cutting, transfer and weeding",
+          "Temporary transfer and fixing"
+        ],
+        "zh": [
+          "HLC 板、PMMA 板、PS 板、PC 板等塑料板材加工与出货保护",
+          "产品运输中的表面保护",
+          "PC 片、PET、扩散板等薄膜片材切割、转贴和排废",
+          "产品临时转贴及固定"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-001",
+      "enabled": true,
+      "name": {
+        "en": "PE Electronic Protective Film (GDY-024)",
+        "zh": "PE 电子保护膜（GDY-024）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Acrylic pressure-sensitive adhesive on PE film with an anti-slip hardening treatment — strong adsorption and bonding for LCD panels, acrylic sheets and IT electronic surfaces.",
+        "zh": "PE 保护膜系列。压克力压敏胶涂布 PE 保护膜并做防滑加硬处理，吸附性与粘结性俱佳，适用 LCD 面板、亚克力板材与 IT 电子产品表面。"
+      },
+      "specs": {
+        "en": [
+          "Anti-slip hardening treatment for a tougher wearing surface",
+          "Acrylic PSA gives excellent adsorption and bonding",
+          "Clean, residue-free removal after use",
+          "Durable through processing, transport and installation",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "经防滑加硬处理，表面更耐磨损",
+          "压克力压敏胶，吸附性与粘结性好",
+          "使用后剥离干净，无残胶",
+          "加工、运输与安装全程耐用",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "LCD panel surfaces",
+          "Acrylic sheet surfaces",
+          "Surface protection for IT and electronic products",
+          "Optoelectronic component protection",
+          "Automotive paintwork protection"
+        ],
+        "zh": [
+          "LCD 面板表面",
+          "亚克力板材表面",
+          "IT 电子产品各表面保护",
+          "光电部件保护",
+          "汽车漆面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-002",
+      "enabled": true,
+      "name": {
+        "en": "PE Black and White Profile Protection Film (GDY-025)",
+        "zh": "PE 黑白型材保护膜（GDY-025）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Purpose-formulated PE film for every surface finish — electrophoresis, anodising and powder coating — with tack from 20 to 300 g covering all profile materials.",
+        "zh": "PE 保护膜系列。针对电泳、氧化、喷涂等各类表面处理的型材配方，粘性 20–300 g 全范围覆盖所有型材材质，质量稳定。"
+      },
+      "specs": {
+        "en": [
+          "Covers electrophoretic, anodised and powder-coated profiles",
+          "Tack range 20–300 g for every profile material",
+          "Stable, consistent quality batch after batch",
+          "Protects through transport, storage, processing and installation",
+          "Colour options: black / white",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 20–300 g/25mm"
+        ],
+        "zh": [
+          "适配电泳料、氧化料与喷涂料型材",
+          "粘性 20–300 g，涵盖所有型材材质",
+          "质量稳定，批次一致",
+          "运输、储存、加工与安装全程保护",
+          "颜色: 黑色 / 白色",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 20–300 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Electrophoretic, powder-coated and polished anodised aluminium profiles",
+          "Plastic and PVC window profiles",
+          "Surface protection during transport, storage, processing and installation"
+        ],
+        "zh": [
+          "电泳料、喷涂料、氧化抛光料的铝合金型材",
+          "塑料型材与塑钢门窗型材",
+          "运输、储存、加工安装过程的表面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-006",
+      "enabled": true,
+      "name": {
+        "en": "PE Electrostatic Film (GDY-026)",
+        "zh": "PE 静电膜（GDY-026）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. A completely uncoated film — PE or PVC clinging by static charge alone, for surfaces that cannot tolerate any adhesive residue.",
+        "zh": "PE 保护膜系列。完全不涂胶，PE / PVC 靠静电本身吸附，专为无法接受任何残胶的表面设计。"
+      },
+      "specs": {
+        "en": [
+          "No adhesive coating at all — nothing to transfer",
+          "Static cling is enough for high-gloss surfaces",
+          "Thickness options of 3, 5 and 8 si (0.03 / 0.05 / 0.08 mm)",
+          "Transparent, available in PE and PVC base materials",
+          "Adhesive system: adhesive-free (static cling)",
+          "Thickness: 0.03 / 0.05 / 0.08 mm",
+          "Width: 1200 mm",
+          "Roll length: 200 m",
+          "Grade: clear, PE / PVC"
+        ],
+        "zh": [
+          "完全无胶层，不会有任何转移",
+          "静电吸附力对高亮表面已足够",
+          "厚度 3 丝 / 5 丝 / 8 丝可选",
+          "透明色，PE / PVC 材质均有",
+          "胶系: 无胶（静电吸附）",
+          "厚度: 0.03 / 0.05 / 0.08 mm",
+          "幅宽: 1200 mm",
+          "卷长: 200 m",
+          "等级: 透明，PE / PVC 材质"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Glass and lens surfaces",
+          "High-gloss plastic and acrylic surfaces",
+          "Other ultra-smooth surfaces sensitive to adhesive residue"
+        ],
+        "zh": [
+          "玻璃与镜片表面",
+          "高光塑胶面与亚克力面",
+          "其他对残胶敏感的超光滑表面"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-007",
+      "enabled": true,
+      "name": {
+        "en": "PE Mesh Protective Film (GDY-027)",
+        "zh": "PE 网状保护膜（GDY-027）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Polyethylene mesh film with cross-linked polyacrylic adhesive and special additives — 0.05 mm thick, four tack levels, standard or anti-static.",
+        "zh": "PE 保护膜系列。聚乙烯网状薄膜配交联型聚丙烯酸树脂及特种助剂，厚度 0.05 mm，四档粘性，分普通与防静电两类。"
+      },
+      "specs": {
+        "en": [
+          "Soft and conformable with a clear, colourless adhesive",
+          "Eco-friendly and non-toxic with long-lasting tack",
+          "Four tack levels from micro to high",
+          "Standard and anti-static versions in clear, red and blue",
+          "Standard thickness: 0.05 mm",
+          "Adhesion: micro / low / medium / high",
+          "Grade / type: standard / anti-static",
+          "Colour options: clear / red / blue"
+        ],
+        "zh": [
+          "质地柔软服帖，胶水无色透明",
+          "环保无毒，持粘性能好",
+          "微粘 / 低粘 / 中粘 / 高粘四档可选",
+          "普通与防静电两型，透明、红色、蓝色可选",
+          "标准厚度: 0.05 mm",
+          "粘着力: 微粘 / 低粘 / 中粘 / 高粘",
+          "类型规格: 普通型 / 防静电型",
+          "颜色: 透明 / 红色 / 蓝色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Stainless steel: mirror, frosted and colour-coated sheets plus hardware",
+          "Aluminium: sheet, coarse-grain, mill, frosted, powder-coated, electrophoretic, matte-coated and coarse-blasted profiles",
+          "Electronics and appliances: light guide plates, screens, instrument and air-conditioner surfaces, titanium panels",
+          "Plastics: acrylic, glossy PVC and ABS sheets, housings and die-cut process protection"
+        ],
+        "zh": [
+          "不锈钢板材：镜钢板、磨砂钢板、彩钢板及五金件",
+          "铝材：铝板、粗纹铝板、铝型材、磨砂铝型材、喷涂铝型材、电泳铝型材、喷涂哑光铝型材、喷粗砂型材",
+          "电子电器：导光板、电子屏幕、仪表表面、空调外壳、钛金属板",
+          "塑胶板材：有机玻璃板、PVC 光面板、ABS 光面板、塑胶外壳及模切制程保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-008",
+      "enabled": true,
+      "name": {
+        "en": "PE Anti-Static Protective Film (GDY-028)",
+        "zh": "PE 防静电保护膜（GDY-028）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Acrylic pressure-sensitive adhesive on high-clarity PE — water, weather, acid and alkali resistant with a smooth, even coating.",
+        "zh": "PE 保护膜系列。亚克力压敏胶涂布于高透 PE 薄膜，耐水、耐候、耐酸碱，胶面平整均匀。"
+      },
+      "specs": {
+        "en": [
+          "Excellent adhesion at low to mild tack",
+          "Water, weather, acid and alkali resistant",
+          "Peel strength 30–300 g/25 mm, adjustable",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "低至中粘仍具良好附着力",
+          "耐水、耐候、耐酸碱",
+          "剥离力 30–300 g/25 mm 可调",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Common and tempered glass processing or delivery",
+          "Protective die-cutting of LCD light guide plates and diffusion sheets",
+          "PC, PMMA and PET glossy panels and high-gloss injection parts"
+        ],
+        "zh": [
+          "普通玻璃与钢化玻璃加工出货",
+          "LCD 导光板与扩散片模切保护",
+          "PC / PMMA / PET 光面板材与高光注塑件"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-009",
+      "enabled": true,
+      "name": {
+        "en": "PE Milky White Film (GDY-029)",
+        "zh": "PE 乳白膜（GDY-029）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Soft PE/PVC film with an acrylic ester adhesive — applies easily, peels cleanly and resists ageing and abrasion through production, storage and shipping.",
+        "zh": "PE 保护膜系列。以特殊聚乙烯 / 聚氯乙烯薄膜为基材配丙烯酸酯压敏胶，柔软易贴易剥、无残胶，抗老化耐摩擦，守护产品在生产加工、运输贮存中的完好。"
+      },
+      "specs": {
+        "en": [
+          "Soft and pliable with good, easy-to-apply adhesion",
+          "Peels off cleanly with no adhesive residue",
+          "Ageing and abrasion resistant for long-term protection",
+          "Low, medium and high tack matched to your substrate after testing",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm"
+        ],
+        "zh": [
+          "性质柔软，粘着性能好，容易粘贴",
+          "容易剥离，剥离无残胶",
+          "抗老化、耐摩擦，可长期保护",
+          "分低粘 / 中粘 / 高粘，按被贴物测试后选用",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Stainless steel plates and aluminium alloy profiles",
+          "Stone, aluminium composite panels and aluminium ceilings",
+          "Glass curtain walls, signage, premium furniture and handicrafts",
+          "Automotive lamps, appliance housings and instruments"
+        ],
+        "zh": [
+          "不锈钢板与铝合金型材",
+          "石材、铝塑板与铝天花幕墙",
+          "玻璃幕墙、标识标牌、高档家具与工艺品",
+          "汽车灯具、家电外壳与仪器仪表"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-010",
+      "enabled": true,
+      "name": {
+        "en": "PE High Cleanliness Protective Film (GDY-030)",
+        "zh": "PE 高洁净保护膜（GDY-030）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Acrylic heat-sensitive adhesive on high-clarity PE at micro-low tack — designed for clean, sensitive surfaces.",
+        "zh": "PE 保护膜系列。亚克力热敏胶涂布于高透 PE，微低粘，专为洁净与敏感表面设计。"
+      },
+      "specs": {
+        "en": [
+          "Micro-low tack with a flat, smooth coating",
+          "Water, weather, acid and alkali resistant",
+          "Peel strength 30–300 g/25 mm, adjustable",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "微低粘，胶面平整光滑",
+          "耐水、耐候、耐酸碱",
+          "剥离力 30–300 g/25 mm 可调",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Ordinary and tempered glass processing and shipping",
+          "LCD light guide plate and diffusion sheet die cutting",
+          "PC, PMMA and PET smooth panel surfaces",
+          "High-gloss injection moulded parts"
+        ],
+        "zh": [
+          "普通玻璃与钢化玻璃加工及出货",
+          "LCD 导光板与扩散片模切保护",
+          "PC / PMMA / PET 光面面板",
+          "高光注塑件"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-011",
+      "enabled": true,
+      "name": {
+        "en": "PE Blue Protective Film (GDY-031)",
+        "zh": "PE 蓝色保护膜（GDY-031）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Self-adhesive blue PE film for plastic panels and building materials — easy to spot on the line and easy to remove.",
+        "zh": "PE 保护膜系列。蓝色自粘 PE 膜，用于塑料板材与建筑材料，产线上易识别、易剥离。"
+      },
+      "specs": {
+        "en": [
+          "Bright blue for easy visual inspection",
+          "Custom sizes supplied directly from the factory",
+          "Stable quality, suitable for long-distance shipping",
+          "Colour options: blue",
+          "Adhesion: self-adhesive"
+        ],
+        "zh": [
+          "醒目蓝色，便于产线识别",
+          "工厂直供，尺寸可定制",
+          "质量稳定，适合长途运输",
+          "颜色: 蓝色",
+          "粘着力: 自粘型"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Plastic sheets and panels",
+          "Building material surfaces",
+          "General industrial surface protection"
+        ],
+        "zh": [
+          "塑料板材与面板",
+          "建筑材料表面",
+          "通用工业表面保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-012",
+      "enabled": true,
+      "name": {
+        "en": "PE Ceramic Protective Film (GDY-032)",
+        "zh": "PE 陶瓷保护膜（GDY-032）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Built for ceramic tiles — scratch resistant, easy to peel, and stays bonded through long-distance shipping.",
+        "zh": "PE 保护膜系列。专为瓷砖设计，抗刮易撕，长途运输仓储仍保持强粘。"
+      },
+      "specs": {
+        "en": [
+          "Scratch-resistant during handling and shipping",
+          "Easy peeling without residue",
+          "Suited to hot and humid climates",
+          "Colour options: clear / milky white / blue / black-white"
+        ],
+        "zh": [
+          "搬运与运输途中防刮",
+          "易撕除不留残胶",
+          "适应高温高湿气候",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Ceramic tiles",
+          "Plastic products",
+          "Building materials"
+        ],
+        "zh": [
+          "瓷砖",
+          "塑料制品",
+          "建筑材料"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-011a",
+      "enabled": true,
+      "name": {
+        "en": "PE Construction Materials Protective Film (GDY-033)",
+        "zh": "PE 建材保护膜（GDY-033）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Strong adhesion and scratch resistance for aluminium profiles and building panels — built for wholesale buyers.",
+        "zh": "PE 保护膜系列。强粘耐刮，专为铝型材与建筑板材设计，适合批量采购。"
+      },
+      "specs": {
+        "en": [
+          "Strong adhesion on aluminium profiles",
+          "Custom peeling force and dimensions",
+          "Scratch-resistant through processing and installation",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm"
+        ],
+        "zh": [
+          "对铝型材附着力强",
+          "剥离力与尺寸可定制",
+          "加工安装全程防刮",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Aluminium profiles",
+          "Construction panels",
+          "Metal curtain wall panels"
+        ],
+        "zh": [
+          "铝合金型材",
+          "建筑板材",
+          "金属幕墙板"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-023",
+      "enabled": true,
+      "name": {
+        "en": "PE Stretch Wrap Film (Hand Grade) (GDY-034)",
+        "zh": "PE 手用缠绕膜（GDY-034）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Premium LLDPE blended with a high-grade tackifier, cast and chilled-rolled — tough, highly elastic, tear resistant, thin and waterproof, saving material, labour and time.",
+        "zh": "PE 保护膜系列。以高品质 LLDPE 为基材配优质增粘剂，经加温挤压流延、激冷辊冷却成型，韧性强、高弹性、防撕裂、厚度薄、耐寒耐热耐压、防尘防水，省料省工省时。"
+      },
+      "specs": {
+        "en": [
+          "High toughness and elasticity with tear resistance",
+          "Cold, heat, pressure, dust and water resistant",
+          "Thin gauge saves material, labour and time",
+          "Single-sided or double-sided adhesion available",
+          "Standard / specification: 450 mm x 3 kg",
+          "Colour options: clear / milky white / blue / black-white / green"
+        ],
+        "zh": [
+          "韧性强、高弹性、防撕裂",
+          "耐寒、耐热、耐压、防尘、防水",
+          "厚度薄，省材料省人工省时间",
+          "可选单面粘或双面粘",
+          "标准规格: 450 mm x 3 kg",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白 / 绿色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Papermaking, logistics and chemical raw materials",
+          "Plastic resins and building materials",
+          "Food and glass pallet wrapping"
+        ],
+        "zh": [
+          "造纸、物流、化工原料",
+          "塑料原料与建材",
+          "食品与玻璃托盘缠绕"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-032",
+      "enabled": true,
+      "name": {
+        "en": "Machine-use PE Stretch Wrap Film (GDY-035)",
+        "zh": "机用 PE 缠绕膜（GDY-035）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Made for automatic wrapping machines — consistent gauge and tension so every pallet wraps the same way.",
+        "zh": "PE 保护膜系列。专供自动缠绕机，厚度与张力一致，每一托都包得一样稳。"
+      },
+      "specs": {
+        "en": [
+          "Engineered for automatic wrapping lines",
+          "Excellent stretch, clarity and tear resistance",
+          "Reliable reel-to-reel consistency",
+          "Grade / type: machine grade"
+        ],
+        "zh": [
+          "适配自动缠绕机产线",
+          "拉伸性、透明度与抗撕裂俱佳",
+          "卷到卷一致性可靠",
+          "类型规格: 机用级"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Automated warehouse lines",
+          "Export pallet packing",
+          "Third-party logistics hubs"
+        ],
+        "zh": [
+          "自动化仓储产线",
+          "出口托盘包装",
+          "第三方物流中心"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pe-coextruded",
+      "enabled": true,
+      "name": {
+        "en": "PE Three-Layer Co-extruded Protective Film (GDY-036)",
+        "zh": "PE 三层共挤保护膜（GDY-036）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Three co-extruded layers instead of a glue coating — stable tack, no residue on peeling, and higher heat resistance than adhesive-coated PE film.",
+        "zh": "PE 保护膜系列。三层共挤成型而非涂胶，粘性稳定、剥离无残胶，耐温能力比上胶型 PE 保护膜更高。"
+      },
+      "specs": {
+        "en": [
+          "Three-layer build: inner layer / middle layer / surface layer",
+          "Stable tack with no residue after peeling",
+          "Higher heat tolerance than glue-coated PE film",
+          "Low and medium tack grades available",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "三层结构：里层 / 中间层 / 表层",
+          "粘性稳定，剥离后无残留",
+          "相对上胶型 PE 保护膜可承受更高温度",
+          "提供低粘与中粘两档粘性",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Electronic components: in-process transfer and shipment protection",
+          "Low tack: glass sheets, PC / PMMA / PET glossy panels and high-gloss injection parts",
+          "Medium tack: PC / PMMA / PVC and injection-moulded parts"
+        ],
+        "zh": [
+          "电子部件加工中转与出货保护",
+          "低粘电子类：玻璃片、PC / PMMA / PET 光面板材与高光注塑件",
+          "中粘电子类：PC / PMMA / PVC 及注塑件"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-060",
+      "enabled": true,
+      "name": {
+        "en": "PE Touch Screen Protective Film (GDY-060)",
+        "zh": "PE 触屏表面保护膜（GDY-060）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Self air-discharge PE protective film with ultra-low tack — excellent bubble discharge, stable adhesion over time, easy peeling, anti-static performance and residue-free processing.",
+        "zh": "PE 保护膜系列。自排气型 PE 保护膜：超低粘性、贴合性好，粘着力经时变化小、易剥离，防静电可有效避免静电吸附灰尘，制程无残留。"
+      },
+      "specs": {
+        "en": [
+          "Self air-discharge, bubble-free lamination",
+          "自排气性极佳，贴合不藏气泡",
+          "Tự xả khí tốt, dán không bọt khí",
+          "ระบายอากาศอัตโนมัติ ติดไม่มีฟองอากาศ",
+          "Pembuangan udara mandiri, laminasi bebas gelembung",
+          "Pembuangan udara sendiri, laminasi bebas gelembung",
+          "تفريغ هواء ذاتي وتركيب بدون فقاعات",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Ultra-low tack with minimal adhesion drift, easy peeling",
+          "超低粘性，粘着力经时变化小、易剥离",
+          "Độ dính siêu thấp, ít thay đổi theo thời gian, dễ bóc",
+          "แรงยึดต่ำพิเศษ เปลี่ยนแปลงน้อย ลอกง่าย",
+          "Daya rekat sangat rendah, stabil, mudah dikupas",
+          "Daya lekat amat rendah, stabil, mudah dikupas",
+          "لصق منخفض جداً ومستقر وسهل التقشير",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Touch panel process protection",
+          "各类触控屏制程加工保护",
+          "Bảo vệ gia công màn hình cảm ứng",
+          "ป้องกันกระบวนผลิตหน้าจอสัมผัส",
+          "Proteksi proses panel sentuh",
+          "Perlindungan proses panel sentuh",
+          "حماية عمليات تصنيع شاشات اللمس"
+        ],
+        "zh": [
+          "Front/back protection for shipped touch panels",
+          "触控屏出货正反面保护",
+          "Bảo vệ hai mặt khi xuất xưởng",
+          "ป้องกันสองด้านระหว่างจัดส่ง",
+          "Proteksi dua sisi saat pengiriman",
+          "Perlindungan dua sisi semasa penghantaran",
+          "حماية الوجهين عند الشحن"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-061",
+      "enabled": true,
+      "name": {
+        "en": "PE Cover & Touch Glass Process Protective Film (GDY-061)",
+        "zh": "PE 盖板·触控玻璃制程保护膜（GDY-061）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Custom-built for each cover-glass and touch-glass processing step — handles laser engraving, silk-screen and transfer printing, with imported material for high clarity, easy apply and easy peel.",
+        "zh": "PE 保护膜系列。专为手机盖板玻璃、触控玻璃各加工工序定制，满足镭雕、丝印、转印等工艺要求；进口原料外观洁净度高，易贴易撕。"
+      },
+      "specs": {
+        "en": [
+          "Tailored to glass strengthening, coating and other process steps",
+          "针对玻璃强化、镀膜等各制程特点定制",
+          "Tùy chỉnh theo gia công cường hóa, tráng phủ kính",
+          "ปรับแต่งตามการเสริมแรงและเคลือบผิวกระจก",
+          "Sesuai proses penguatan dan pelapisan kaca",
+          "Sesuai proses pengukuhan dan salutan kaca",
+          "مخصص لعمليات التقوية والطلاء",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Handles laser engraving, silk-screen and transfer printing",
+          "满足镭雕、丝印、转印等加工要求",
+          "Đáp ứng khắc laser, in lưới, chuyển ấn",
+          "รองรับเลเซอร์ สกรีน โอนถ่าย",
+          "Mendukung laser, sablon, transfer",
+          "Menyokong laser, skrin, transfer",
+          "يدعم الليزر والطباعة الحريرية والنقل",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Glass and acrylic cover plate processing",
+          "玻璃盖板、亚克力盖板制程加工保护",
+          "Gia công kính cover, acrylic",
+          "ผลิตกระจกปิดจอและอะคริลิก",
+          "Pemrosesan kaca dan akrilik cover",
+          "Pemprosesan kaca dan akrilik penutup",
+          "معالجة أغطية الزجاج والأكريليك"
+        ],
+        "zh": [
+          "Shipping protection for PC composite covers",
+          "PC 复合材料盖板出货保护",
+          "Bảo vệ cover PC khi xuất xưởng",
+          "ป้องกันฝาครอบ PC ระหว่างจัดส่ง",
+          "Proteksi pengiriman cover komposit PC",
+          "Perlindungan penghantaran penutup komposit PC",
+          "حماية أغطية المركبات PC عند الشحن"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-062",
+      "enabled": true,
+      "name": {
+        "en": "PE Protective Film for ITO Film & Photomask Process (GDY-062)",
+        "zh": "PE ITO·菲林制程加工保护膜（GDY-062）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Purpose-built for ITO film and photomask process steps — heat resistant with stable tack, high cleanliness and flatness, no air bubbles, no delamination during processing and residue-free peeling.",
+        "zh": "PE 保护膜系列。专为 ITO FILM 与菲林制程加工定制：耐高温、粘性稳定、高洁净、高平顺，膜面透气不生气泡，加工中不离型、剥离后无残胶。"
+      },
+      "specs": {
+        "en": [
+          "Purpose-built for ITO film and photomask processes",
+          "针对 ITO FILM、菲林制程加工定制",
+          "Thiết kế cho quy trình ITO và phim",
+          "ออกแบบสำหรับกระบวนการ ITO และฟิล์ม",
+          "Khusus untuk proses ITO film dan photomask",
+          "Khusus untuk proses ITO filem dan photomask",
+          "مخصص لعمليات ITO والأقنعة الفوتوغرافية",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Heat resistant, stable tack, high flatness",
+          "耐高温、粘性稳定、高平顺",
+          "Chịu nhiệt, dính ổn định, phẳng cao",
+          "ทนร้อน ยึดคงที่ เรียบสูง",
+          "Tahan panas, rekat stabil, rata tinggi",
+          "Tahan haba, lekat stabil, rata tinggi",
+          "مقاوم للحرارة بلصق مستقر واستواء عالٍ",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "ITO FILM process protection",
+          "ITO FILM 制程加工保护",
+          "Bảo vệ quy trình ITO FILM",
+          "ป้องกันกระบวนการ ITO FILM",
+          "Proteksi proses ITO FILM",
+          "Perlindungan proses ITO FILM",
+          "حماية عمليات أفلام ITO"
+        ],
+        "zh": [
+          "Photomask (film) process dedicated",
+          "菲林（底片）制程加工专用",
+          "Chuyên dụng cho quy trình phim",
+          "เฉพาะกระบวนการฟิล์มถ่ายภาพ",
+          "Khusus proses photomask (film)",
+          "Khusus proses filem (photomask)",
+          "مخصص لعمليات الأقنعة الفوتوغرافية"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-063",
+      "enabled": true,
+      "name": {
+        "en": "PE Acid-Alkali-Proof Protective Film (GDY-063)",
+        "zh": "PE 耐酸碱保护膜（GDY-063）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series.  professionally developed acid-alkali-resistant formula — excellent acid resistance without yellowing, no glue jumping during processing, residue-free peel after cleaning, strong bonding and mechanical performance.",
+        "zh": "PE 保护膜系列。专业开发的抗酸碱保护膜：耐酸性能好、不易发黄、抗盐酸腐蚀；加工中不跳胶、清洗后剥离无残胶；粘合强度与力学性能优良。"
+      },
+      "specs": {
+        "en": [
+          "Excellent acid resistance without yellowing",
+          "专业抗酸碱配方，耐酸不易发黄",
+          "Chịu axit tốt, ít ố vàng",
+          "ทนกรดดี ไม่เหลืองง่าย",
+          "Tahan asam baik, tidak mudah menguning",
+          "Tahan asid baik, tidak mudah menguning",
+          "مقاومة حمضية ممتازة دون اصفرار",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "No glue jumping, residue-free peel after cleaning",
+          "加工中不跳胶，清洗后剥离无残胶",
+          "Không nhảy keo, bóc sạch sau khi rửa",
+          "ไม่เยื้องกาว ลอกสะอาดหลังล้าง",
+          "Tidak melompat, kupas bersih setelah dicuci",
+          "Tidak melompat, kupas bersih selepas dicuci",
+          "لا يقفز اللاصق ويزول نظيفاً بعد الغسل",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Strengthening or chemical strengthening process protection",
+          "产品强化或化学强化加工工程保护",
+          "Bảo vệ gia công cường hóa hoặc hóa học",
+          "ป้องกันการเสริมแรงหรือเสริมแรงเคมี",
+          "Proteksi proses penguatan atau penguatan kimia",
+          "Perlindungan proses pengukuhan atau pengukuhan kimia",
+          "حماية عمليات التقوية أو التقوية الكيميائية"
+        ],
+        "zh": [
+          "OGS glass secondary strengthening process",
+          "OGS 制程玻璃二次强化制程保护",
+          "Quy trình cường hóa lần 2 kính OGS",
+          "กระบวนการเสริมแรงครั้งที่สองกระจก OGS",
+          "Proses penguatan sekunder kaca OGS",
+          "Proses pengukuhan sekunder kaca OGS",
+          "عمليات التقوية الثانوية لزجاج OGS"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-064",
+      "enabled": true,
+      "name": {
+        "en": "PE Front & Rear Cover Process Protective Film (GDY-064)",
+        "zh": "PE 前后盖制程保护膜（GDY-064）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Soft-textured adhesive formula with strong tack — heat resistant, soft hand-feel, no migration; light-tack application wipes out bubbles cleanly and suits rough, low-hardness surfaces.",
+        "zh": "PE 保护膜系列。采用质感软的胶水配方，粘贴性强；耐热性好、质感柔软、粘着无迁移；轻贴好贴合、抹泡不留痕，适合粗糙低硬度表面。"
+      },
+      "specs": {
+        "en": [
+          "Soft adhesive formula with strong tack",
+          "软质胶水配方，粘贴性强",
+          "Công thức keo mềm, bám cao",
+          "สูตรกาวนุ่ม แรงยึดดี",
+          "Formula lembut, rekat kuat",
+          "Formula lembut, lekat kuat",
+          "تركيبة ناعمة بقوة التصاق عالية",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Heat resistant, soft texture, no migration",
+          "耐热性好、质感柔软、无迁移",
+          "Chịu nhiệt, mềm, không di chuyển keo",
+          "ทนร้อน นุ่ม ไม่ย้ายกาว",
+          "Tahan panas, lembut, tanpa migrasi",
+          "Tahan haba, lembut, tanpa migrasi",
+          "مقاوم للحرارة وناعم دون هجرة",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Front/rear cover processing and shipment protection",
+          "电子产品前后盖制程加工与出货保护",
+          "Bảo vệ gia công và xuất xưởng nắp trước/sau",
+          "ป้องกันการผลิตและจัดส่งฝาหน้า-หลัง",
+          "Proteksi proses dan pengiriman tutup depan/belakang",
+          "Perlindungan proses dan penghantaran penutup hadapan/belakang",
+          "حماية تصنيع وشحن الأغطية الأمامية والخلفية"
+        ],
+        "zh": [
+          "Drawing, oxidation and other surface processes",
+          "抽丝、氧化等表面加工保护",
+          "Bảo vệ gia công kéo sợi, oxy hóa",
+          "ป้องกันการลวก ออกไซด์ และผิวอื่น",
+          "Proteksi proses drawing, oksidasi dll.",
+          "Perlindungan proses tarikan, pengoksidaan dll.",
+          "حماية عمليات السحب والأكسدة وغيرها"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-065",
+      "enabled": true,
+      "name": {
+        "en": "PE UV-Relief Adhesion Film (GDY-065)",
+        "zh": "PE UV 降粘膜（GDY-065）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Initial tack above 1000 g; after UV or heat de-tacking the peel force drops below 20 g — easy removal with completely residue-free surfaces, designed for wafer and semiconductor process protection.",
+        "zh": "PE 保护膜系列。初粘力达 1000g 以上，经 UV 或加热解粘后剥离力降至 20g 以内，剥离容易且完全无残胶，专为晶圆与半导体加工保护设计。"
+      },
+      "specs": {
+        "en": [
+          "Good processability, easy die-cutting",
+          "加工性能好，易于冲切",
+          "Gia công tốt, dễ bế",
+          "แปรรูปง่าย ไดคัทง่าย",
+          "Pemrosesan baik, mudah die-cut",
+          "Pemprosesan baik, mudah die-cut",
+          "قابلية تصنيع جيدة وسهل القطع",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours",
+          "Initial tack: ≥1000 g/25mm",
+          "Peel after UV/heat de-tacking: ≤20 g/25mm"
+        ],
+        "zh": [
+          "Initial tack above 1000 g, post-UV/heat peel below 20 g",
+          "初粘力 1000g 以上，UV/加热解粘后剥离力 ≤20g",
+          "Bám đầu >1000 g, sau UV/nhiệt bóc ≤20 g",
+          "ยึดเริ่มต้นเกิน 1000 ก. หลัง UV/ความร้อนลอก ≤20 ก.",
+          "Rekat awal >1000 g, pasca UV/panas ≤20 g",
+          "Lekat awal >1000 g, pasca UV/haba ≤20 g",
+          "التصاق ابتدائي فوق 1000 جم وبعد المعالجة دون 20 جم",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色",
+          "初粘力: ≥1000 g/25mm",
+          "UV/热解粘后剥离力: ≤20 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Wafer and semiconductor process protection",
+          "晶圆加工、半导体处理保护",
+          "Bảo vệ wafer, bán dẫn",
+          "ป้องกันเวเฟอร์และเซมิคอนดักเตอร์",
+          "Proteksi wafer dan semikonduktor",
+          "Perlindungan wafer dan semikonduktor",
+          "حماية الرقائق وأشباه الموصلات"
+        ],
+        "zh": [
+          "OGS screen processing protection",
+          "屏幕 OGS 加工制程保护",
+          "Bảo vệ gia công OGS màn hình",
+          "ป้องกันกระบวนการ OGS หน้าจอ",
+          "Proteksi proses OGS layar",
+          "Perlindungan proses OGS skrin",
+          "حماية عمليات OGS للشاشات"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-066",
+      "enabled": true,
+      "name": {
+        "en": "PE Polarizer Protective Film (GDY-066)",
+        "zh": "PE 偏光片保护膜（GDY-066）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. High cleanliness, high flatness and few fish-eyes — low shrinkage after roll lamination and die-cutting, free of excessive stains, UV resistant, for double-sided polarizer shipment protection.",
+        "zh": "PE 保护膜系列。高洁净度、高平整度、鱼眼少；卷材贴膜裁切后收缩小；无超标污瑕疵、耐 UV，用于偏光片出货双面保护。"
+      },
+      "specs": {
+        "en": [
+          "High cleanliness, flatness, few fish-eyes",
+          "高洁净度、高平整度、鱼眼少",
+          "Sạch cao, phẳng cao, ít mắt cá",
+          "สะอาดสูง เรียบสูง รอยปลาน้อย",
+          "Kebersihan tinggi, rata, sedikit mata ikan",
+          "Kebersihan tinggi, rata, sedikit mata ikan",
+          "نظافة عالية واستواء عالٍ وعيون سمك قليلة",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Low shrinkage after roll lamination and die-cutting",
+          "卷材贴膜裁切后收缩小",
+          "Co rút nhỏ sau dán cuộn và bế",
+          "หดตัวน้อยหลังแล่มและไดคัท",
+          "Penyusutan kecil setelah laminasi dan die-cut",
+          "Pengecutan kecil selepas laminasi dan die-cut",
+          "انكماش ضئيل بعد التصفيح والقطع",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "D",
+          "偏",
+          "B",
+          "ป",
+          "P",
+          "P",
+          "ح"
+        ],
+        "zh": [
+          "o",
+          "光",
+          "ả",
+          "้",
+          "r",
+          "e",
+          "م"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-067",
+      "enabled": true,
+      "name": {
+        "en": "PE Protective Film for BEF & Diffuser Sheets (GDY-067)",
+        "zh": "PE 增亮片·扩散片专用保护膜（GDY-067）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Specially developed for brightness enhancement film (BEF) — high cleanliness, high flatness, no fish-eyes; minimal shrinkage after lamination and cutting, no curling and no marks.",
+        "zh": "PE 保护膜系列。针对增光片专业开发的保护膜：高洁净度、高平整度、无鱼眼；贴膜裁切后收缩小、无翘起、无印痕。"
+      },
+      "specs": {
+        "en": [
+          "Specially developed for BEF structures",
+          "针对增光片结构面专业开发",
+          "Phát triển riêng cho bề mặt BEF",
+          "พัฒนาเฉพาะสำหรับผิวโครงสร้าง BEF",
+          "Dikembangkan khusus untuk struktur BEF",
+          "Dibangunkan khusus untuk struktur BEF",
+          "مطور خصيصاً لأسطح هياكل تعزيز السطوع",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "High cleanliness, high flatness, no fish-eyes",
+          "高洁净度、高平整度、无鱼眼",
+          "Sạch cao, phẳng cao, không mắt cá",
+          "สะอาดสูง เรียบสูง ไม่มีรอยปลา",
+          "Kebersihan dan kerataan tinggi, tanpa mata ikan",
+          "Kebersihan dan kerataan tinggi, tiada mata ikan",
+          "نظافة واستواء عاليان بدون عيون سمك",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "BEF structured-face protection",
+          "增光片（BEF）结构面保护",
+          "Bảo vệ mặt cấu trúc BEF",
+          "ป้องกันผิวโครงสร้าง BEF",
+          "Proteksi sisi terstruktur BEF",
+          "Perlindungan muka berstruktur BEF",
+          "حماية السطح الهيكلي لأفلام تعزيز السطوع"
+        ],
+        "zh": [
+          "Diffuser structured-face protection",
+          "扩散片结构面保护",
+          "Bảo vệ mặt cấu trúc tấm khuếch tán",
+          "ป้องกันผิวโครงสร้างแผ่นกระจายแสง",
+          "Proteksi sisi terstruktur diffuser",
+          "Perlindungan muka berstruktur diffuser",
+          "حماية السطح الهيكلي للألواح المشتتة"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-068",
+      "enabled": true,
+      "name": {
+        "en": "PE Protective Film for Exquisite Paperwork (GDY-068)",
+        "zh": "PE 高档纸制品表面保护膜（GDY-068）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Soft, heat-resistant and non-migrating adhesive — bonds effectively to ink-feel paper surfaces or coated PP tactile film, with high initial tack and easy, clean application and removal.",
+        "zh": "PE 保护膜系列。耐热性好、性质柔软、粘着无迁移；纸制品墨面或涂布型 PP 触感膜均能有效贴覆，初粘高、易施贴易剥离。"
+      },
+      "specs": {
+        "en": [
+          "Heat resistant, soft, non-migrating adhesive",
+          "耐热性好、性质柔软、粘着无迁移",
+          "Chịu nhiệt, mềm, không di chuyển keo",
+          "ทนร้อน นุ่ม ไม่ย้ายกาว",
+          "Tahan panas, lembut, tanpa migrasi",
+          "Tahan haba, lembut, tanpa migrasi",
+          "مقاوم للحرارة ناعم بدون هجرة",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Bonds to ink-feel paper or coated PP tactile film",
+          "墨面或涂布 PP 触感膜均能有效贴覆",
+          "Bám tốt trên mặt mực hoặc phim PP cảm giác",
+          "ยึดดีทั้งผิวหมึกและฟิล์ม PP สัมผัส",
+          "Merekat pada tinta kertas atau film PP taktil",
+          "Melekat pada dakwat kertas atau filem PP taktil",
+          "يلتصق بأسطح الحبر أو أفلام PP اللمسية",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "L",
+          "广",
+          "B",
+          "ป",
+          "P",
+          "P",
+          "ح"
+        ],
+        "zh": [
+          "a",
+          "告",
+          "ả",
+          "้",
+          "r",
+          "e",
+          "م"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-069",
+      "enabled": true,
+      "name": {
+        "en": "PE Co-extruded Protective Film for Light Guide Panel (GDY-069)",
+        "zh": "PE 导光板共挤保护膜（GDY-069）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Three-layer co-extruded functional PE produced in a class-10,000 cleanroom — cuts without residue, edges stay clean without lifting or crumbs, and peels off without residue.",
+        "zh": "PE 保护膜系列。特殊功能塑料三层共挤，万级无尘车间生产；裁切无残胶、边缘无起皮、崩边无残屑，剥离无残留。"
+      },
+      "specs": {
+        "en": [
+          "Three-layer co-extrusion, no adhesive needed",
+          "三层共挤结构，无需涂胶",
+          "Đồng đùn ba lớp, không cần keo",
+          "co-extruded สามชั้น ไม่ต้องเคลือบกาว",
+          "Ko-ekstrusi tiga lapis, tanpa perekat",
+          "Ko-ekstrusi tiga lapis, tanpa pelekat",
+          "بثق مشترك ثلاثي الطبقات دون حاجة للاصق",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Produced in class-10,000 cleanroom",
+          "万级无尘车间生产",
+          "Sản xuất trong workshop sạch cấp 10,000",
+          "ผลิตในห้องสะอาดระดับ 10,000",
+          "Produksi cleanroom kelas 10.000",
+          "Pengeluaran cleanroom kelas 10,000",
+          "إنتاج في غرفة نظافة من الفئة 10,000",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Silk-screen, laser and imprinting light guide panels",
+          "丝印、激光、压印等工艺导光板保护",
+          "Bảo vệ tấm dẫn sáng in lưới, laser, ép khuôn",
+          "ป้องกันแผ่นนำแสงสกรีน เลเซอร์ ปั๊ม",
+          "Proteksi LGP sablon, laser, cetak",
+          "Perlindungan LGP skrin, laser, cetakan",
+          "حماية ألواح توجيه الضوء بالطباعة والليزر والكبس"
+        ],
+        "zh": [
+          "Structural LGP and backlight panel shipment protection",
+          "各类结构导光板与背光板出货保护",
+          "Bảo vệ LGP và tấm背光 khi xuất xưởng",
+          "ป้องกัน LGP ทุกโครงสร้างและแผ่น backlight ระหว่างจัดส่ง",
+          "Proteksi pengiriman LGP segala struktur dan backlight",
+          "Perlindungan penghantaran LGP dan panel backlight",
+          "حماية ألواح توجيه الضوء والإضاءة الخلفية عند الشحن"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-070",
+      "enabled": true,
+      "name": {
+        "en": "PE Anti-Scratch Anti-Fingerprint Silky Film (GDY-070)",
+        "zh": "PE 环保防刮防指纹触感膜（GDY-070）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Durable silky touch with special velvet-smooth feel — excellent anti-scratch performance, suitable for pre-painting spray treatment, ideal for premium phone packaging and print finishing.",
+        "zh": "PE 保护膜系列。触感效果持久耐磨，丝绒般光滑细腻触感；防刮性能优异，可喷油前喷涂处理，用于高档手机包装与印刷美化。"
+      },
+      "specs": {
+        "en": [
+          "Durable, long-lasting silky touch",
+          "触感效果持久耐磨",
+          "Cảm giác lụa bền lâu",
+          "สัมผัสกำมะหยี่ทนทาน",
+          "Sentuhan sutra tahan lama",
+          "Sentuhan sutra tahan lama",
+          "ملمس حريري متين",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Special velvet-smooth, fine texture",
+          "特殊的丝绒光滑、细腻触感",
+          "Mịn nhung đặc biệt",
+          "เนื้อสัมผัสกำมะหยี่ละเอียดพิเศษ",
+          "Tekstur beludru halus khusus",
+          "Tekstur beludru halus khas",
+          "ملمس مخملي ناعم مميز",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Premium phone packaging boxes",
+          "高档手机包装盒膜",
+          "Hộp bao bì điện thoại cao cấp",
+          "กล่องบรรจุมือถือพรีเมียม",
+          "Kotak ponsel premium",
+          "Kotak telefon premium",
+          "علب تغليف هواتف فاخرة"
+        ],
+        "zh": [
+          "Product manual print finishing",
+          "产品手册印刷美化",
+          "Thẩm mỹ bản in catalog",
+          "ตกแต่งงานพิมพ์คู่มือ",
+          "Finishing cetak buku panduan",
+          "Kemasan cetakan buku panduan",
+          "تجميل مطبوعات الأدلة"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-071",
+      "enabled": true,
+      "name": {
+        "en": "PE Home Appliance Protective Film (GDY-071)",
+        "zh": "PE 家电保护膜（GDY-071）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Few gel points, good elongation and minimal tack growth — easy apply, residue-free peel; weatherable across high and low temperatures with multiple colour options for punching and stamping processes.",
+        "zh": "PE 保护膜系列。晶点少、拉伸性好、粘性增长小；易贴易剥离、无残胶；耐高低温、耐候性好，多色可选，适合多工位冲型冲压。"
+      },
+      "specs": {
+        "en": [
+          "Few gel points, good elongation, minimal tack growth",
+          "晶点少、拉伸性好、粘性增长小",
+          "Ít điểm gel, kéo dãn tốt, dính tăng chậm",
+          "จุดเจลน้อย ยืดดี ยึดเพิ่มช้า",
+          "Titik gel sedikit, elastis, rekat stabil",
+          "Titik gel sedikit, boleh regang, lekat stabil",
+          "نقاط هلامية قليلة واستطالة جيدة",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Easy apply, residue-free peel",
+          "易贴易剥离、无残胶",
+          "Dán dễ, bóc sạch",
+          "ติดง่าย ลอกสะอาด",
+          "Mudah ditempel, kupas bersih",
+          "Mudah ditampal, kupas bersih",
+          "سهل اللصق ويزول نظيفاً",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "PCM/VCM colour-coated steel and stainless steel processing",
+          "家电彩钢板（PCM/VCM）与不锈钢板加工出货保护",
+          "Gia công thép tấm màu PCM/VCM, inox",
+          "แปรรูปเหล็กเคลือบสี PCM/VCM และสเตนเลส",
+          "Pemrosesan lembaran berwarna PCM/VCM dan stainless",
+          "Pemprosesan keluli berwarna PCM/VCM dan keluli tahan karat",
+          "معالجة الصفائح الملونة PCM/VCM والفولاذ المقاوم للصدأ"
+        ],
+        "zh": [
+          "Appliance manufacturing process protection",
+          "家电、电器加工制程保护",
+          "Bảo vệ gia công thiết bị gia dụng",
+          "ป้องกันกระบวนผลิตเครื่องใช้ไฟฟ้า",
+          "Proteksi proses manufaktur peralatan",
+          "Perlindungan proses pembuatan peralatan",
+          "حماية عمليات تصنيع الأجهزة"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-072",
+      "enabled": true,
+      "name": {
+        "en": "PE General-Purpose Panel Protective Film (GDY-072)",
+        "zh": "PE 板材保护膜（GDY-072）"
+      },
+      "summary": {
+        "en": "PE Protective Film Series. Good processability with easy die-cutting — weatherable and residue-free peel; flat, high-cleanliness with minimal tack growth and no blocking during stacked cutting.",
+        "zh": "PE 保护膜系列。加工性能好、易于冲切；耐候性好、剥离无残胶；平整洁净、粘性增长小、堆叠切割不粘连。"
+      },
+      "specs": {
+        "en": [
+          "Good processability, easy die-cutting",
+          "加工性能好，易于冲切",
+          "Gia công tốt, dễ bế",
+          "แปรรูปง่าย ไดคัทง่าย",
+          "Pemrosesan baik, mudah die-cut",
+          "Pemprosesan baik, mudah die-cut",
+          "قابلية تصنيع جيدة وسهل القطع",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "Weatherable, residue-free peel",
+          "耐候性好，剥离无残胶",
+          "Bền thời tiết, bóc không keo dư",
+          "ทนอากาศ ลอกไม่มีคราบ",
+          "Tahan cuaca, kupas bebas residu",
+          "Tahan cuaca, kupas bebas sisa",
+          "مقاوم للعوامل الجوية ويزول نظيفاً",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "HC, PMMA, PS, PC and other plastic panel processing",
+          "HC、PMMA、PS、PC 等塑料板材加工与出货保护",
+          "Gia công tấm HC, PMMA, PS, PC",
+          "แปรรูปแผ่น HC, PMMA, PS, PC",
+          "Pemrosesan panel HC, PMMA, PS, PC",
+          "Pemprosesan panel HC, PMMA, PS, PC",
+          "معالجة ألواح HC وPMMA وPS وPC"
+        ],
+        "zh": [
+          "In-transit surface protection",
+          "产品运输表面保护",
+          "Bảo vệ bề mặt khi vận chuyển",
+          "ป้องกันผิวระหว่างขนส่ง",
+          "Proteksi permukaan saat transit",
+          "Perlindungan permukaan semasa transit",
+          "حماية الأسطح أثناء النقل"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-028",
+      "enabled": true,
+      "name": {
+        "en": "PET Printing Film (GDY-037)",
+        "zh": "PET 印刷膜（GDY-037）"
+      },
+      "summary": {
+        "en": "PET Polyester Film Series. High-performance PET base film for packaging, electronics and printing — a smooth surface for crisp results.",
+        "zh": "PET 聚酯薄膜系列。高性能 PET 基膜，适用于包装、电子与印刷，表面平整使印品更清晰。"
+      },
+      "specs": {
+        "en": [
+          "Excellent ink adhesion and print definition",
+          "Durable PET base film",
+          "Cut and sized to your specification",
+          "Typical use: printing / packaging / electronics"
+        ],
+        "zh": [
+          "油墨附着力好，印刷清晰",
+          "PET 基膜耐用",
+          "可按规格分切",
+          "典型用途: 印刷 / 包装 / 电子"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Package printing",
+          "Electronic labels and nameplates",
+          "Printed panels"
+        ],
+        "zh": [
+          "包装印刷",
+          "电子标签与铭牌",
+          "印刷面板"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-027",
+      "enabled": true,
+      "name": {
+        "en": "PET Drawing / Insulation Film (GDY-038)",
+        "zh": "PET 拉伸 / 绝缘膜（GDY-038）"
+      },
+      "summary": {
+        "en": "PET Polyester Film Series. Drawn PET with strong dimensional stability and electrical insulation for demanding environments.",
+        "zh": "PET 聚酯薄膜系列。拉伸成型 PET，尺寸稳定性与电气绝缘性能优异，适应苛刻环境。"
+      },
+      "specs": {
+        "en": [
+          "Good electrical insulation properties",
+          "Heat, moisture and abrasion resistant",
+          "Removable without residue",
+          "Typical use: drawing / insulation"
+        ],
+        "zh": [
+          "电气绝缘性能良好",
+          "耐热、耐湿、耐磨损",
+          "可剥离无残胶",
+          "典型用途: 拉伸成型 / 绝缘"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Electronics insulation",
+          "Glass surface protection",
+          "Construction applications"
+        ],
+        "zh": [
+          "电子绝缘",
+          "玻璃表面保护",
+          "建筑应用"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-hardened",
+      "enabled": true,
+      "name": {
+        "en": "Hardened PET Thin Film (GDY-039)",
+        "zh": "加硬 PET 薄膜（GDY-039）"
+      },
+      "summary": {
+        "en": "PET Polyester Film Series. Standard gauges of 0.1 / 0.125 / 0.188 / 0.25 mm — high tensile formability with reliable injection-moulding adhesion.",
+        "zh": "PET 聚酯薄膜系列。标准厚度 0.1 / 0.125 / 0.188 / 0.25 mm，高拉伸成型性且注塑接着可靠。"
+      },
+      "specs": {
+        "en": [
+          "Outstanding printing performance and injection-moulding adhesion",
+          "Superior chemical resistance",
+          "Exceptional impact resistance",
+          "High-tensile formability with no whitening effect",
+          "Can be formed by high pressure or thermal pressing",
+          "Scratch hardness: 1H–9H",
+          "Abrasion resistance: >2000–5000",
+          "Light transmission: ≥90 %",
+          "Factory model codes: GM3121 / GZ3113 / GF9811 / GF9813 / 125BE60A / 188BE60A"
+        ],
+        "zh": [
+          "印刷性与注塑接着性优异",
+          "耐化学性优越",
+          "抗冲击性能出色",
+          "高拉伸成型不白化",
+          "可高压或热压成型",
+          "防刮度: 1H–9H",
+          "耐磨性: 2000–5000 次以上",
+          "透光率: ≥90 %",
+          "对应出厂型号: GM3121 / GZ3113 / GF9811 / GF9813 / 125BE60A / 188BE60A"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Automotive control parts and interior trim",
+          "Touch panels, lenses and display covers",
+          "Mobile phone lenses and casings",
+          "Various dashboards",
+          "Printed panels and nameplates",
+          "Membrane switches",
+          "LED display nameplates",
+          "IMD / IML for washing machine, refrigerator, air conditioner and rice cooker panels"
+        ],
+        "zh": [
+          "汽车控制部件与内饰件",
+          "触控面板、镜片与显示外罩",
+          "手机镜片与外壳",
+          "各类仪表板",
+          "印刷面板与铭牌",
+          "薄膜开关",
+          "LED 显示屏牌",
+          "洗衣机 / 冰箱 / 空调 / 电饭煲面板的 IMD / IML 装饰"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-matte",
+      "enabled": true,
+      "name": {
+        "en": "Matte PET Film (GDY-040)",
+        "zh": "哑光 PET 薄膜（GDY-040）"
+      },
+      "summary": {
+        "en": "PET Polyester Film Series. Excellent high-tensile formability and printability with impact resistance — for surfaces that must not glare.",
+        "zh": "PET 聚酯薄膜系列。高拉伸成型性与印刷适应性俱佳且抗冲击，适用于不允许反光的表面。"
+      },
+      "specs": {
+        "en": [
+          "Excellent high tensile formability",
+          "Outstanding printing performance",
+          "Exceptional impact resistance",
+          "High-pressure and thermal forming capable",
+          "Surface finish: light sand / coarse sand",
+          "Scratch hardness: 1H–3H",
+          "Factory model codes: GM3121 / GM3126 / YM5106"
+        ],
+        "zh": [
+          "高拉伸成型性出色",
+          "印刷性能优异",
+          "抗冲击性能出色",
+          "可高压或热压成型",
+          "表面处理: 轻砂 / 粗砂",
+          "防刮度: 1H–3H",
+          "对应出厂型号: GM3121 / GM3126 / YM5106"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Automotive interior trim",
+          "Display covers",
+          "Membrane switches",
+          "Printed panels"
+        ],
+        "zh": [
+          "汽车内饰件",
+          "显示外罩",
+          "薄膜开关",
+          "印刷面板"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "pet-optical",
+      "enabled": true,
+      "name": {
+        "en": "Optical Grade PET Film (GDY-041)",
+        "zh": "光学级 PET 薄膜（GDY-041）"
+      },
+      "summary": {
+        "en": "PET Polyester Film Series. Optical-grade clarity where every percent of transmittance matters and visual defects cannot be tolerated.",
+        "zh": "PET 聚酯薄膜系列。光学级清晰度，透光率每一点都要算数，容不得视觉缺陷。"
+      },
+      "specs": {
+        "en": [
+          "Optical-grade flatness and clarity",
+          "High light transmission",
+          "Consistent batch-to-batch quality",
+          "Grade: optical",
+          "Haze: low"
+        ],
+        "zh": [
+          "光学级平整度与清晰度",
+          "透光率高",
+          "批次质量稳定",
+          "等级: 光学级",
+          "雾度: 低雾度"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Display optical stacks",
+          "Lamination base films",
+          "Precision optical components"
+        ],
+        "zh": [
+          "显示器光学叠层",
+          "贴合基膜",
+          "精密光学元件"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "oca-optical-adhesive",
+      "enabled": true,
+      "name": {
+        "en": "OCA Optical Adhesive (Korean JV Process) (GDY-042)",
+        "zh": "OCA 光学胶（韩国合资工艺）（GDY-042）"
+      },
+      "summary": {
+        "en": "Optical Functional Film Series. Over 93% light transmittance, Haze<0.9%, refractive index close to other optical components (1.47), double-sided PET release liners, fewer bubble/foreign-particle defects, humidity and UV resistant.",
+        "zh": "光学功能膜系列。高光透过率达 93% 以上，Haze<0.9%，折射率与其他光学元件相近（1.47），两面 PET 离型膜覆膜，减少气泡异物不良，抗湿抗晒。"
+      },
+      "specs": {
+        "en": [
+          "Over 93% transmittance with Haze below 0.9%",
+          "Refractive index (1.47) close to other optical components, UV resistant",
+          "Double-sided PET release liners reduce bubble and foreign-particle defects",
+          "Humidity and sunlight resistant with stable optical performance over time",
+          "Thickness: 50 / 75 / 100 / 125 / 175 µm",
+          "Adhesion: 9–18 N/25mm",
+          "Haze: 0.07–0.18 %",
+          "Light transmission: ≥93 %",
+          "Refractive index: 1.47",
+          "Factory model codes: A / B / C / D / E"
+        ],
+        "zh": [
+          "高光透过率达 93% 以上，Haze<0.9%",
+          "折射率与其他光学元件相近（1.47），耐紫外线",
+          "两面 PET 离型膜覆膜，减少气泡、异物不良",
+          "抗湿抗晒，光学性能经时稳定",
+          "厚度: 50 / 75 / 100 / 125 / 175 µm",
+          "粘着力: 9–18 N/25mm",
+          "雾度: 0.07–0.18 %",
+          "透光率: ≥93 %",
+          "折射率: 1.47",
+          "对应出厂型号: 中硕系列 A–E 五档，其他厚度与离型膜厚度可按客户要求供货"
+        ]
+      },
+      "applications": {
+        "en": [
+          "LCD, TSP and PDP screen lamination",
+          "Glass lens and PC composite bonding",
+          "Touch panel gap filling"
+        ],
+        "zh": [
+          "LCD、TSP、PDP 等屏贴合",
+          "玻璃镜片、PC 复合板贴合",
+          "触摸屏缝隙填充（Gap Filling）"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "light-shielding-film",
+      "enabled": true,
+      "name": {
+        "en": "Light Shielding Film (GDY-043)",
+        "zh": "遮光膜（GDY-043）"
+      },
+      "summary": {
+        "en": "Optical Functional Film Series. Ultra-black with excellent shielding; blocks light, heat and UV with firm adhesion — for smart-screen bezels and LCD panel/backlight module light-blocking.",
+        "zh": "光学功能膜系列。超黑型，遮光效果佳，兼具遮光、隔热、防紫外线等效果，贴合牢固，用于智能屏边框与 LCD 面板/背光模组遮光固定。"
+      },
+      "specs": {
+        "en": [
+          "Ultra-black with excellent light shielding",
+          "Blocks light, heat and UV",
+          "Firm, secure adhesion",
+          "Surface finish: ultra-black"
+        ],
+        "zh": [
+          "超黑型，遮光效果好",
+          "兼具遮光、隔热、防紫外线等效果",
+          "贴合牢固",
+          "表面处理: 超黑型"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Light-blocking for smart-screen bezels, LCD panels and backlight modules",
+          "Fixing of LCD panels, frames and backlight modules"
+        ],
+        "zh": [
+          "智能屏边框、LCD 面板与背光模组等电子仪表部件遮光应用",
+          "LCD 面板和框体、背光模组的固定"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "optical-blast-proof-film",
+      "enabled": true,
+      "name": {
+        "en": "Optical Blast-Proof Film (GDY-044)",
+        "zh": "光学防爆膜（GDY-044）"
+      },
+      "summary": {
+        "en": "Optical Functional Film Series. Optical-grade OCA version made in class-1000 cleanrooms; layered inner blast-proof film and outer scratch-resistant layer (2H/3H) with excellent anti-shatter peel performance; keeps strong adhesion at 100°C — for F2.5D and 3D glass internal blast-proofing.",
+        "zh": "光学功能膜系列。光学级 OCA 版，千级洁净车间生产；分层内防爆膜与外防爆抗刮层（2H/3H 防炸裂剥离性能好），100°C 下仍保证良好贴合，用于 F2.5D、3D 玻璃内防爆。"
+      },
+      "specs": {
+        "en": [
+          "Optical-grade OCA version, produced in class-1000 cleanrooms",
+          "Layered inner blast-proof film plus outer 2H/3H scratch layer for shatter and edge-peel resistance",
+          "Heat-resistant adhesive keeps strong bonding even at 100°C",
+          "Scratch hardness: 2H / 3H",
+          "Temperature resistance: 100 °C",
+          "Suitable processes: F2.5D / 3D"
+        ],
+        "zh": [
+          "光学级 OCA 版，千级洁净车间生产",
+          "分层内防爆膜与外防爆抗刮（2H、3H）防炸裂、防边缘剥离性能好",
+          "胶水耐热性好，在 100°C 下能保证良好的贴合能力",
+          "防刮度: 2H / 3H",
+          "耐温: 100 °C",
+          "适用制程: F2.5D、3D 玻璃内防爆、外防爆保护"
+        ]
+      },
+      "applications": {
+        "en": [
+          "F2.5D and 3D glass internal/external blast-proofing",
+          "Touch screen blast protection"
+        ],
+        "zh": [
+          "F2.5D、3D 玻璃内防爆、外防爆保护",
+          "触摸屏防爆保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-003",
+      "enabled": true,
+      "name": {
+        "en": "PVC Heat Shrink Film (GDY-045)",
+        "zh": "PVC 热收缩膜（GDY-045）"
+      },
+      "summary": {
+        "en": "PVC Protective & Shrink Film Series. Shrinks tight under heat for distinctive, tamper-evident packaging — tube film, L-fold, bags and more.",
+        "zh": "PVC 保护膜与收缩膜系列。受热紧贴产品成型，外观醒目且具防拆效果——可做筒膜、L 型对折膜、各种袋型。"
+      },
+      "specs": {
+        "en": [
+          "Can be made into tube film, L-fold film, cylindrical and flat bags",
+          "Excellent clarity and shrink conformity",
+          "Dustproof and anti-blemish protection",
+          "Film form: tube / L-fold / flat bag",
+          "Printability: 1–2 colours (packaging grade)"
+        ],
+        "zh": [
+          "可制成筒膜、L 型对折膜、圆柱袋与平袋",
+          "透明度好、贴合紧密",
+          "防尘防污",
+          "成型方式: 筒膜 / L 型对折膜 / 平袋",
+          "可印刷性: 1–2 色（包装级）"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Wine, food and sporting goods packaging",
+          "Electronic appliances and daily necessities",
+          "Building materials, ceramics and glass",
+          "Pharmaceuticals, stationery and toys"
+        ],
+        "zh": [
+          "酒类、食品、体育用品包装",
+          "电子电器与日用品",
+          "建材、陶瓷、玻璃",
+          "药品、文具、玩具"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-004",
+      "enabled": true,
+      "name": {
+        "en": "PVC Lithium Battery Heat Shrink Film (GDY-046)",
+        "zh": "PVC 锂电池热收缩膜（GDY-046）"
+      },
+      "summary": {
+        "en": "PVC Protective & Shrink Film Series. High transparency with freely adjustable shrinkage for lithium battery cells — quality conforms to GB12023-89.",
+        "zh": "PVC 保护膜与收缩膜系列。透明度高，收缩率可按电芯要求自由调整，质量符合 GB12023-89 标准。"
+      },
+      "specs": {
+        "en": [
+          "Shrinkage rate adjustable to your requirement",
+          "High strength with large elastic tension",
+          "Single-sided adhesive option reduces winding noise",
+          "Quality conforms to GB12023-89",
+          "Standard / specification: GB12023-89",
+          "Film form: tube / L-fold / bag"
+        ],
+        "zh": [
+          "收缩率可按需求自由调整",
+          "强度高、弹性张力大",
+          "可单面带胶，降低收卷拉伸噪音",
+          "质量符合 GB12023-89 标准",
+          "标准规格: GB12023-89",
+          "成型方式: 筒膜 / L 型对折膜 / 袋型"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Lithium battery cell sleeving",
+          "Tube and L-fold film converting",
+          "Cylindrical and flat bag production"
+        ],
+        "zh": [
+          "锂电池电芯套管",
+          "筒膜与 L 型对折膜加工",
+          "圆筒袋与平袋制作"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-019",
+      "enabled": true,
+      "name": {
+        "en": "PVC Profile Protection Film (GDY-047)",
+        "zh": "PVC 型材保护膜（GDY-047）"
+      },
+      "summary": {
+        "en": "PVC Protective & Shrink Film Series. PVC-specific polyacrylic adhesive on a PVC substrate — flexible, stable and kind to aluminium surfaces.",
+        "zh": "PVC 保护膜与收缩膜系列。PVC 专用聚丙烯酸酯压敏胶涂布于 PVC 基材，柔软服帖稳定，不伤铝材表面。"
+      },
+      "specs": {
+        "en": [
+          "Flexible with good, stable adhesion",
+          "Easy to apply and remove",
+          "No adverse effect on the protected surface",
+          "Width: 15–2100 mm",
+          "Roll length: 200–500 m",
+          "Thickness: 0.09–0.20 mm",
+          "Peel strength: 30–300 g/25mm"
+        ],
+        "zh": [
+          "柔软服帖、粘着力稳定",
+          "易贴合易剥离",
+          "对被保护表面无不良影响",
+          "幅宽: 15–2100 mm",
+          "卷长: 200–500 m",
+          "厚度: 0.09–0.20 mm",
+          "剥离力: 30–300 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Aluminium material surface protection",
+          "Aluminium composite panels",
+          "Stainless steel plates during transport and installation"
+        ],
+        "zh": [
+          "铝材表面保护",
+          "铝塑复合板",
+          "不锈钢板运输与安装保护"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-015",
+      "enabled": true,
+      "name": {
+        "en": "PVC Sandblasting Protective Film (GDY-048)",
+        "zh": "PVC 喷砂保护膜（GDY-048）"
+      },
+      "summary": {
+        "en": "PVC Protective & Shrink Film Series. Stands up to silicon-carbide blasting at 6–8 kg without piercing, then peels away leaving nothing behind.",
+        "zh": "PVC 保护膜与收缩膜系列。可承受 6–8 kg 碳化硅喷砂冲击不击穿，撕除后不留任何残胶。"
+      },
+      "specs": {
+        "en": [
+          "No adhesive residue after blasting",
+          "Tough enough to resist blasting impact",
+          "Oil-based and water-based versions with release liner",
+          "Water-based adhesive is non-toxic and eco-compliant",
+          "Blast resistance: 6–8 kg SiC blasting"
+        ],
+        "zh": [
+          "喷砂后无残胶",
+          "韧性足以抵抗喷砂冲击",
+          "油性与水性带离型纸两种规格",
+          "水性胶带无毒，符合环保要求",
+          "抗喷砂强度: 6–8 kg 碳化硅喷砂"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Artistic glass sandblast carving",
+          "Marble and tile engraving",
+          "Tombstone engraving"
+        ],
+        "zh": [
+          "艺术玻璃喷砂雕刻",
+          "大理石与瓷砖雕刻",
+          "墓碑雕刻"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-017",
+      "enabled": true,
+      "name": {
+        "en": "PVC Wire Wrapping Film (GDY-049)",
+        "zh": "PVC 线束缠绕膜（GDY-049）"
+      },
+      "summary": {
+        "en": "PVC Protective & Shrink Film Series. Ultra-thin self-adhesive PVC that cuts collective packaging cost by over 30% compared with boxes.",
+        "zh": "PVC 保护膜与收缩膜系列。超薄自粘 PVC 缠绕膜，相比用纸箱打包可节省 30% 以上成本。"
+      },
+      "specs": {
+        "en": [
+          "Ultra-thin, strong and tough with high tack",
+          "Self-adhesive and low-temperature resistant",
+          "Reduces bulk packaging cost by more than 30%",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm"
+        ],
+        "zh": [
+          "超薄强韧、初粘高",
+          "自粘且耐低温",
+          "散货集装成本降低 30% 以上",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Wire and cable bundling",
+          "Electronic components and hardware",
+          "Ceramic tiles, wallpaper and paper rolls",
+          "Chemicals, pharmaceuticals and food collective packaging"
+        ],
+        "zh": [
+          "电线电缆捆扎",
+          "电子元器件与五金件",
+          "瓷砖、壁纸、纸卷",
+          "化工、药品、食品集装包装"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-018",
+      "enabled": true,
+      "name": {
+        "en": "POF Shrink Film (GDY-050)",
+        "zh": "POF 环保收缩膜（GDY-050）"
+      },
+      "summary": {
+        "en": "PVC Protective & Shrink Film Series. POF with high shrinkage and smooth cut edges — printable, tough and tolerant to around 150 °C.",
+        "zh": "PVC 保护膜与收缩膜系列。POF 环保收缩膜，收缩率高、切边光滑，可印刷，耐温约 150 °C。"
+      },
+      "specs": {
+        "en": [
+          "Strong tensile strength and high shrinkage rate",
+          "Tear resistant, dust and moisture proof",
+          "Good transparency with smooth cutting edges",
+          "Printable; temperature tolerance around 150 °C",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm",
+          "Temperature resistance: ≈150 °C"
+        ],
+        "zh": [
+          "拉伸强度大、收缩率高",
+          "抗撕裂、防尘防潮",
+          "透明度好、切边光滑",
+          "可印刷，耐温约 150 °C",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm",
+          "耐温: ≈150 °C"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Food and beverage multipacks",
+          "Cosmetics and daily necessities",
+          "Printed products and hardware"
+        ],
+        "zh": [
+          "食品饮料集合包装",
+          "化妆品与日用品",
+          "印刷品与五金制品"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gold-finger-tape",
+      "enabled": true,
+      "name": {
+        "en": "Gold Finger (Polyimide) Tape (GDY-051)",
+        "zh": "金手指胶带（聚酰亚胺胶带）（GDY-051）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Polyimide tape that survives high temperatures in PCB wave soldering and precision masking.",
+        "zh": "工业胶带与包装耗材系列。聚酰亚胺胶带，可在 PCB 波峰焊与高温精密遮蔽中稳定工作。"
+      },
+      "specs": {
+        "en": [
+          "Excellent high-temperature resistance",
+          "Removes cleanly after heat exposure",
+          "Ideal for PCB gold finger protection",
+          "Temperature resistance: 150–200 °C",
+          "Thickness: 0.055–0.08 mm"
+        ],
+        "zh": [
+          "耐高温性能优异",
+          "受热后仍可干净撕除",
+          "适合 PCB 金手指保护",
+          "耐温: 150–200 °C",
+          "厚度: 0.055–0.08 mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "PCB gold finger masking",
+          "Wave soldering and reflow protection",
+          "Transformer and coil insulation"
+        ],
+        "zh": [
+          "PCB 金手指遮蔽",
+          "波峰焊与回流焊保护",
+          "变压器与线圈绝缘"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-020",
+      "enabled": true,
+      "name": {
+        "en": "BOPP Sealing Tape (GDY-052)",
+        "zh": "BOPP 封箱胶带（GDY-052）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Thin yet strong carton sealing tape — low cost per metre without giving up holding power.",
+        "zh": "工业胶带与包装耗材系列。薄而强韧的封箱胶带，每米成本低但拉力不打折。"
+      },
+      "specs": {
+        "en": [
+          "Thin gauge with a good performance-to-price ratio",
+          "Non-toxic, odourless and safe",
+          "High resistance to buffeting with good retraction rate",
+          "Puncture and tear resistant",
+          "Thickness: 45–55 µm",
+          "Roll length: 50 / 100 / 150 / 200 / 500 m",
+          "Width: ≥10 (common 60/48/45/40/30) mm"
+        ],
+        "zh": [
+          "厚度薄、性价比高",
+          "无毒无味，使用安全",
+          "抗冲击力好、回缩率佳",
+          "抗穿刺抗撕裂",
+          "厚度: 45–55 µm",
+          "卷长: 50 / 100 / 150 / 200 / 500 m",
+          "幅宽: ≥10（常用 60/48/45/40/30） mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Carton sealing for export shipping",
+          "Gift wrapping and general packaging",
+          "Printed tape for brand promotion"
+        ],
+        "zh": [
+          "出口运输纸箱封箱",
+          "礼品包装与通用包装",
+          "印字胶带助力品牌推广"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-021",
+      "enabled": true,
+      "name": {
+        "en": "Warning Tape (GDY-053)",
+        "zh": "警示语胶带（GDY-053）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Red or blue print on a white background — a low-cost way to make handling instructions impossible to miss.",
+        "zh": "工业胶带与包装耗材系列。白底红字或蓝字印刷，让搬运注意事项无法被忽视。"
+      },
+      "specs": {
+        "en": [
+          "Standard: red text on white, blue text on white",
+          "Custom printed text available",
+          "Up to four printable colours",
+          "Colour options: clear / milky white / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "常规：白底红字 / 白底蓝字",
+          "可按客户要求定制印字",
+          "最多可印刷四色",
+          "颜色: 透明 / 乳白 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Express and logistics packaging",
+          "Fragile and handle-with-care marking",
+          "Warehouse carton identification"
+        ],
+        "zh": [
+          "快递与物流包装",
+          "易碎品与小心轻放标识",
+          "仓库纸箱识别"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-022",
+      "enabled": true,
+      "name": {
+        "en": "Beige / Colour Sealing Tape (GDY-054)",
+        "zh": "米黄 / 彩色封箱胶带（GDY-054）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Colour sealing tape with good transparency, cut to your exact width and length.",
+        "zh": "工业胶带与包装耗材系列。彩色封箱胶带，透明度好，可按指定宽度长度精确分切。"
+      },
+      "specs": {
+        "en": [
+          "Colour options: transparent, off-white, blue, black and white",
+          "Customised colours to your sample",
+          "Up to four printed colours",
+          "Colour options: clear / beige / blue / black-white",
+          "Printability: up to 4 colours"
+        ],
+        "zh": [
+          "颜色：透明、米白、蓝色、黑白可选",
+          "可按来样定制颜色",
+          "最多可印刷四色",
+          "颜色: 透明 / 米色 / 蓝色 / 黑白",
+          "可印刷性: 最多 4 色"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Carton sealing with colour coding",
+          "Retail and warehouse packaging",
+          "Branded printed sealing"
+        ],
+        "zh": [
+          "纸箱封箱与颜色管理",
+          "零售与仓储包装",
+          "品牌印字封箱"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-025",
+      "enabled": true,
+      "name": {
+        "en": "PVC Floor Marking Tape (GDY-055)",
+        "zh": "PVC 地板标识胶带（GDY-055）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. PVC film with rubber pressure-sensitive adhesive — tough enough for foot traffic, yet peels without residue.",
+        "zh": "工业胶带与包装耗材系列。PVC 薄膜配橡胶型压敏胶，耐得住人流踩踏，撕除仍不留残胶。"
+      },
+      "specs": {
+        "en": [
+          "Strong adhesion with wear resistance",
+          "Corrosion and acid-alkali resistant",
+          "No residue on removal",
+          "Standard length 20 m with customisable width",
+          "Roll length: 20 m",
+          "Colour options: yellow-black / red-white / green-white / pure yellow / pure red / pure green"
+        ],
+        "zh": [
+          "粘着力强、耐磨损",
+          "防腐耐酸碱",
+          "撕除无残胶",
+          "常规长度 20 m，宽度可定制",
+          "卷长: 20 m",
+          "颜色: 黄黑 / 红白 / 绿白 / 纯黄 / 纯红 / 纯绿"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Floor and wall area demarcation",
+          "Caution signs and decorative labelling",
+          "Anti-static zone and ESD-sensitive product marking"
+        ],
+        "zh": [
+          "地面与墙面区域划分",
+          "警示标识与装饰标贴",
+          "防静电区与静电敏感产品标识"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "gdy-024",
+      "enabled": true,
+      "name": {
+        "en": "Positioning Paper (GDY-056)",
+        "zh": "定位纸（GDY-056）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Kraft paper carrier with natural latex adhesive — holds decals and labels exactly where you place them.",
+        "zh": "工业胶带与包装耗材系列。牛皮纸基材配天然乳胶压敏胶，让贴纸标签精准定位不移位。"
+      },
+      "specs": {
+        "en": [
+          "Imported kraft paper base with natural latex adhesive",
+          "Low, medium and high tack options",
+          "Excellent aging resistance with no loss of adhesion",
+          "Width: 150–2100 mm",
+          "Roll length: 200–1000 m",
+          "Thickness: 0.02–0.20 mm",
+          "Peel strength: 30–300 g/25mm"
+        ],
+        "zh": [
+          "进口牛皮纸基材，天然乳胶压敏胶",
+          "低 / 中 / 高三档粘性",
+          "耐老化性能优异，粘性不衰减",
+          "幅宽: 150–2100 mm",
+          "卷长: 200–1000 m",
+          "厚度: 0.02–0.20 mm",
+          "剥离力: 30–300 g/25mm"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Die-cut decal transfer",
+          "Label positioning",
+          "Precision sticker application"
+        ],
+        "zh": [
+          "模切贴纸转贴",
+          "标签定位",
+          "精密贴纸贴合"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "battery-create-tape",
+      "enabled": true,
+      "name": {
+        "en": "Battery Termination Tape (GDY-057)",
+        "zh": "终止胶带（锂电池）（GDY-057）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Acrylic adhesive, thin 21µm design with good die-cutting; low peel force and high cohesion, excellent initial tack and abrasion resistance, dimensionally stable with outstanding insulation resistance.",
+        "zh": "工业胶带与包装耗材系列。亚克力胶粘剂、21µm 薄型设计，模切性能好；低剥离力、高内聚力，初粘与耐摩擦力佳，尺寸稳定挺度好，绝缘电阻性能优良。"
+      },
+      "specs": {
+        "en": [
+          "Acrylic adhesive, thin 21µm design, good die-cutting",
+          "Low peel force, high cohesion, excellent initial tack and abrasion resistance",
+          "Dimensionally stable, stiff without curling, excellent mechanical performance",
+          "Outstanding insulation resistance",
+          "Thickness: 21 µm",
+          "Suitable processes: insulation"
+        ],
+        "zh": [
+          "亚克力胶粘剂，21µm 薄型设计，模切性能好",
+          "低剥离力、高内聚力，初粘力佳、耐摩擦力佳",
+          "尺寸稳定性好、挺度佳不易卷曲，力学性能优良",
+          "绝缘电阻性能优良",
+          "厚度: 21 µm",
+          "适用制程: 锂离子电池终止胶带"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Lithium-ion battery termination",
+          "Insulation wrapping of copper and aluminum foils"
+        ],
+        "zh": [
+          "锂离子电池终止胶带",
+          "铜箔与铝箔绝缘包覆"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "battery-high-temp-tape",
+      "enabled": true,
+      "name": {
+        "en": "Battery High-Temperature Tape (GDY-058)",
+        "zh": "电池高温胶带（GDY-058）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Heat resistant for surface protection during processing or storage at 150–200°C; good mechanical performance, abrasion and scratch resistant, easy residue-free peel after heating.",
+        "zh": "工业胶带与包装耗材系列。耐高温，适合 150–200°C 条件下加工或储存的表面保护；机械性能好、耐磨耐刮，高温后易剥离无残胶。"
+      },
+      "specs": {
+        "en": [
+          "Withstands 150–200°C processing or storage",
+          "Good mechanical performance, abrasion and scratch resistant",
+          "Easy residue-free peel after high temperature",
+          "Temperature resistance: 150–200 °C"
+        ],
+        "zh": [
+          "耐高温，适合 150–200°C 条件下加工或储存的表面保护",
+          "良好机械性能，耐磨、耐刮",
+          "高温后易剥离无残胶",
+          "耐温: 150–200 °C"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Li-ion cell wrapping, tab protection and edge sealing",
+          "Protection and fixing for processes or shipment above 150°C"
+        ],
+        "zh": [
+          "锂电池电芯包膜和极耳保护、拆边封口等",
+          "材料需要 150°C 以上制程或出货的保护与固定"
+        ]
+      },
+      "pricing": []
+    },
+    {
+      "id": "softpack-battery-film",
+      "enabled": true,
+      "name": {
+        "en": "Soft-Pack Battery Process Protective Film (GDY-059)",
+        "zh": "软包电池制程保护膜（GDY-059）"
+      },
+      "summary": {
+        "en": "Industrial Tape & Packaging Consumables series. Strong initial adhesion; after high-temperature/high-pressure lamination it peels off easily with no residue, does not stick to barcodes or affect subsequent silk-screen printing — surface protection for aluminum-plastic film in automatic soft-pack Li-ion production.",
+        "zh": "工业胶带与包装耗材系列。初粘力高，高温高压工序后易剥离、无残胶、不粘条码、不影响后工序丝印，用于软包锂离子电池全自动生产中铝塑膜表面保护。"
+      },
+      "specs": {
+        "en": [
+          "Very strong initial adhesion",
+          "After high-temperature/high-pressure steps peels off easily without residue, barcode-safe and silk-print friendly",
+          "Suitable processes: aluminum-plastic film"
+        ],
+        "zh": [
+          "初粘力高",
+          "高温高压工序后易剥离，无残胶、不粘条码，不影响后工序丝印",
+          "适用制程: 软包锂离子电池全自动生产中铝塑膜表面保护"
+        ]
+      },
+      "applications": {
+        "en": [
+          "Aluminum-plastic film surface protection in automatic soft-pack Li-ion battery production"
+        ],
+        "zh": [
+          "各类软包锂离子电池全自动生产中铝塑膜表面保护"
+        ]
+      },
+      "pricing": []
+    }
+  ],
+  "policies": {
+    "en": {
+      "moq": "Standard specifications start from 500 m². Fully customized parameters (adhesion, width, printing) typically require 2,000-5,000 m² depending on coating width.",
+      "leadTime": "Standard products are delivered within 7 days to major Southeast Asian ports (Vietnam, Thailand, Indonesia, Malaysia, Philippines). Custom formulations usually take 2-4 weeks including lab validation.",
+      "samples": "Free sample program for standard products, so you can test residue, adhesion and clarity before ordering. Request samples via WhatsApp or WeChat.",
+      "tradeTerms": "EXW / FOB Shenzhen / CIF / DDP / DDU supported.",
+      "payment": ""
+    },
+    "zh": {
+      "moq": "常规规格 500 m² 起；全定制参数（粘着力、幅宽、印刷）通常 2,000–5,000 m²，取决于涂布幅宽。",
+      "leadTime": "常规产品 7 天内送达东南亚主要港口（越南、泰国、印尼、马来、菲律宾）；定制配方通常 2–4 周（含实验室验证）。",
+      "samples": "常规产品提供免费样品，可在下单前测试残胶、粘着力与透明度。可通过 WhatsApp 或微信索取样品。",
+      "tradeTerms": "支持 EXW / FOB 深圳 / CIF / DDP / DDU。",
+      "payment": ""
+    }
+  },
+  "customCapabilities": {
+    "en": [
+      "Thickness 25-300 µm; width up to 1,600 mm; adhesion adjustable 1-1,500 g/in; roll length per customer requirement.",
+      "Optional functions: anti-static, UV-resistant, high-temperature resistant, flame-retardant.",
+      "OEM / ODM, sample-based customization, and free sample testing before mass production.",
+      "Standard project workflow: provide specifications → free sample testing → formal quotation → mass production."
+    ],
+    "zh": [
+      "厚度 25-300 μm；幅宽最大 1,600 mm；粘着力 1-1500 g/in 可调；卷长按客户要求。",
+      "可选功能：防静电、抗 UV、耐高温、阻燃。",
+      "支持 OEM / ODM、来样定制，批量生产前提供免费样品测试。",
+      "标准项目流程：提供规格 → 免费样品测试 → 正式报价 → 批量生产。"
+    ]
+  }
+}

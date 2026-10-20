@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "title": "GDY — Nhà sản xuất màng bảo vệ chuyên nghiệp | Giải pháp bảo vệ bề mặt PET",
+    "description": "Công ty TNHH Màng Thâm Quyến Quang Đại Viễn (GDY) — hơn 20 năm sản xuất màng bảo vệ PET và PE, màng polyester PET, màng PVC bảo vệ và co nhiệt, cùng băng keo công nghiệp. 72 mẫu đang sản xuất thuộc sáu dòng sản phẩm, đạt chứng nhận ISO 9001 và ISO 14001, xuất khẩu sang hơn 40 quốc gia."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Về chúng tôi",
+    "services": "Sản phẩm",
+    "cases": "Ứng dụng",
+    "contact": "Liên hệ",
+    "news": "Tin tức",
+    "language": "Ngôn ngữ",
+    "faq": "Câu hỏi",
+    "quality": "Chất lượng"
+  },
+  "hero": {
+    "badge": "Từ 2004 · Nhà máy 16.000 m² · Chứng nhận ISO 9001 / 14001",
+    "title": "Giải pháp bảo vệ bề mặt ổn định, đáng tin cậy",
+    "titleHighlight": "cho mọi ngành công nghiệp",
+    "subtitle": "GDY sản xuất màng bảo vệ PET và PE, màng polyester PET, màng PVC bảo vệ và co nhiệt cùng băng keo công nghiệp — 72 mẫu đang sản xuất trong sáu dòng sản phẩm, thông số tùy chỉnh hoàn toàn và giao hàng nhanh trên khắp Đông Nam Á.",
+    "ctaPrimary": "Liên hệ",
+    "ctaSecondary": "Xem sản phẩm",
+    "stats": {
+      "years": "Năm kinh nghiệm",
+      "factory": "m² cơ sở sản xuất",
+      "countries": "Quốc gia xuất khẩu",
+      "models": "Mã sản phẩm"
+    }
+  },
+  "services": {
+    "title": "Sáu dòng sản phẩm",
+    "subtitle": "Màng bảo vệ PET và PE, màng polyester PET, màng PVC bảo vệ và co nhiệt cùng băng keo công nghiệp — 40 mã đang sản xuất, mọi thông số đều tùy chỉnh theo quy trình của bạn.",
+    "modelsBadge": "mã",
+    "viewSeries": "Xem dòng sản phẩm"
+  },
+  "advantages": {
+    "title": "Vì sao chọn GDY",
+    "subtitle": "20 năm tập trung vào màng bảo vệ PET — từ R&D đến dây chuyền sản xuất của bạn.",
+    "items": [
+      {
+        "title": "Năng lực sản xuất quy mô lớn",
+        "desc": "Nhà máy 16.000 m² với máy thổi màng, máy phủ keo, bàn cắt tự động, máy xả và máy cán màng — đáp ứng đơn hàng số lượng lớn."
+      },
+      {
+        "title": "Sáu dòng sản phẩm phủ nhiều ngành",
+        "desc": "PET, PE, màng polyester, PVC và băng keo công nghiệp phục vụ điện tử, hàng không vũ trụ, y tế, vật liệu xây dựng, giao thông, gia dụng và hạ tầng."
+      },
+      {
+        "title": "Nghiên cứu hợp tác với Đại học Công nghiệp Cáp Nhĩ Tân",
+        "desc": "Hợp tác chiến lược với HIT thúc đẩy phát triển màng bảo vệ hiệu suất cao, thân thiện môi trường và giữ vững vị thế công nghệ."
+      },
+      {
+        "title": "Chứng nhận ISO 9001 và ISO 14001",
+        "desc": "Hệ thống quản lý chất lượng và môi trường được khách hàng và bên thứ ba đánh giá, đảm bảo độ bền ổn định và tuân thủ môi trường cho khách hàng toàn cầu."
+      },
+      {
+        "title": "Giải pháp tái chế thân thiện môi trường",
+        "desc": "Tập trung vào màng có thể tái chế và ít tác động môi trường, giúp bạn đạt cả mục tiêu hiệu suất lẫn yêu cầu phát triển bền vững."
+      },
+      {
+        "title": "Giao hàng nhanh và dịch vụ phản hồi kịp thời",
+        "desc": "Dây chuyền tối ưu, công suất có thể mở rộng — sản phẩm tiêu chuẩn đến các cảng lớn Đông Nam Á trong vòng 7 ngày, có giải pháp tùy chỉnh cho dự án gấp."
+      }
+    ],
+    "certsTitle": "Chứng nhận & Tuân thủ",
+    "certs": [
+      "ISO 9001",
+      "ISO 14001",
+      "SGS kiểm định",
+      "RoHS",
+      "REACH",
+      "Doanh nghiệp công nghệ cao quốc gia"
+    ]
+  },
+  "cases": {
+    "title": "Các ngành chúng tôi phục vụ",
+    "subtitle": "Giải pháp bảo vệ bề mặt cho sáu lĩnh vực chính.",
+    "viewAll": "Xem tất cả sản phẩm",
+    "items": [
+      {
+        "title": "Điện tử & Điện tử tiêu dùng",
+        "desc": "Bảo vệ màn hình và linh kiện cho điện thoại, máy tính bảng, laptop và màn hình hiển thị.",
+        "sector": "Điện tử"
+      },
+      {
+        "title": "Thiết bị gia dụng",
+        "desc": "Bảo vệ tấmpanel và vỏ cho tủ lạnh, điều hòa, máy giặt và thiết bị nhà bếp.",
+        "sector": "Gia dụng"
+      },
+      {
+        "title": "Vật liệu xây dựng",
+        "desc": "Bảo vệ bề mặt profile nhôm, inox, kính và đá.",
+        "sector": "Xây dựng"
+      },
+      {
+        "title": "Ô tô",
+        "desc": "Màng bảo vệ nội ngoại thất, che chắn sơn và bảo vệ táp-lô.",
+        "sector": "Ô tô"
+      },
+      {
+        "title": "Năng lượng mới",
+        "desc": "Bảo vệ tấm pin mặt trời, module pin lithium và linh kiện xe điện.",
+        "sector": "Năng lượng mới"
+      },
+      {
+        "title": "Kim khí & Nội thất",
+        "desc": "Tấm kim loại, profile nhựa, biển hiệu và bảo vệ bề mặt nội thất.",
+        "sector": "Kim khí"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Sẵn sàng bảo vệ sản phẩm của bạn?",
+    "subtitle": "Gửi yêu cầu của bạn — mẫu miễn phí và giải pháp phù hợp trong vòng 24 giờ.",
+    "button": "Liên hệ đội ngũ chúng tôi"
+  },
+  "about": {
+    "title": "Về GDY",
+    "subtitle": "Nhà sản xuất chuyên nghiệp trong ngành màng bảo vệ",
+    "lead": "Công ty TNHH Màng Thâm Quyến Quang Đại Viễn — hơn 20 năm tập trung nghiên cứu, phát triển và sản xuất các dòng vật liệu mới là màng bảo vệ, mang đến giải pháp bảo vệ bề mặt ổn định cho khách hàng toàn cầu.",
+    "missionTitle": "Sứ mệnh",
+    "missionText": "Mang đến cho khách hàng giải pháp bảo vệ bề mặt ổn định, đáng tin cậy — đúng màng, đúng độ dính, giao đúng hẹn.",
+    "visionTitle": "Tầm nhìn",
+    "visionText": "Trở thành đối tác màng bảo vệ đáng tin cậy nhất cho các nhà sản xuất điện tử, ô tô và năng lượng mới trên khắp châu Á và thế giới.",
+    "paragraphs": [
+      "Thành lập năm 2004, GDY sở hữu cơ sở sản xuất 16.000 m² với phòng sạch cấp 100.000 và 1.000 cùng ba dây chuyền phủ keo tự động — công suất 120 triệu m² mỗi năm.",
+      "Trang thiết bị gồm máy thổi màng, máy phủ keo, bàn cắt tự động, máy xả và máy cán màng. Màng nền nhập từ Toray và Toyobo (Nhật Bản), cùng phòng thí nghiệm nghiên cứu chung với HIT, giúp chất lượng ổn định giữa các lô.",
+      "Sản phẩm của chúng tôi phục vụ các ngành hàng không vũ trụ, điện tử, viễn thông, vật liệu xây dựng, giao thông, gia dụng, y tế, xây dựng và hạ tầng, được xuất khẩu sang hơn 40 quốc gia."
+    ],
+    "statsTitle": "Năng lực nhà máy",
+    "stats": [
+      {
+        "value": "2004",
+        "label": "Thành lập"
+      },
+      {
+        "value": "16.000 m²",
+        "label": "Cơ sở sản xuất"
+      },
+      {
+        "value": "3",
+        "label": "Dây chuyền phủ tự động"
+      },
+      {
+        "value": "120 triệu m²",
+        "label": "Công suất năm"
+      },
+      {
+        "value": "10 triệu m²",
+        "label": "Công suất tháng"
+      },
+      {
+        "value": "100K / 1K",
+        "label": "Phòng sạch"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Liên hệ chúng tôi",
+    "subtitle": "Hãy cho chúng tôi biết về dự án của bạn — chúng tôi sẽ phản hồi sớm.",
+    "form": {
+      "name": "Họ tên",
+      "namePlaceholder": "Tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "message": "Nội dung",
+      "messagePlaceholder": "Mô tả yêu cầu của bạn…",
+      "submit": "Gửi yêu cầu",
+      "success": "Cảm ơn! Yêu cầu của bạn đã được ghi nhận. Chúng tôi sẽ liên hệ trong vòng 24 giờ."
+    },
+    "info": {
+      "title": "Thông tin liên hệ",
+      "address": "Trụ sở",
+      "phone": "Điện thoại / WhatsApp",
+      "email": "Email"
+    },
+    "channelsTitle": "Kênh khác"
+  },
+  "footer": {
+    "tagline": "Nhà sản xuất màng bảo vệ PET chuyên nghiệp — bảo vệ bề mặt ổn định, đáng tin cậy cho các ngành toàn cầu.",
+    "product": "Sản phẩm",
+    "company": "Công ty",
+    "follow": "Theo dõi chúng tôi",
+    "rights": "Mọi quyền được bảo lưu."
+  },
+  "chat": {
+    "title": "Trợ lý Kinh doanh AI",
+    "subtitle": "Hỏi về công ty, sản phẩm, dịch vụ hoặc cách bắt đầu một dự án.",
+    "placeholder": "Nhập câu hỏi của bạn…",
+    "send": "Gửi",
+    "thinking": "Đang suy nghĩ…",
+    "quick": "Câu hỏi phổ biến",
+    "quickItems": [
+      "Công ty bạn chủ yếu làm gì?",
+      "Bạn có những dịch vụ nào?",
+      "Tôi muốn tư vấn một dự án thì làm sao?",
+      "Làm sao để yêu cầu mẫu?"
+    ],
+    "wizard": "Biểu mẫu nhu cầu · Mẫu/tư vấn",
+    "wizardProduct": "Loại sản phẩm",
+    "wizardThickness": "Độ dày (μm)",
+    "wizardWidth": "Khổ rộng (mm)",
+    "wizardAdhesion": "Lực dính (g/in)",
+    "wizardQty": "Số lượng (cuộn / m²)",
+    "wizardGenerate": "Tạo tóm tắt yêu cầu",
+    "human": "Gặp nhân viên",
+    "humanDesc": "Không tìm thấy câu trả lời? Đội sales của chúng tôi chỉ một chạm.",
+    "whatsapp": "WhatsApp",
+    "wechat": "WeChat",
+    "wechatScan": "Quét để thêm WeChat",
+    "wechatIdLabel": "ID WeChat",
+    "offline": "Chế độ demo (chưa cài đặt khóa AI) — chỉ trả lời cơ bản. Nhấn WeChat / WhatsApp để gặp người thật.",
+    "hint": "Tôi có thể giúp gì cho bạn?",
+    "hintClose": "Đóng",
+    "handoffTitle": "Gặp đội ngũ kinh doanh",
+    "handoffDesc": "Câu hỏi này cần nhân viên chuyên trách xử lý. Hãy liên hệ trực tiếp — chúng tôi thường phản hồi trong một ngày làm việc.",
+    "handoffWhatsapp": "WhatsApp",
+    "handoffWechat": "WeChat",
+    "handoffPhone": "Gọi điện",
+    "handoffEmail": "Email",
+    "wizardCountry": "Quốc gia/Khu vực",
+    "wizardApplication": "Ứng dụng/Ngành",
+    "wizardProductOther": "Khác (không thấy? hãy mô tả)",
+    "wizardProductOtherPlaceholder": "Mô tả sản phẩm / thông số / mục đích bạn cần",
+    "wizardContactTitle": "Thông tin liên hệ (để chúng tôi hỗ trợ sau)",
+    "wizardContactHint": "Vui lòng để lại ít nhất email hoặc điện thoại.",
+    "wizardContactRequired": "Vui lòng để lại ít nhất một cách liên hệ (email hoặc điện thoại).",
+    "wizardName": "Họ tên",
+    "wizardCompany": "Công ty",
+    "wizardEmail": "Email",
+    "wizardPhone": "Điện thoại / WhatsApp"
+  },
+  "news": {
+    "title": "Tin tức & Tin chuyên ngành",
+    "subtitle": "Cập nhật công ty và thông tin ngành màng bảo vệ.",
+    "featured": "Nổi bật",
+    "latest": "Mới nhất",
+    "readMore": "Đọc thêm",
+    "back": "Quay lại tin tức",
+    "publishedOn": "Đăng ngày",
+    "categoryCompany": "Tin công ty",
+    "categoryIndustry": "Tin ngành",
+    "relatedTitle": "Tin khác",
+    "shareTitle": "Theo dõi GDY",
+    "shareDesc": "Theo dõi GDY trên mạng xã hội để cập nhật mới nhất.",
+    "viewAll": "Xem tất cả",
+    "homeTitle": "Tin tức & Chuyên sâu",
+    "homeSubtitle": "Cập nhật mới nhất từ GDY và xu hướng ngành màng bảo vệ.",
+    "source": "Nguồn"
+  },
+  "trust": {
+    "line": "Tin cậy bởi nhà sản xuất tại 40+ quốc gia · Chất lượng đạt chứng nhận ISO · Giao hàng 7 ngày đến Đông Nam Á"
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Giải đáp các thắc mắc phổ biến về màng PET, tùy chỉnh, mẫu và giao hàng."
+  },
+  "products": {
+    "pageTitle": "Danh mục sản phẩm",
+    "pageSubtitle": "Sáu dòng sản phẩm gồm màng bảo vệ PET và PE, màng polyester PET, màng PVC bảo vệ và co nhiệt, cùng băng keo công nghiệp — mỗi mã đều có mã GDY riêng để bạn trao đổi nhanh theo số hiệu.",
+    "note": "Mọi mã sản phẩm đều có thể tùy chỉnh độ dày, khổ rộng, lực bám và in ấn; có thể xin mẫu miễn phí trước khi đặt hàng.",
+    "jumpTo": "Chuyển đến",
+    "modelsCount": "mã",
+    "seriesInquiry": "Tư vấn dòng sản phẩm này",
+    "specs": "Thông số kỹ thuật",
+    "structure": "Cấu trúc",
+    "applications": "Ứng dụng",
+    "requestSample": "Yêu cầu mẫu / tư vấn",
+    "viewDetails": "Xem chi tiết"
+  },
+  "productDetail": {
+    "breadcrumbProducts": "Sản phẩm",
+    "inquiryNow": "Gửi yêu cầu ngay",
+    "backToSeries": "Quay lại dòng sản phẩm",
+    "relatedModels": "Model liên quan"
+  },
+  "casesIndustry": {
+    "breadcrumbCases": "Ứng dụng",
+    "painPointsTitle": "Vấn đề thường gặp",
+    "materialsTitle": "Hướng dẫn chọn màng",
+    "recommendedTitle": "Model đề xuất",
+    "backToCases": "Quay lại Ứng dụng",
+    "inquiryCta": "Trao đổi về ứng dụng của bạn"
+  },
+  "quality": {
+    "metaTitle": "Chất lượng & Công nghệ — Chứng nhận, Thiết bị, Quy trình QC | Guangdayuan",
+    "metaDesc": "Hệ thống chất lượng Guangdayuan: đạt chứng nhận ISO 9001 & ISO 14001, thiết bị tráng phủ/cắt/cán, quy trình QC 5 bước từ nguyên liệu đến giao hàng, hợp tác R&D với Đại học Công nghiệp Cáp Nhĩ Tân.",
+    "title": "Chất lượng & Công nghệ",
+    "subtitle": "Cách chúng tôi kiểm soát từng cuộn màng — chứng nhận, thiết bị, quy trình kiểm tra và năng lực R&D.",
+    "certsTitle": "Chứng nhận & Năng lực",
+    "certsIntro": "Hệ thống quản lý của chúng tôi đã đạt chứng nhận tiêu chuẩn quốc tế. Giấy chứng nhận đang được cập nhật và có thể cung cấp theo yêu cầu.",
+    "certs": [
+      {
+        "name": "ISO 9001 Quản lý chất lượng",
+        "desc": "Hệ thống quản lý chất lượng được chứng nhận bao phủ quy trình sản xuất và kiểm tra.",
+        "note": "Khu vực tải ảnh chứng chỉ"
+      },
+      {
+        "name": "ISO 14001 Quản lý môi trường",
+        "desc": "Hệ thống quản lý môi trường được chứng nhận cho sản xuất có trách nhiệm.",
+        "note": "Khu vực tải ảnh chứng chỉ"
+      },
+      {
+        "name": "Báo cáo kiểm nghiệm bên thứ ba",
+        "desc": "Có thể sắp xếp kiểm nghiệm SGS / RoHS / REACH theo yêu cầu đơn hàng; báo cáo các lô trước có sẵn theo yêu cầu.",
+        "note": "Khu vực tải mẫu báo cáo"
+      }
+    ],
+    "equipTitle": "Thiết bị sản xuất & kiểm tra",
+    "equipIntro": "Nhà máy 16.000 m² được trang bị đầy đủ cho tráng phủ, gia công và kiểm tra màng bảo vệ.",
+    "equipment": [
+      {
+        "name": "Máy thổi màng",
+        "desc": "Dây chuyền đùn màng PE đảm bảo chất lượng nền ổn định."
+      },
+      {
+        "name": "Máy tráng phủ chính xác",
+        "desc": "Dây chuyền tráng keo kiểm soát lượng tráng và độ đồng đều."
+      },
+      {
+        "name": "Máy cắt & cán",
+        "desc": "Bàn cắt tự động, máy chia cuộn và cán màng theo kích thước tùy chỉnh."
+      },
+      {
+        "name": "Thiết bị kiểm nghiệm",
+        "desc": "Máy đo lực bóc, máy kéo, thước đo độ dày và tủ lão hóa để kiểm tra từng lô."
+      }
+    ],
+    "processTitle": "Quy trình kiểm soát chất lượng 5 bước",
+    "processIntro": "Mọi lô hàng đều đi qua cùng một chuỗi kiểm tra trước khi giao.",
+    "steps": [
+      {
+        "title": "Kiểm tra nguyên liệu đầu vào",
+        "desc": "Màng nền và keo được kiểm tra theo thông số trước khi đưa vào sản xuất."
+      },
+      {
+        "title": "Giám sát trong sản xuất",
+        "desc": "Lấy mẫu kiểm tra lượng tráng, độ dày và ngoại quan trong quá trình chạy máy."
+      },
+      {
+        "title": "Kiểm tra cuộn thành phẩm",
+        "desc": "Kiểm tra lực bóc, độ bền kéo, độ giãn và keo dư trên cuộn thành phẩm."
+      },
+      {
+        "title": "Kiểm tra lại trước giao hàng",
+        "desc": "Xác nhận lại ngoại quan, kích thước và đóng gói trước khi xếp xe."
+      },
+      {
+        "title": "Truy xuất & lưu hồ sơ",
+        "desc": "Lưu hồ sơ lô để mọi lô hàng đều truy xuất được nguyên liệu và dữ liệu kiểm tra."
+      }
+    ],
+    "rdTitle": "Năng lực R&D",
+    "rdIntro": "Phát triển công nghệ cùng Đại học Công nghiệp Cáp Nhĩ Tân (HIT).",
+    "rdPoints": [
+      "Hợp tác R&D chiến lược với Đại học Công nghiệp Cáp Nhĩ Tân",
+      "Phát triển công thức keo cho các loại nền và môi trường khác nhau",
+      "Nghiên cứu liên tục màng bảo vệ hiệu năng cao, thân thiện môi trường",
+      "Phát triển tùy chỉnh — chịu nhiệt, ít keo dư, độ dính đặc biệt"
+    ],
+    "ctaTitle": "Cần dữ liệu kiểm nghiệm cho vật liệu của bạn?",
+    "ctaDesc": "Cho chúng tôi biết loại nền và điều kiện công nghệ — chúng tôi sẽ đề xuất model và cung cấp mẫu hoặc báo cáo kiểm nghiệm.",
+    "ctaButton": "Liên hệ"
+  }
+}

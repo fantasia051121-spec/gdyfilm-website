@@ -13,6 +13,7 @@ import {
   Mail,
 } from "lucide-react";
 import { site } from "@/lib/site";
+import { trackLead } from "@/lib/gtag";
 
 type Msg = { role: "user" | "assistant"; content: string };
 
@@ -152,6 +153,27 @@ export default function ChatWidget({ productOptions = [] }: { productOptions?: s
     ];
     setShowWizard(false);
     send("[询盘登记] " + lines.join("  |  "));
+
+    // 同时把询盘落库（走 /api/lead），避免只停留在聊天记录里
+    trackLead("wizard", { language: locale, source: "chat_wizard" });
+    fetch("/api/lead", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        name: wiz.contactName,
+        email: wiz.contactEmail,
+        company: wiz.contactCompany,
+        phone: wiz.contactPhone,
+        product: productText,
+        message: lines.join("\n"),
+        page: window.location.pathname,
+        lang: locale,
+        referrer: document.referrer,
+        ua: navigator.userAgent,
+      }),
+    }).catch(() => {
+      /* 落库失败不影响用户体验，聊天与 WhatsApp 链路仍可用 */
+    });
   }
 
   // 对话摘要：只取最近 6 条用户提问并截断，避免 WhatsApp 链接超长
@@ -176,6 +198,7 @@ export default function ChatWidget({ productOptions = [] }: { productOptions?: s
     const text = encodeURIComponent(
       "Hello GDY! I'd like to inquire about PET protective film. " + conversationSummary()
     );
+    trackLead("whatsapp", { source: "chat_widget", language: locale });
     window.open(`${whatsappBase()}?text=${text}`, "_blank", "noopener");
   }
 

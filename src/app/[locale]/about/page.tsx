@@ -1,5 +1,6 @@
 import { setRequestLocale } from "next-intl/server";
 import AboutSection from "@/components/AboutSection";
+import AboutCompare from "@/components/AboutCompare";
 import CtaSection from "@/components/CtaSection";
 
 export default async function AboutPage({
@@ -13,6 +14,7 @@ export default async function AboutPage({
   return (
     <div className="pt-16">
       <AboutSection />
+      <AboutCompare />
       <CtaSection />
     </div>
   );

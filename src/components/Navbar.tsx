@@ -62,6 +62,12 @@ export default function Navbar() {
         </div>
 
         <div className="flex items-center gap-2">
+          <Link
+            href="/free-sample"
+            className="hidden rounded-lg bg-brand px-3 py-2 text-xs font-semibold text-white transition hover:opacity-90 md:inline-flex"
+          >
+            {t("freeSample")}
+          </Link>
           <LanguageSwitcher />
           <button
             type="button"
@@ -87,6 +93,13 @@ export default function Navbar() {
                 {t(it.key)}
               </Link>
             ))}
+            <Link
+              href="/free-sample"
+              onClick={() => setOpen(false)}
+              className="mt-1 rounded-lg bg-brand px-3 py-2 text-sm font-semibold text-white"
+            >
+              {t("freeSample")}
+            </Link>
           </div>
         </div>
       )}

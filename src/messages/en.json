@@ -12,15 +12,16 @@
     "news": "News",
     "language": "Language",
     "faq": "FAQ",
-    "quality": "Quality"
+    "quality": "Quality",
+    "freeSample": "Free Samples"
   },
   "hero": {
-    "badge": "Since 2004 · 16,000 m² Factory · ISO 9001 / 14001 Certified",
-    "title": "Stable, Reliable Surface Protection",
-    "titleHighlight": "Engineered for Your Industry",
-    "subtitle": "GDY manufactures PET and PE protective films, PET polyester film, PVC protective and shrink film and industrial tapes — 72 production models across six series, fully customisable and delivered fast across Southeast Asia and beyond.",
-    "ctaPrimary": "Contact Us",
-    "ctaSecondary": "Explore Products",
+    "badge": "Since 2004 · 16,000 m² Plant · ISO 9001/14001 · Exported to 40+ Countries",
+    "title": "Residue, scratches, bubbles —",
+    "titleHighlight": "we engineer them out of your line",
+    "subtitle": "GDY has made protective film for 20 years and nothing else. 72 active models, 120 million m² annual capacity, free samples delivered across Southeast Asia in 7 days, trusted by factories in 40+ countries.",
+    "ctaPrimary": "Get Free Samples",
+    "ctaSecondary": "Find My Film in 60s",
     "stats": {
       "years": "Years of expertise",
       "factory": "m² production base",
@@ -167,7 +168,9 @@
       "message": "Message",
       "messagePlaceholder": "Describe your requirements…",
       "submit": "Send Inquiry",
-      "success": "Thanks! Your inquiry has been received. We'll contact you within 24 hours."
+      "success": "Thanks! Your inquiry has been received. We'll contact you within 24 hours.",
+      "sending": "Sending…",
+      "error": "Submission failed. Please try again later, or reach us via WhatsApp / email."
     },
     "info": {
       "title": "Get in touch",
@@ -273,7 +276,11 @@
     "breadcrumbProducts": "Products",
     "inquiryNow": "Inquire Now",
     "backToSeries": "Back to Series",
-    "relatedModels": "Related Models"
+    "relatedModels": "Related Models",
+    "solves": "Built to fix: {apps}",
+    "freeSample": "Free Sample",
+    "whatsapp": "WhatsApp Inquiry",
+    "viewSpecs": "View Specifications"
   },
   "casesIndustry": {
     "breadcrumbCases": "Applications",
@@ -362,5 +369,58 @@
     "ctaTitle": "Need Test Data for Your Material?",
     "ctaDesc": "Tell us your substrate and process conditions — we can recommend a model and provide samples or test reports.",
     "ctaButton": "Contact Us"
+  },
+  "freeSample": {
+    "metaTitle": "Free Protective Film Samples | GDY",
+    "metaDesc": "Pick any 3 of 72 models with lab data sheets. Shipped from Shenzhen, delivered across SEA in 7 days.",
+    "badge": "FREE · No MOQ",
+    "title": "Free Samples in 7 Days",
+    "subtitle": "Stop guessing from spec sheets. Tell us your application and we ship real samples of the right models.",
+    "bullets": [
+      "Pick any 3 of 72 stock models: PET, PE, optical films and industrial tapes",
+      "Each sample ships with measured data (adhesion, thickness, light transmittance)",
+      "Direct from our 16,000 m² Shenzhen plant, 5–7 days to Southeast Asia",
+      "No MOQ — validate first, then talk volume pricing"
+    ],
+    "trust": "Purchasing teams in 40+ countries use it for final decisions",
+    "formTitle": "Tell us what you need — ships within 24 hours",
+    "formHint": "Please mention application, substrate and estimated monthly volume so we can match the right models",
+    "note": "Samples are free; only courier cost applies. WhatsApp support 9:00–18:00 (GMT+8) on weekdays."
+  },
+  "aboutCompare": {
+    "title": "Why SEA factories choose GDY over local suppliers",
+    "subtitle": "The five concerns every buyer has, answered side by side",
+    "headers": [
+      "Buyer concern",
+      "Local small shop",
+      "GDY"
+    ],
+    "rows": [
+      {
+        "concern": "Batch color / thickness variation",
+        "local": "Manual mixing, batch drift",
+        "gdy": "3 automatic coating lines, CPK controlled"
+      },
+      {
+        "concern": "Peak-season shortage",
+        "local": "Limited capacity, long queues",
+        "gdy": "10 million m²/month, no peak-season stockout"
+      },
+      {
+        "concern": "Export documentation",
+        "local": "Little export experience",
+        "gdy": "Shipped to 40+ countries, full documents"
+      },
+      {
+        "concern": "Communication",
+        "local": "Local language only",
+        "gdy": "7-language site + English WhatsApp support"
+      },
+      {
+        "concern": "Samples & validation",
+        "local": "Paid and slow",
+        "gdy": "Free samples, shipped within 48 hours"
+      }
+    ]
   }
 }

@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { languageAlternates } from "@/lib/seo";
 import { locales } from "@/i18n/routing";
 import { getProductSeries } from "@/lib/products";
 import { getIndustryIds } from "@/lib/industries";
@@ -16,6 +17,9 @@ const STATIC_PATHS = [
   "/news",
   "/faq",
   "/contact",
+  "/free-sample",
+  "/guides/compare-pet-vs-pe",
+  "/guides/glossary",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -29,6 +33,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency,
         priority,
+        // hreflang：全站 672+ 页逐条声明 7 个语言版本 + x-default
+        alternates: { languages: languageAlternates(path) },
       });
     }
   };
@@ -59,3 +65,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return entries;
 }
+export const dynamic = "force-static";

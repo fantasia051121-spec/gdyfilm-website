@@ -11,6 +11,9 @@ import { Analytics } from "@vercel/analytics/next";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ChatWidget from "@/components/ChatWidget";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
+import JsonLd from "@/components/JsonLd";
+import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
 import { getProductSeries } from "@/lib/products";
 import "../globals.css";
 
@@ -61,7 +64,10 @@ export default async function LocaleLayout({
           <main>{children}</main>
           <Footer />
           <ChatWidget productOptions={productOptions} />
+          <GoogleAnalytics />
           <Analytics />
+          <JsonLd data={organizationJsonLd()} />
+          <JsonLd data={websiteJsonLd()} />
         </NextIntlClientProvider>
       </body>
     </html>

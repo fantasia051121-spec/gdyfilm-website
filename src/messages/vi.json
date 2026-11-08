@@ -12,15 +12,16 @@
     "news": "Tin tức",
     "language": "Ngôn ngữ",
     "faq": "Câu hỏi",
-    "quality": "Chất lượng"
+    "quality": "Chất lượng",
+    "freeSample": "Mẫu miễn phí"
   },
   "hero": {
-    "badge": "Từ 2004 · Nhà máy 16.000 m² · Chứng nhận ISO 9001 / 14001",
-    "title": "Giải pháp bảo vệ bề mặt ổn định, đáng tin cậy",
-    "titleHighlight": "cho mọi ngành công nghiệp",
-    "subtitle": "GDY sản xuất màng bảo vệ PET và PE, màng polyester PET, màng PVC bảo vệ và co nhiệt cùng băng keo công nghiệp — 72 mẫu đang sản xuất trong sáu dòng sản phẩm, thông số tùy chỉnh hoàn toàn và giao hàng nhanh trên khắp Đông Nam Á.",
-    "ctaPrimary": "Liên hệ",
-    "ctaSecondary": "Xem sản phẩm",
+    "badge": "Từ 2004 · Nhà máy 16.000 m² · ISO 9001/14001 · Xuất khẩu 40+ quốc gia",
+    "title": "Keo dư, trầy xước, bọt khí —",
+    "titleHighlight": "chúng tôi loại bỏ khỏi dây chuyền của bạn",
+    "subtitle": "20 năm chỉ làm màng bảo vệ: 72 mã sản phẩm, công suất 120 triệu m²/năm, mẫu thử miễn phí giao đến Đông Nam Á trong 7 ngày, được các nhà máy tại 40+ quốc gia tin dùng.",
+    "ctaPrimary": "Nhận mẫu miễn phí",
+    "ctaSecondary": "Chọn đúng màng trong 60s",
     "stats": {
       "years": "Năm kinh nghiệm",
       "factory": "m² cơ sở sản xuất",
@@ -167,7 +168,9 @@
       "message": "Nội dung",
       "messagePlaceholder": "Mô tả yêu cầu của bạn…",
       "submit": "Gửi yêu cầu",
-      "success": "Cảm ơn! Yêu cầu của bạn đã được ghi nhận. Chúng tôi sẽ liên hệ trong vòng 24 giờ."
+      "success": "Cảm ơn! Yêu cầu của bạn đã được ghi nhận. Chúng tôi sẽ liên hệ trong vòng 24 giờ.",
+      "sending": "Đang gửi…",
+      "error": "Gửi không thành công. Vui lòng thử lại sau hoặc liên hệ qua WhatsApp / email."
     },
     "info": {
       "title": "Thông tin liên hệ",
@@ -273,7 +276,11 @@
     "breadcrumbProducts": "Sản phẩm",
     "inquiryNow": "Gửi yêu cầu ngay",
     "backToSeries": "Quay lại dòng sản phẩm",
-    "relatedModels": "Model liên quan"
+    "relatedModels": "Model liên quan",
+    "solves": "Giải quyết: {apps}",
+    "freeSample": "Mẫu miễn phí",
+    "whatsapp": "Hỏi giá WhatsApp",
+    "viewSpecs": "Xem thông số"
   },
   "casesIndustry": {
     "breadcrumbCases": "Ứng dụng",
@@ -362,5 +369,58 @@
     "ctaTitle": "Cần dữ liệu kiểm nghiệm cho vật liệu của bạn?",
     "ctaDesc": "Cho chúng tôi biết loại nền và điều kiện công nghệ — chúng tôi sẽ đề xuất model và cung cấp mẫu hoặc báo cáo kiểm nghiệm.",
     "ctaButton": "Liên hệ"
+  },
+  "freeSample": {
+    "metaTitle": "Mẫu thử miễn phí | GDY",
+    "metaDesc": "Chọn 3 trong 72 mã, kèm phiếu dữ liệu thử nghiệm, giao từ Thâm Quyến đến Đông Nam Á trong 7 ngày.",
+    "badge": "MIỄN PHÍ · Không MOQ",
+    "title": "Nhận mẫu thử trong 7 ngày",
+    "subtitle": "Đừng đoán qua thông số. Cho chúng tôi biết ứng dụng, chúng tôi gửi đúng mẫu.",
+    "bullets": [
+      "Chọn 3 trong 72 mã sẵn có: PET, PE, màng quang học và băng keo",
+      "Mỗi mẫu kèm dữ liệu đo thực (độ bám, độ dày, độ truyền sáng)",
+      "Gửi thẳng từ nhà máy 16.000 m² tại Thâm Quyến, 5–7 ngày đến Đông Nam Á",
+      "Không yêu cầu MOQ — thử xong mới bàn giá sỉ"
+    ],
+    "trust": "Đội ngũ mua hàng tại 40+ quốc gia dùng mẫu này để ra quyết định cuối",
+    "formTitle": "Điền nhu cầu — gửi hàng trong 24h",
+    "formHint": "Vui lòng ghi ứng dụng, vật liệu dán và sản lượng ước tính/tháng",
+    "note": "Mẫu miễn phí, chỉ thanh toán phí vận chuyển. Hỗ trợ WhatsApp 9:00–18:00 (GMT+8)."
+  },
+  "aboutCompare": {
+    "title": "Vì sao nhà máy Đông Nam Á chọn GDY thay vì nhà cung cấp nội địa",
+    "subtitle": "Năm nỗi lo của người mua, đối chiếu từng dòng",
+    "headers": [
+      "Nỗi lo",
+      "Xưởng nhỏ nội địa",
+      "GDY"
+    ],
+    "rows": [
+      {
+        "concern": "Batch color / thickness variation",
+        "local": "Manual mixing, batch drift",
+        "gdy": "3 automatic coating lines, CPK controlled"
+      },
+      {
+        "concern": "Peak-season shortage",
+        "local": "Limited capacity, long queues",
+        "gdy": "10 million m²/month, no peak-season stockout"
+      },
+      {
+        "concern": "Export documentation",
+        "local": "Little export experience",
+        "gdy": "Shipped to 40+ countries, full documents"
+      },
+      {
+        "concern": "Communication",
+        "local": "Local language only",
+        "gdy": "7-language site + English WhatsApp support"
+      },
+      {
+        "concern": "Samples & validation",
+        "local": "Paid and slow",
+        "gdy": "Free samples, shipped within 48 hours"
+      }
+    ]
   }
 }

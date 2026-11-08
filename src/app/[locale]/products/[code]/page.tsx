@@ -13,7 +13,15 @@ import {
 } from "@/lib/products";
 import { asset } from "@/lib/asset";
 import { locales } from "@/i18n/routing";
-import { ArrowLeft, ArrowRight, Check, Layers, Tag } from "lucide-react";
+import { site } from "@/lib/site";
+import JsonLd from "@/components/JsonLd";
+import {
+  pageAlternates,
+  productJsonLd,
+  breadcrumbJsonLd,
+} from "@/lib/seo";
+import geoProducts from "@/data/geo-products.json";
+import { ArrowRight, Check, Layers, Tag, MessageCircle, FileText } from "lucide-react";
 
 export const dynamicParams = false;
 
@@ -50,9 +58,30 @@ export async function generateMetadata({
   const { series, model } = found;
   const tagline = model.tagline || model.highlights[0] || "";
   const apps = model.applications.slice(0, 3).join(", ");
+  const specText = model.specs
+    .slice(0, 3)
+    .map((s) => `${s.label} ${s.value}${s.unit || ""}`)
+    .join(", ");
+  // 中文页直接使用落库的 GEO 标题/描述；其它语言用本地化内容拼装含参数的描述
+  const geo = (geoProducts as Record<string, { title: string; keywords: string; description: string }>)[model.code || ""];
+  const title =
+    locale === "zh" && geo
+      ? `${geo.title} | 光大远`
+      : `${model.code} ${model.name} — ${series.name} | GDY Protective Film`;
+  const description =
+    locale === "zh" && geo
+      ? geo.description
+      : `${model.code} ${model.name}. ${tagline}${specText ? ` Specs: ${specText}.` : ""}${apps ? ` Applications: ${apps}.` : ""} Free samples from a 20-year ISO 9001 manufacturer.`;
   return {
-    title: `${model.code} ${model.name} | ${series.name} — Guangdayuan`,
-    description: `${model.code} ${model.name}. ${tagline}${apps ? ` ${apps}.` : ""}`,
+    title,
+    description,
+    keywords: locale === "zh" && geo ? geo.keywords : undefined,
+    alternates: pageAlternates(locale, `/products/${model.code}`),
+    openGraph: {
+      title,
+      description,
+      images: [{ url: model.image, alt: `${model.code} ${model.name}` }],
+    },
   };
 }
 
@@ -74,8 +103,40 @@ export default async function ProductDetailPage({
   // 同系列相关型号（排除自身，最多 4 个，内链互链利于 SEO）
   const related = series.models.filter((m) => m.code !== model.code).slice(0, 4);
 
+  const geo = (geoProducts as Record<string, { description: string }>)[model.code || ""];
+  const ldDescription =
+    locale === "zh" && geo
+      ? geo.description
+      : `${model.tagline} ${model.applications.slice(0, 3).join(", ")}`;
+  const solvesApps = model.applications.slice(0, 2).join(" / ");
+
   return (
     <div className="pt-16">
+      <JsonLd
+        data={productJsonLd({
+          locale,
+          code: model.code || "",
+          name: model.name,
+          description: ldDescription,
+          image: model.image,
+          seriesName: series.name,
+          specs: model.specs.map((s) => ({
+            label: s.label,
+            value: `${s.value}${s.unit || ""}`,
+          })),
+          applications: model.applications,
+        })}
+      />
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "GDY", url: `https://gdyfilm.com/${locale}` },
+          { name: series.name, url: `https://gdyfilm.com/${locale}/services` },
+          {
+            name: `${model.code} ${model.name}`,
+            url: `https://gdyfilm.com/${locale}/products/${model.code}`,
+          },
+        ])}
+      />
       <div className="container-x pt-8 sm:pt-12">
         {/* 面包屑 */}
         <Reveal>
@@ -122,6 +183,12 @@ export default async function ProductDetailPage({
                 </p>
               )}
 
+              {solvesApps && (
+                <div className="mt-4 rounded-xl border border-brand/20 bg-brand/5 px-4 py-3 text-sm text-ink/85">
+                  {td("solves", { apps: solvesApps })}
+                </div>
+              )}
+
               {model.highlights.length > 0 && (
                 <ul className="mt-5 space-y-2">
                   {model.highlights.map((h) => (
@@ -135,16 +202,25 @@ export default async function ProductDetailPage({
 
               <div className="mt-7 flex flex-wrap gap-3">
                 <Link
-                  href={`/contact?model=${encodeURIComponent(model.code || "")}`}
+                  href={`/free-sample?model=${encodeURIComponent(model.code || "")}`}
                   className="btn-primary"
                 >
-                  {td("inquiryNow")}
+                  {td("freeSample")}
                   <ArrowRight className="h-4 w-4 rtl:rotate-180" />
                 </Link>
-                <Link href={`/services#${series.id}`} className="btn-ghost">
-                  <ArrowLeft className="h-4 w-4 rtl:rotate-180" />
-                  {td("backToSeries")}
-                </Link>
+                <a
+                  href={site.social.whatsapp}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-ghost"
+                >
+                  <MessageCircle className="h-4 w-4 rtl:rotate-180" />
+                  {td("whatsapp")}
+                </a>
+                <a href="#specs" className="btn-ghost">
+                  <FileText className="h-4 w-4" />
+                  {td("viewSpecs")}
+                </a>
               </div>
             </div>
           </Reveal>
@@ -154,7 +230,7 @@ export default async function ProductDetailPage({
         <div className="mt-10 grid gap-8 lg:grid-cols-2">
           {model.specs.length > 0 && (
             <Reveal>
-              <div className="glass rounded-2xl p-6">
+              <div id="specs" className="glass scroll-mt-24 rounded-2xl p-6">
                 <h2 className="text-lg font-semibold text-ink">{t("specs")}</h2>
                 <SpecTable rows={model.specs} />
               </div>

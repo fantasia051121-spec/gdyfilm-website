@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# misc
+.DS_Store
+*.log
+
+# env — 密钥文件，绝不能提交
+.env
+.env.local
+.env*.local
+
+# vercel
+.vercel
+
+# 根目录的参考截图（非网站资源），不纳入仓库
+/*.png
+preview/

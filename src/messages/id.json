@@ -12,15 +12,16 @@
     "news": "Berita",
     "language": "Bahasa",
     "faq": "FAQ",
-    "quality": "Kualitas"
+    "quality": "Kualitas",
+    "freeSample": "Sampel Gratis"
   },
   "hero": {
-    "badge": "Sejak 2004 · Pabrik 16.000 m² · Tersertifikasi ISO 9001 / 14001",
-    "title": "Solusi Perlindungan Permukaan yang Stabil dan Andal",
-    "titleHighlight": "untuk Setiap Industri",
-    "subtitle": "GDY memproduksi film pelindung PET dan PE, film poliester PET, film PVC pelindung dan susut serta pita industri — 72 model produksi dalam enam seri, seluruh parameternya dapat disesuaikan dan dikirim cepat ke seluruh Asia Tenggara.",
-    "ctaPrimary": "Hubungi Kami",
-    "ctaSecondary": "Lihat Produk",
+    "badge": "Sejak 2004 · Pabrik 16.000 m² · ISO 9001/14001 · Ekspor ke 40+ negara",
+    "title": "Residu, goresan, gelembung —",
+    "titleHighlight": "kami hilangkan dari lini produksi Anda",
+    "subtitle": "20 tahun hanya membuat film pelindung: 72 model aktif, kapasitas 120 juta m²/tahun, sampel gratis tiba di Asia Tenggara dalam 7 hari, dipercaya pabrik di 40+ negara.",
+    "ctaPrimary": "Minta Sampel Gratis",
+    "ctaSecondary": "Pilih Film dalam 60 Detik",
     "stats": {
       "years": "Tahun pengalaman",
       "factory": "m² basis produksi",
@@ -167,7 +168,9 @@
       "message": "Pesan",
       "messagePlaceholder": "Jelaskan kebutuhan Anda…",
       "submit": "Kirim Pertanyaan",
-      "success": "Terima kasih! Pertanyaan Anda telah diterima. Kami akan menghubungi Anda dalam 24 jam."
+      "success": "Terima kasih! Pertanyaan Anda telah diterima. Kami akan menghubungi Anda dalam 24 jam.",
+      "sending": "Mengirim…",
+      "error": "Pengiriman gagal. Silakan coba lagi nanti, atau hubungi kami lewat WhatsApp / email."
     },
     "info": {
       "title": "Kontak",
@@ -273,7 +276,11 @@
     "breadcrumbProducts": "Produk",
     "inquiryNow": "Ajukan Pertanyaan",
     "backToSeries": "Kembali ke Seri",
-    "relatedModels": "Model Terkait"
+    "relatedModels": "Model Terkait",
+    "solves": "Mengatasi: {apps}",
+    "freeSample": "Sampel Gratis",
+    "whatsapp": "Tanya via WhatsApp",
+    "viewSpecs": "Lihat Spesifikasi"
   },
   "casesIndustry": {
     "breadcrumbCases": "Aplikasi",
@@ -362,5 +369,58 @@
     "ctaTitle": "Butuh Data Uji untuk Material Anda?",
     "ctaDesc": "Beritahu kami substrat dan kondisi proses Anda — kami dapat merekomendasikan model dan menyediakan sampel atau laporan uji.",
     "ctaButton": "Hubungi Kami"
+  },
+  "freeSample": {
+    "metaTitle": "Sampel Gratis | GDY",
+    "metaDesc": "Pilih 3 dari 72 model beserta lembar data uji. Dikirim dari Shenzhen, tiba di Asia Tenggara dalam 7 hari.",
+    "badge": "GRATIS · Tanpa MOQ",
+    "title": "Sampel Gratis dalam 7 Hari",
+    "subtitle": "Berhenti menebak dari lembar spesifikasi. Ceritakan aplikasinya, kami kirim sampel model yang tepat.",
+    "bullets": [
+      "Pilih 3 dari 72 model stok: PET, PE, film optik, dan pita industri",
+      "Setiap sampel disertai data uji (daya rekat, ketebalan, transmisi cahaya)",
+      "Langsung dari pabrik 16.000 m² di Shenzhen, 5–7 hari ke Asia Tenggara",
+      "Tanpa MOQ — uji dulu, baru bicara harga volume"
+    ],
+    "trust": "Tim purchasing di 40+ negara menggunakannya untuk keputusan akhir",
+    "formTitle": "Isi kebutuhan — dikirim dalam 24 jam",
+    "formHint": "Sebutkan aplikasi, material yang ditempel, dan estimasi volume bulanan",
+    "note": "Sampel gratis, hanya biaya kurir. Dukungan WhatsApp 9:00–18:00 (GMT+8)."
+  },
+  "aboutCompare": {
+    "title": "Mengapa pabrik Asia Tenggara memilih GDY dibanding pemasok lokal",
+    "subtitle": "Lima kekhawatiran pembeli, dibandingkan baris demi baris",
+    "headers": [
+      "Kekhawatiran",
+      "Bengkel kecil lokal",
+      "GDY"
+    ],
+    "rows": [
+      {
+        "concern": "Batch color / thickness variation",
+        "local": "Manual mixing, batch drift",
+        "gdy": "3 automatic coating lines, CPK controlled"
+      },
+      {
+        "concern": "Peak-season shortage",
+        "local": "Limited capacity, long queues",
+        "gdy": "10 million m²/month, no peak-season stockout"
+      },
+      {
+        "concern": "Export documentation",
+        "local": "Little export experience",
+        "gdy": "Shipped to 40+ countries, full documents"
+      },
+      {
+        "concern": "Communication",
+        "local": "Local language only",
+        "gdy": "7-language site + English WhatsApp support"
+      },
+      {
+        "concern": "Samples & validation",
+        "local": "Paid and slow",
+        "gdy": "Free samples, shipped within 48 hours"
+      }
+    ]
   }
 }

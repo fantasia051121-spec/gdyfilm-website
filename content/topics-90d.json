@@ -1,0 +1,902 @@
+[
+ {
+  "day": 1,
+  "date": "2026-11-09",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "why-blue-film-stainless-steel",
+  "title_en": "Why Is Protective Film Blue? What the Color Actually Does on a Stainless Steel Line",
+  "title_zh": "保护膜为什么是蓝色？颜色在不锈钢产线上到底起什么作用",
+  "angle": "颜色识别与制程管理"
+ },
+ {
+  "day": 2,
+  "date": "2026-11-10",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-surface-finish-film",
+  "title_en": "No.4 vs 8K vs 2B Stainless Finish: Which Film Won't Dull the Surface",
+  "title_zh": "No.4 / 8K / 2B 不锈钢表面：哪种保护膜不会让光泽变哑",
+  "angle": "表面等级适配"
+ },
+ {
+  "day": 3,
+  "date": "2026-11-11",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-laser-cutting-film",
+  "title_en": "Laser Cutting Stainless Steel With Film On: Burn Marks, Melted Edges and How to Avoid Them",
+  "title_zh": "不锈钢带膜激光切割：烧边、熔边怎么避免",
+  "angle": "激光切割工况"
+ },
+ {
+  "day": 4,
+  "date": "2026-11-12",
+  "type": "region",
+  "product": "vietnam",
+  "slug": "film-vietnam-protective-film-vietnam-humidity",
+  "title_en": "Protective Film in Vietnam: Humidity, Monsoon Storage and What Changes",
+  "title_zh": "越南保护膜：湿度、雨季存放与应对",
+  "angle": "气候与仓储"
+ },
+ {
+  "day": 5,
+  "date": "2026-11-13",
+  "type": "region",
+  "product": "vietnam",
+  "slug": "film-vietnam-steel-distributors-vietnam-source",
+  "title_en": "Steel Distributors in Vietnam: How to Source Film in Small, Fast Lots",
+  "title_zh": "越南钢材分销商：小批量快周转的膜采购",
+  "angle": "分销模式"
+ },
+ {
+  "day": 6,
+  "date": "2026-11-14",
+  "type": "decision",
+  "product": "-",
+  "slug": "compare-quotes",
+  "title_en": "How to Compare Protective Film Quotes Without Getting Fooled",
+  "title_zh": "如何比较保护膜报价而不被糊弄",
+  "angle": "比价方法"
+ },
+ {
+  "day": 7,
+  "date": "2026-11-15",
+  "type": "reference",
+  "product": "-",
+  "slug": "pe-vs-pet-metal",
+  "title_en": "PE vs PET Film for Metal Surface Protection: An 8-Point Comparison",
+  "title_zh": "PE 与 PET 金属表面保护膜：8 个维度对比",
+  "angle": "材料对比"
+ },
+ {
+  "day": 8,
+  "date": "2026-11-16",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-bending-film",
+  "title_en": "Film for CNC Bending: Where It Tears and How to Pick a Stretchier Grade",
+  "title_zh": "数控折弯用膜：哪里会撕裂，怎么选更耐拉伸的型号",
+  "angle": "折弯成型"
+ },
+ {
+  "day": 9,
+  "date": "2026-11-17",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-residue-summer",
+  "title_en": "Adhesive Residue on Stainless Steel in Summer: Why 35C Changes Everything",
+  "title_zh": "夏季不锈钢残胶：为什么 35 摄氏度就完全不一样了",
+  "angle": "高温残胶"
+ },
+ {
+  "day": 10,
+  "date": "2026-11-18",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-storage-6-months",
+  "title_en": "Storing Film-Covered Stainless Steel for 6 Months: Adhesion Growth Data",
+  "title_zh": "贴膜不锈钢存放半年：粘力增长实测数据",
+  "angle": "长期存放"
+ },
+ {
+  "day": 11,
+  "date": "2026-11-19",
+  "type": "region",
+  "product": "vietnam",
+  "slug": "film-vietnam-china-vietnam-land-sea",
+  "title_en": "China to Vietnam by Land or Sea: Landed Cost and Transit Time",
+  "title_zh": "中国到越南：陆运与海运的到岸成本与时效",
+  "angle": "物流"
+ },
+ {
+  "day": 12,
+  "date": "2026-11-20",
+  "type": "region",
+  "product": "vietnam",
+  "slug": "film-vietnam-local-vietnamese-film-chinese",
+  "title_en": "Local Vietnamese Film vs Chinese Import: Where Each Actually Wins",
+  "title_zh": "越南本地膜与中国进口：各自真正的优势区",
+  "angle": "本地竞争"
+ },
+ {
+  "day": 13,
+  "date": "2026-11-21",
+  "type": "decision",
+  "product": "-",
+  "slug": "moq-real-cost",
+  "title_en": "MOQ Reality Check: What One Roll Actually Costs You",
+  "title_zh": "MOQ 真相：一卷膜的实际成本是多少",
+  "angle": "起订量"
+ },
+ {
+  "day": 14,
+  "date": "2026-11-22",
+  "type": "reference",
+  "product": "-",
+  "slug": "film-glossary-sea",
+  "title_en": "Protective Film Glossary: 30 Terms Buyers in Southeast Asia Should Know",
+  "title_zh": "保护膜术语表：东南亚买家该懂的 30 个词",
+  "angle": "术语"
+ },
+ {
+  "day": 15,
+  "date": "2026-11-23",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-mirror-finish-scratch",
+  "title_en": "Protecting Mirror-Finish Stainless: Scratch, Haze and the Film That Prevents Both",
+  "title_zh": "镜面不锈钢保护：划伤、雾化与能同时防住两者的膜",
+  "angle": "镜面保护"
+ },
+ {
+  "day": 16,
+  "date": "2026-11-24",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "blue-film-thickness-selection",
+  "title_en": "20um or 50um? Choosing Blue PE Film Thickness by Process, Not by Habit",
+  "title_zh": "20 微米还是 50 微米？蓝色 PE 膜厚度该按工艺选而不是按习惯",
+  "angle": "厚度选型"
+ },
+ {
+  "day": 17,
+  "date": "2026-11-25",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-salt-spray",
+  "title_en": "Salt Spray and Stainless Steel: Does Protective Film Actually Help?",
+  "title_zh": "盐雾与不锈钢：保护膜到底有没有用",
+  "angle": "防锈与盐雾"
+ },
+ {
+  "day": 18,
+  "date": "2026-11-26",
+  "type": "region",
+  "product": "thailand",
+  "slug": "film-thailand-sourcing-protective-film-thailand",
+  "title_en": "Sourcing Protective Film in Thailand: BOI Incentives, Customs and Lead Time",
+  "title_zh": "泰国采购保护膜：BOI 优惠、清关与交期",
+  "angle": "采购实务"
+ },
+ {
+  "day": 19,
+  "date": "2026-11-27",
+  "type": "region",
+  "product": "thailand",
+  "slug": "film-thailand-thailand-s-automotive-cluster",
+  "title_en": "Thailand's Automotive Cluster: Film for Stamped Steel Parts",
+  "title_zh": "泰国汽车产业集群：冲压钢件的保护膜",
+  "angle": "产业集群"
+ },
+ {
+  "day": 20,
+  "date": "2026-11-28",
+  "type": "decision",
+  "product": "-",
+  "slug": "sample-test-protocol",
+  "title_en": "A 7-Day Sample Test Protocol You Can Run on Your Own Line",
+  "title_zh": "7 天样品测试流程：在自己产线上就能跑",
+  "angle": "验证方法"
+ },
+ {
+  "day": 21,
+  "date": "2026-11-29",
+  "type": "reference",
+  "product": "-",
+  "slug": "adhesion-units",
+  "title_en": "g/in, N/25mm, gf/mm: Converting Adhesion Units Without Making a Mistake",
+  "title_zh": "g/in、N/25mm、gf/mm：粘力单位换算不出错",
+  "angle": "单位换算"
+ },
+ {
+  "day": 22,
+  "date": "2026-11-30",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-weld-spatter",
+  "title_en": "Weld Spatter on Film-Covered Stainless: What Survives and What Burns Through",
+  "title_zh": "带膜焊接飞溅：哪种膜扛得住，哪种直接烧穿",
+  "angle": "焊接工况"
+ },
+ {
+  "day": 23,
+  "date": "2026-12-01",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "blue-film-vs-transparent-film",
+  "title_en": "Blue Film vs Transparent Film on Stainless: Cost, Visibility and Inspection",
+  "title_zh": "蓝膜与透明膜：成本、可视性与质检差异",
+  "angle": "颜色对比"
+ },
+ {
+  "day": 24,
+  "date": "2026-12-02",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-export-packing",
+  "title_en": "Export Packing for Stainless Coils and Sheets: Film, Interleaving and Humidity Control",
+  "title_zh": "不锈钢卷板出口包装：贴膜、垫纸与防潮",
+  "angle": "出口包装"
+ },
+ {
+  "day": 25,
+  "date": "2026-12-03",
+  "type": "region",
+  "product": "thailand",
+  "slug": "film-thailand-high-heat-high-humidity",
+  "title_en": "High Heat and High Humidity: Film Performance in Thai Factories",
+  "title_zh": "高温高湿：泰国工厂里的膜表现",
+  "angle": "气候"
+ },
+ {
+  "day": 26,
+  "date": "2026-12-04",
+  "type": "region",
+  "product": "thailand",
+  "slug": "film-thailand-laem-chabang-port-logistics",
+  "title_en": "Laem Chabang Port: Logistics Planning for Film Imports",
+  "title_zh": "林查班港：保护膜进口的物流规划",
+  "angle": "物流"
+ },
+ {
+  "day": 27,
+  "date": "2026-12-05",
+  "type": "decision",
+  "product": "-",
+  "slug": "supplier-audit-checklist",
+  "title_en": "12 Questions That Reveal a Real Protective Film Factory",
+  "title_zh": "12 个问题看穿一家保护膜厂的真实产能",
+  "angle": "验厂"
+ },
+ {
+  "day": 28,
+  "date": "2026-12-06",
+  "type": "reference",
+  "product": "-",
+  "slug": "film-thickness-tolerance",
+  "title_en": "Thickness Tolerance: Why Plus or Minus 10% Matters More Than the Nominal Number",
+  "title_zh": "厚度公差：为什么正负 10% 比标称值更重要",
+  "angle": "公差"
+ },
+ {
+  "day": 29,
+  "date": "2026-12-07",
+  "type": "product",
+  "product": "GDY-031",
+  "slug": "stainless-steel-cut-to-length-line",
+  "title_en": "Cut-to-Length Lines: Film That Keeps Up With 60 m/min",
+  "title_zh": "开平线 60 米/分钟：跟得上速度的膜",
+  "angle": "高速产线"
+ },
+ {
+  "day": 30,
+  "date": "2026-12-08",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-sheet-residue-causes",
+  "title_en": "Adhesive Residue on Galvanized Sheet: 6 Causes and the Fix for Each",
+  "title_zh": "镀锌板残胶：6 个成因与对应解法",
+  "angle": "残胶根因"
+ },
+ {
+  "day": 31,
+  "date": "2026-12-09",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-medium-high-tack",
+  "title_en": "Medium-High Tack Film on Galvanized Coil: How to Store 6 Months Without Residue",
+  "title_zh": "镀锌卷中高粘膜：存放半年不残胶的做法",
+  "angle": "中高粘选型"
+ },
+ {
+  "day": 32,
+  "date": "2026-12-10",
+  "type": "region",
+  "product": "indonesia",
+  "slug": "film-indonesia-importing-protective-film-indonesia",
+  "title_en": "Importing Protective Film to Indonesia: SNI, Customs and Local Stocking",
+  "title_zh": "印尼进口保护膜：SNI、清关与本地备货",
+  "angle": "进口合规"
+ },
+ {
+  "day": 33,
+  "date": "2026-12-11",
+  "type": "region",
+  "product": "indonesia",
+  "slug": "film-indonesia-serving-archipelago-stocking-film",
+  "title_en": "Serving an Archipelago: Stocking Film Across Indonesian Islands",
+  "title_zh": "群岛之国：印尼跨岛备货的膜供应",
+  "angle": "物流"
+ },
+ {
+  "day": 34,
+  "date": "2026-12-12",
+  "type": "decision",
+  "product": "-",
+  "slug": "lead-time-reality",
+  "title_en": "Lead Time Reality: 15 Days vs 45 Days and What Causes the Gap",
+  "title_zh": "交期真相：15 天与 45 天的差距从哪来",
+  "angle": "交期"
+ },
+ {
+  "day": 35,
+  "date": "2026-12-13",
+  "type": "reference",
+  "product": "-",
+  "slug": "haze-and-transmittance",
+  "title_en": "Haze and Light Transmittance: The Two Numbers Optical Film Buyers Confuse",
+  "title_zh": "雾度与透光率：光学膜买家最常混淆的两个数",
+  "angle": "光学指标"
+ },
+ {
+  "day": 36,
+  "date": "2026-12-14",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-zinc-coating-adhesion",
+  "title_en": "Why Film Sticks Differently to Zinc Coating Than to Cold-Rolled Steel",
+  "title_zh": "为什么膜在锌层上和冷轧板上粘得不一样",
+  "angle": "基材差异"
+ },
+ {
+  "day": 37,
+  "date": "2026-12-15",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-oil-surface-film",
+  "title_en": "Oiled Galvanized Sheet: Film That Still Bonds Through the Oil Film",
+  "title_zh": "涂油镀锌板：油膜之下还能粘牢的膜",
+  "angle": "油面贴合"
+ },
+ {
+  "day": 38,
+  "date": "2026-12-16",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-press-forming-film",
+  "title_en": "Film for Press-Formed Galvanized Parts: Stretch, Tear and Die Marks",
+  "title_zh": "冲压成型的镀锌件用膜：拉伸、撕裂与压痕",
+  "angle": "冲压成型"
+ },
+ {
+  "day": 39,
+  "date": "2026-12-17",
+  "type": "region",
+  "product": "indonesia",
+  "slug": "film-indonesia-indonesian-appliance-manufacturing-film",
+  "title_en": "Indonesian Appliance Manufacturing: Film Specs for Local Brands",
+  "title_zh": "印尼家电制造：本地品牌的膜规格需求",
+  "angle": "产业集群"
+ },
+ {
+  "day": 40,
+  "date": "2026-12-18",
+  "type": "region",
+  "product": "indonesia",
+  "slug": "film-indonesia-import-licence-under-value",
+  "title_en": "Import Licence and Under-Value Risk: What Film Buyers Should Know",
+  "title_zh": "进口许可与低报风险：膜买家该知道的事",
+  "angle": "合规风险"
+ },
+ {
+  "day": 41,
+  "date": "2026-12-19",
+  "type": "decision",
+  "product": "-",
+  "slug": "rcep-tariff-film",
+  "title_en": "RCEP and Protective Film: What Your Landed Cost Actually Looks Like",
+  "title_zh": "RCEP 与保护膜：你的到岸成本到底怎么算",
+  "angle": "关税"
+ },
+ {
+  "day": 42,
+  "date": "2026-12-20",
+  "type": "reference",
+  "product": "-",
+  "slug": "film-shelf-life",
+  "title_en": "Shelf Life of Protective Film: 6, 12 or 24 Months?",
+  "title_zh": "保护膜的保质期：6 个月、12 个月还是 24 个月",
+  "angle": "储存期限"
+ },
+ {
+  "day": 43,
+  "date": "2026-12-21",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-outdoor-storage",
+  "title_en": "Galvanized Sheet Stored Outdoors: Film Performance Under UV and Rain",
+  "title_zh": "户外存放的镀锌板：紫外与雨水下的膜表现",
+  "angle": "户外耐候"
+ },
+ {
+  "day": 44,
+  "date": "2026-12-22",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-film-peel-strength-test",
+  "title_en": "Peel Strength 30 vs 300 on Galvanized: What the Number Means in Practice",
+  "title_zh": "镀锌板上剥离力 30 与 300：数字在实际使用中意味着什么",
+  "angle": "粘力解读"
+ },
+ {
+  "day": 45,
+  "date": "2026-12-23",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-cutting-film-jam",
+  "title_en": "Film Jams in the Shear: Why High-Tack Film Slows Your Cutting Line",
+  "title_zh": "剪板机卡膜：为什么高粘膜会拖慢你的下料线",
+  "angle": "剪切工况"
+ },
+ {
+  "day": 46,
+  "date": "2026-12-24",
+  "type": "region",
+  "product": "malaysia",
+  "slug": "film-malaysia-protective-film-supply-malaysian",
+  "title_en": "Protective Film Supply for Malaysian Appliance and Electronics Plants",
+  "title_zh": "马来西亚家电与电子厂的保护膜供应",
+  "angle": "产业集群"
+ },
+ {
+  "day": 47,
+  "date": "2026-12-25",
+  "type": "region",
+  "product": "malaysia",
+  "slug": "film-malaysia-port-klang-logistics-transit",
+  "title_en": "Port Klang Logistics: Transit, Clearance and Warehouse Options",
+  "title_zh": "巴生港物流：中转、清关与仓储选择",
+  "angle": "物流"
+ },
+ {
+  "day": 48,
+  "date": "2026-12-26",
+  "type": "decision",
+  "product": "-",
+  "slug": "film-warranty-terms",
+  "title_en": "What a Protective Film Warranty Should Actually Cover",
+  "title_zh": "保护膜质保条款到底该覆盖什么",
+  "angle": "质保"
+ },
+ {
+  "day": 49,
+  "date": "2026-12-27",
+  "type": "reference",
+  "product": "-",
+  "slug": "acrylic-vs-silicone-adhesive",
+  "title_en": "Acrylic vs Silicone Adhesive: Residue, Heat and Cost Compared",
+  "title_zh": "丙烯酸胶与硅胶：残胶、耐温与成本对比",
+  "angle": "胶系对比"
+ },
+ {
+  "day": 50,
+  "date": "2026-12-28",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-roof-panel-film",
+  "title_en": "Film for Galvanized Roof and Wall Panels: Weathering Before Installation",
+  "title_zh": "镀锌屋面板与墙面板：安装前的耐候保护",
+  "angle": "建材场景"
+ },
+ {
+  "day": 51,
+  "date": "2026-12-29",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-coil-vs-sheet-film",
+  "title_en": "Coil vs Cut Sheet: Different Film Specs for Different Handling",
+  "title_zh": "钢卷与开平板：不同搬运方式要用不同膜规格",
+  "angle": "形态差异"
+ },
+ {
+  "day": 52,
+  "date": "2026-12-30",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-winter-low-temp",
+  "title_en": "Applying Film at 5C: Low-Temperature Adhesion on Galvanized Steel",
+  "title_zh": "5 摄氏度贴膜：低温下镀锌板的初粘表现",
+  "angle": "低温施工"
+ },
+ {
+  "day": 53,
+  "date": "2026-12-31",
+  "type": "region",
+  "product": "malaysia",
+  "slug": "film-malaysia-malaysian-trading-houses-working",
+  "title_en": "Malaysian Trading Houses: Working With a Local Agent vs Direct",
+  "title_zh": "马来西亚贸易商：本地代理与直接采购的取舍",
+  "angle": "渠道"
+ },
+ {
+  "day": 54,
+  "date": "2027-01-01",
+  "type": "region",
+  "product": "malaysia",
+  "slug": "film-malaysia-double-clearance-malaysia-costs",
+  "title_en": "Double Clearance to Malaysia: What It Costs and When It Pays",
+  "title_zh": "中马双清：成本几何、什么时候划算",
+  "angle": "清关"
+ },
+ {
+  "day": 55,
+  "date": "2027-01-02",
+  "type": "decision",
+  "product": "-",
+  "slug": "sea-warehouse-vs-direct",
+  "title_en": "Local Warehouse vs Direct Shipment from China: The Break-Even Point",
+  "title_zh": "本地仓与中国直发：盈亏平衡点在哪",
+  "angle": "物流模式"
+ },
+ {
+  "day": 56,
+  "date": "2027-01-03",
+  "type": "reference",
+  "product": "-",
+  "slug": "film-vs-interleaving-paper",
+  "title_en": "Film vs Interleaving Paper for Steel Protection: Which Actually Works",
+  "title_zh": "保护膜与垫纸：钢件防护到底哪个有效",
+  "angle": "替代方案"
+ },
+ {
+  "day": 57,
+  "date": "2027-01-04",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-cost-per-square-meter",
+  "title_en": "Cost per Square Meter: How Film Thickness Quietly Doubles Your Spend",
+  "title_zh": "每平米成本：膜厚如何在不知不觉中翻倍你的支出",
+  "angle": "成本测算"
+ },
+ {
+  "day": 58,
+  "date": "2027-01-05",
+  "type": "product",
+  "product": "GDY-033",
+  "slug": "galvanized-sea-freight-moisture",
+  "title_en": "Sea Freight Moisture Damage on Galvanized Coils: Film Plus Desiccant",
+  "title_zh": "镀锌卷海运受潮：膜加干燥剂的组合方案",
+  "angle": "海运防潮"
+ },
+ {
+  "day": 59,
+  "date": "2027-01-06",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "pcm-vcm-panel-adhesion-limit",
+  "title_en": "PCM/VCM Panel Protection: How Much Adhesion Is Too Much",
+  "title_zh": "PCM/VCM 家电面板：粘力到什么程度就过了",
+  "angle": "粘力上限"
+ },
+ {
+  "day": 60,
+  "date": "2027-01-07",
+  "type": "region",
+  "product": "philippines",
+  "slug": "film-philippines-protective-film-philippine-steel",
+  "title_en": "Protective Film for Philippine Steel Distributors: Small Lots, Fast Turns",
+  "title_zh": "菲律宾钢材分销商：小批量、快周转的膜供应",
+  "angle": "分销模式"
+ },
+ {
+  "day": 61,
+  "date": "2027-01-08",
+  "type": "region",
+  "product": "philippines",
+  "slug": "film-philippines-manila-port-congestion-planning",
+  "title_en": "Manila Port Congestion: Planning Film Stock Around Delays",
+  "title_zh": "马尼拉港拥堵：如何按延误节奏备膜",
+  "angle": "物流"
+ },
+ {
+  "day": 62,
+  "date": "2027-01-09",
+  "type": "decision",
+  "product": "-",
+  "slug": "film-roll-yield",
+  "title_en": "Roll Yield Math: Meters per Roll, Waste Rate and Real Unit Cost",
+  "title_zh": "卷材出成率：每卷米数、损耗率与真实单件成本",
+  "angle": "用量计算"
+ },
+ {
+  "day": 63,
+  "date": "2027-01-10",
+  "type": "reference",
+  "product": "-",
+  "slug": "how-film-is-manufactured",
+  "title_en": "How Protective Film Is Actually Made: Coating, Drying and Slitting",
+  "title_zh": "保护膜是怎么做出来的：涂布、烘干与分切",
+  "angle": "工艺科普"
+ },
+ {
+  "day": 64,
+  "date": "2027-01-11",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-stamping-film-survive",
+  "title_en": "Appliance Panel Stamping: Film That Survives the Press Without Tearing",
+  "title_zh": "家电面板冲压：扛得住冲床不撕裂的膜",
+  "angle": "冲压制程"
+ },
+ {
+  "day": 65,
+  "date": "2027-01-12",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-fish-eye",
+  "title_en": "Fish Eyes and Gel Particles: Why Film Clarity Decides Your Paint Yield",
+  "title_zh": "晶点与凝胶粒子：膜的洁净度如何决定你的喷涂良率",
+  "angle": "晶点控制"
+ },
+ {
+  "day": 66,
+  "date": "2027-01-13",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-adhesion-growth",
+  "title_en": "Adhesion Growth on Appliance Panels: The 30-Day Curve Nobody Measures",
+  "title_zh": "家电面板粘力增长：很少人测的那条 30 天曲线",
+  "angle": "粘性增长"
+ },
+ {
+  "day": 67,
+  "date": "2027-01-14",
+  "type": "region",
+  "product": "philippines",
+  "slug": "film-philippines-typhoon-season-storage-protecting",
+  "title_en": "Typhoon Season Storage: Protecting Film-Covered Steel",
+  "title_zh": "台风季仓储：贴膜钢材怎么保护",
+  "angle": "气候"
+ },
+ {
+  "day": 68,
+  "date": "2027-01-15",
+  "type": "region",
+  "product": "philippines",
+  "slug": "film-philippines-serving-visayas-mindanao-distribution",
+  "title_en": "Serving Visayas and Mindanao: Distribution Beyond Luzon",
+  "title_zh": "覆盖米沙鄢与棉兰老：马尼拉之外的配送",
+  "angle": "分销"
+ },
+ {
+  "day": 69,
+  "date": "2027-01-16",
+  "type": "decision",
+  "product": "-",
+  "slug": "certification-what-matters",
+  "title_en": "SGS, RoHS, REACH, ISO: Which Certificate Your Customer Actually Asks For",
+  "title_zh": "SGS、RoHS、REACH、ISO：你的客户到底要哪一张",
+  "angle": "认证"
+ },
+ {
+  "day": 70,
+  "date": "2027-01-17",
+  "type": "reference",
+  "product": "-",
+  "slug": "film-test-report-reading",
+  "title_en": "How to Read a Protective Film Test Report Line by Line",
+  "title_zh": "逐行读懂一份保护膜检测报告",
+  "angle": "报告解读"
+ },
+ {
+  "day": 71,
+  "date": "2027-01-18",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-multi-station-film",
+  "title_en": "Multi-Station Forming: One Film for Punching, Bending and Riveting",
+  "title_zh": "多工位成型：一张膜撑住冲孔、折弯与铆接",
+  "angle": "多工位"
+ },
+ {
+  "day": 72,
+  "date": "2027-01-19",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-color-film-coding",
+  "title_en": "Color-Coded Film on Appliance Lines: Red, Black, White and What They Signal",
+  "title_zh": "家电产线的彩色膜：红黑白分别代表什么",
+  "angle": "颜色管理"
+ },
+ {
+  "day": 73,
+  "date": "2027-01-20",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-high-temp-paint",
+  "title_en": "Film That Survives the Paint Curing Oven: Temperature Limits by Grade",
+  "title_zh": "过喷涂烘箱的膜：各型号的耐温边界",
+  "angle": "耐高温"
+ },
+ {
+  "day": 74,
+  "date": "2027-01-21",
+  "type": "region",
+  "product": "middle-east",
+  "slug": "film-middle-east-protective-film-gulf-construction",
+  "title_en": "Protective Film for Gulf Construction Panels: Heat, Sand and UV",
+  "title_zh": "海湾建材面板保护膜：高温、沙尘与紫外",
+  "angle": "极端气候"
+ },
+ {
+  "day": 75,
+  "date": "2027-01-22",
+  "type": "region",
+  "product": "middle-east",
+  "slug": "film-middle-east-dubai-re-export-using",
+  "title_en": "Dubai Re-Export: Using Jebel Ali as a Film Distribution Hub",
+  "title_zh": "迪拜转口：用杰贝阿里做膜的分销枢纽",
+  "angle": "转口贸易"
+ },
+ {
+  "day": 76,
+  "date": "2027-01-23",
+  "type": "decision",
+  "product": "-",
+  "slug": "payment-terms-export",
+  "title_en": "Payment Terms for First Orders: T/T, L/C and What Suppliers Really Accept",
+  "title_zh": "首单付款方式：T/T、L/C 与供应商真实底线",
+  "angle": "付款"
+ },
+ {
+  "day": 77,
+  "date": "2027-01-24",
+  "type": "reference",
+  "product": "-",
+  "slug": "static-vs-adhesive-film",
+  "title_en": "Static Film vs Adhesive Film: When No Glue Is the Better Choice",
+  "title_zh": "静电膜与胶粘膜：什么时候不用胶更合适",
+  "angle": "类型对比"
+ },
+ {
+  "day": 78,
+  "date": "2027-01-25",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-residue-after-shipment",
+  "title_en": "Residue Found at the Customer: Tracing Appliance Film Failures Back to the Line",
+  "title_zh": "客户处发现残胶：把家电膜失效追溯回产线",
+  "angle": "失效追溯"
+ },
+ {
+  "day": 79,
+  "date": "2027-01-26",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-pe-vs-pvc",
+  "title_en": "PE vs PVC Film for Appliance Panels: Plasticizer, Yellowing and Cost",
+  "title_zh": "家电面板 PE 膜与 PVC 膜：增塑剂、黄变与成本",
+  "angle": "材料对比"
+ },
+ {
+  "day": 80,
+  "date": "2027-01-27",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-printed-film",
+  "title_en": "Printed Film Up to 4 Colors: Branding, Orientation Marks and Misuse Prevention",
+  "title_zh": "最多 4 色印刷膜：品牌、方向标识与防错",
+  "angle": "印刷膜"
+ },
+ {
+  "day": 81,
+  "date": "2027-01-28",
+  "type": "region",
+  "product": "middle-east",
+  "slug": "film-middle-east-arabic-language-support-b2b",
+  "title_en": "Arabic-Language Support in B2B Film Buying: What Buyers Expect",
+  "title_zh": "阿拉伯语支持：B2B 膜采购中买家真正期待什么",
+  "angle": "沟通"
+ },
+ {
+  "day": 82,
+  "date": "2027-01-29",
+  "type": "region",
+  "product": "middle-east",
+  "slug": "film-middle-east-sand-abrasion-construction-panels",
+  "title_en": "Sand Abrasion on Construction Panels: Film That Resists Wind-Borne Grit",
+  "title_zh": "建材面板的沙蚀：抗风沙磨损的膜",
+  "angle": "耐候"
+ },
+ {
+  "day": 83,
+  "date": "2027-01-30",
+  "type": "decision",
+  "product": "-",
+  "slug": "film-failure-claims",
+  "title_en": "When Film Fails: How to Document a Claim So It Gets Resolved",
+  "title_zh": "膜出问题时：怎么留证据才能让索赔落地",
+  "angle": "索赔"
+ },
+ {
+  "day": 84,
+  "date": "2027-01-31",
+  "type": "reference",
+  "product": "-",
+  "slug": "film-standards-overview",
+  "title_en": "Protective Film Standards: GB, ASTM, JIS and What Each Covers",
+  "title_zh": "保护膜标准体系：GB、ASTM、JIS 各管什么",
+  "angle": "标准"
+ },
+ {
+  "day": 85,
+  "date": "2027-02-01",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-mlcc-low-tack",
+  "title_en": "Low-Tack Film for MLCC and Precision Parts: When Minimal Adhesion Is Right",
+  "title_zh": "MLCC 与精密件低粘膜：什么时候几乎不粘才对",
+  "angle": "低粘场景"
+ },
+ {
+  "day": 86,
+  "date": "2027-02-02",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-film-thickness-cost-tradeoff",
+  "title_en": "0.03 vs 0.05 mm Appliance Film: The Cost and Protection Trade-Off",
+  "title_zh": "家电膜 0.03 与 0.05 毫米：成本与防护的取舍",
+  "angle": "厚度权衡"
+ },
+ {
+  "day": 87,
+  "date": "2027-02-03",
+  "type": "product",
+  "product": "GDY-022",
+  "slug": "appliance-auto-lamination-line",
+  "title_en": "Auto Lamination on Appliance Lines: Speed, Tension and Bubble Control",
+  "title_zh": "家电产线自动贴膜：速度、张力与气泡控制",
+  "angle": "自动化贴合"
+ },
+ {
+  "day": 88,
+  "date": "2027-02-04",
+  "type": "region",
+  "product": "sea",
+  "slug": "film-sea-southeast-asia-film-buyers",
+  "title_en": "Southeast Asia Film Buyers: Five Habits That Change How You Sell",
+  "title_zh": "东南亚膜买家：五个改变你销售方式的习惯",
+  "angle": "市场洞察"
+ },
+ {
+  "day": 89,
+  "date": "2027-02-05",
+  "type": "region",
+  "product": "sea",
+  "slug": "film-sea-rainy-season-logistics-across",
+  "title_en": "Rainy Season Logistics Across Southeast Asia: A Month-by-Month Guide",
+  "title_zh": "东南亚雨季物流：逐月指南",
+  "angle": "物流"
+ },
+ {
+  "day": 90,
+  "date": "2027-02-06",
+  "type": "decision",
+  "product": "-",
+  "slug": "second-order-dip",
+  "title_en": "Why Quality Drops on the Second Order: Batch Control Explained",
+  "title_zh": "第二批货质量为什么下滑：批次管控讲清楚",
+  "angle": "批次一致性"
+ }
+]

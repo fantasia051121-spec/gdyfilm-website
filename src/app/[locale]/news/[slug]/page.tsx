@@ -10,9 +10,12 @@ import {
 } from "@/lib/news";
 import type { Locale } from "@/i18n/routing";
 import Reveal from "@/components/ui/Reveal";
+import RichText from "@/components/RichText";
 import NewsCard from "@/components/NewsCard";
 import SocialLinks from "@/components/SocialLinks";
 import { asset } from "@/lib/asset";
+import JsonLd from "@/components/JsonLd";
+import { articleJsonLd, pageAlternates } from "@/lib/seo";
 import { ArrowLeft, CalendarDays, ExternalLink } from "lucide-react";
 
 export const dynamicParams = false;
@@ -36,6 +39,8 @@ export async function generateMetadata({
   return {
     title: localized(post.title, loc),
     description: localized(post.excerpt, loc),
+    alternates: pageAlternates(locale, `/news/${slug}`),
+    openGraph: { type: "article", publishedTime: post.date },
   };
 }
 
@@ -68,6 +73,15 @@ export default async function NewsDetailPage({
 
   return (
     <div className="pt-16">
+      <JsonLd
+        data={articleJsonLd({
+          locale,
+          slug: post.slug,
+          title,
+          excerpt,
+          date: post.date,
+        })}
+      />
       <article className="py-12 sm:py-16">
         <div className="container-x max-w-3xl">
           <Reveal>
@@ -115,7 +129,9 @@ export default async function NewsDetailPage({
         <div className="container-x max-w-3xl">
           <div className="mt-8 space-y-5 text-[1.05rem] leading-relaxed text-ink/90">
             {body.map((para, i) => (
-              <p key={i}>{para}</p>
+              <p key={i}>
+                <RichText text={para} />
+              </p>
             ))}
           </div>
 

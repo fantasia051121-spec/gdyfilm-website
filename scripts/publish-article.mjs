@@ -1,0 +1,234 @@
+#!/usr/bin/env node
+/**
+ * 文章发布器 —— 校验 + 提交到 GitHub，触发 Vercel 自动部署。
+ *
+ * 用法：
+ *   node scripts/publish-article.mjs content/news/xxx.md            # 校验并发布
+ *   node scripts/publish-article.mjs content/news/xxx.md --check    # 只校验，不提交
+ *
+ * 依赖环境变量（写在 /workspace/.env.local 或 shell env）：
+ *   GITHUB_TOKEN   fine-grained PAT，需该仓库 Contents: Read and write
+ *   GITHUB_REPO    owner/repo，如 fantasia01121-spec/gdyfilm-website
+ *   GITHUB_BRANCH  默认 main
+ *
+ * 退出码：0 成功 / 1 校验失败或提交失败
+ */
+
+import fs from "node:fs";
+import path from "node:path";
+
+const LOCALES = ["en", "zh", "vi", "th", "id", "ms", "ar"];
+const MIN_PARAS = 5; // 每个语种至少段落数
+
+// ---------- 读取 .env.local ----------
+function loadEnv() {
+  const p = path.join(process.cwd(), ".env.local");
+  if (!fs.existsSync(p)) return;
+  for (const line of fs.readFileSync(p, "utf8").split("\n")) {
+    const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*)$/);
+    if (!m) continue;
+    const key = m[1];
+    let val = m[2].trim().replace(/^["']|["']$/g, "");
+    if (!process.env[key]) process.env[key] = val;
+  }
+}
+loadEnv();
+
+// ---------- 极简 YAML frontmatter 解析（只覆盖本项目用到的结构） ----------
+function parseFrontmatter(raw) {
+  if (!raw.startsWith("---")) throw new Error("缺少 frontmatter（文件必须以 --- 开头）");
+  const end = raw.indexOf("\n---", 3);
+  if (end === -1) throw new Error("frontmatter 未闭合（缺少结尾 ---）");
+  const yaml = raw.slice(3, end).replace(/^\n/, "");
+  const bodyMd = raw.slice(end + 4);
+
+  const data = { title: {}, excerpt: {}, body: {} };
+  let section = null;      // title | excerpt | body
+  let lang = null;         // en / zh / ...
+  let inArray = false;
+
+  const unq = (s) => {
+    let v = s.trim();
+    if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+      v = v.slice(1, -1);
+    }
+    return v.replace(/\\"/g, '"').replace(/\\\\/g, "\\");
+  };
+
+  for (const line of yaml.split("\n")) {
+    if (!line.trim() || line.trim().startsWith("#")) continue;
+
+    // 顶级键
+    const top = line.match(/^([a-zA-Z_]+):\s*(.*)$/);
+    if (top) {
+      const [, key, rest] = top;
+      if (key === "title" || key === "excerpt" || key === "body") {
+        section = key;
+        lang = null;
+        inArray = false;
+        continue;
+      }
+      data[key] = unq(rest);
+      section = null;
+      continue;
+    }
+
+    // 二级：语言键
+    const lvl2 = line.match(/^  ([a-z]{2}):\s*(.*)$/);
+    if (lvl2 && section) {
+      const [, lc, rest] = lvl2;
+      lang = lc;
+      if (section === "body") {
+        data.body[lc] = [];
+        inArray = !rest.trim() || rest.trim() === "[]";
+      } else {
+        data[section][lc] = rest.trim() === "[]" ? "" : unq(rest);
+      }
+      continue;
+    }
+
+    // 三级：body 段落
+    const lvl3 = line.match(/^    -\s*(.*)$/);
+    if (lvl3 && section === "body" && lang) {
+      const t = unq(lvl3[1]);
+      if (t) data.body[lang].push(t);
+      continue;
+    }
+  }
+  return { data, bodyMd };
+}
+
+// ---------- 校验 ----------
+function validate(file) {
+  const errors = [];
+  const warnings = [];
+  const raw = fs.readFileSync(file, "utf8");
+  const { data, bodyMd } = parseFrontmatter(raw);
+
+  if (!data.slug) errors.push("缺少 slug");
+  if (!/^[a-z0-9-]+$/.test(data.slug || "")) errors.push(`slug 只能用小写字母、数字、连字符：${data.slug}`);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(data.date || "")) errors.push(`date 格式应为 YYYY-MM-DD：${data.date}`);
+  if (!["company", "industry"].includes(data.category)) errors.push(`category 必须是 company 或 industry：${data.category}`);
+
+  for (const lc of LOCALES) {
+    const t = data.title[lc];
+    const e = data.excerpt[lc];
+    const b = data.body[lc] || [];
+    if (!t) errors.push(`title.${lc} 缺失`);
+    if (!e) errors.push(`excerpt.${lc} 缺失`);
+    if (b.length < MIN_PARAS) errors.push(`body.${lc} 只有 ${b.length} 段，至少 ${MIN_PARAS} 段`);
+    if (lc === "en" && t && t.length > 75) warnings.push(`title.en ${t.length} 字符，建议 ≤ 70（搜索结果会截断）`);
+    if (lc === "en" && e && (e.length < 100 || e.length > 190)) warnings.push(`excerpt.en ${e.length} 字符，建议 110~175`);
+  }
+
+  // 与已有文章重复检查（排除当前文件自身）
+  const dir = path.join(process.cwd(), "content", "news");
+  const self = path.basename(file);
+  if (fs.existsSync(dir)) {
+    const others = fs.readdirSync(dir)
+      .filter((f) => f.endsWith(".md") && !f.startsWith("_") && f !== self)
+      .map((f) => f.replace(/\.md$/, ""));
+    if (others.includes(data.slug)) {
+      errors.push(`slug 已被其他文章占用：${data.slug}（换一个 slug）`);
+    }
+  }
+
+  // 内链检查（统计全部语种正文）
+  const links = LOCALES.reduce(
+    (n, lc) => n + ((data.body[lc] || []).join(" ").match(/\]\(\/[a-z]/g) || []).length,
+    0
+  );
+  if (links < 2) warnings.push(`正文内链 ${links} 条，建议 ≥ 2 条（指向产品页 / 样品页）`);
+
+  return { data, errors, warnings };
+}
+
+// ---------- GitHub 提交 ----------
+async function publish(file, data) {
+  const token = process.env.GITHUB_TOKEN;
+  const repo = process.env.GITHUB_REPO;
+  const branch = process.env.GITHUB_BRANCH || "main";
+  if (!token) throw new Error("缺少 GITHUB_TOKEN（在 .env.local 里配置）");
+  if (!repo) throw new Error("缺少 GITHUB_REPO，格式 owner/repo");
+
+  const target = `content/news/${data.slug}.md`;
+  const api = `https://api.github.com/repos/${repo}/contents/${encodeURI(target)}`;
+  const headers = {
+    Authorization: `Bearer ${token}`,
+    Accept: "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28",
+    "Content-Type": "application/json",
+  };
+
+  // 已存在则取 sha（覆盖）
+  let sha;
+  const getRes = await fetch(`${api}?ref=${branch}`, { headers });
+  if (getRes.ok) {
+    sha = (await getRes.json()).sha;
+  } else if (getRes.status !== 404) {
+    throw new Error(`读取现有文件失败 ${getRes.status}: ${await getRes.text()}`);
+  }
+
+  const content = Buffer.from(fs.readFileSync(file, "utf8")).toString("base64");
+  const msg = `content: ${data.title.en || data.slug}`;
+
+  const putRes = await fetch(api, {
+    method: "PUT",
+    headers,
+    body: JSON.stringify({ message: msg, content, branch, ...(sha ? { sha } : {}) }),
+  });
+
+  if (!putRes.ok) throw new Error(`提交失败 ${putRes.status}: ${await putRes.text()}`);
+  const json = await putRes.json();
+  return {
+    url: json.content?.html_url,
+    commit: json.commit?.sha?.slice(0, 7),
+    created: !sha,
+  };
+}
+
+// ---------- 主流程 ----------
+const file = process.argv[2];
+const checkOnly = process.argv.includes("--check");
+if (!file) {
+  console.error("用法: node scripts/publish-article.mjs <md文件路径> [--check]");
+  process.exit(1);
+}
+if (!fs.existsSync(file)) {
+  console.error(`文件不存在: ${file}`);
+  process.exit(1);
+}
+
+const { data, errors, warnings } = validate(file);
+
+console.log(`\n📄 ${file}`);
+console.log(`   slug: ${data.slug}  date: ${data.date}  category: ${data.category}`);
+console.log(`   段落数: ${LOCALES.map((l) => `${l}=${(data.body[l] || []).length}`).join(" ")}`);
+
+if (warnings.length) {
+  console.log("\n⚠️  提示：");
+  warnings.forEach((w) => console.log("   - " + w));
+}
+
+if (errors.length) {
+  console.log("\n❌ 校验未通过：");
+  errors.forEach((e) => console.log("   - " + e));
+  process.exit(1);
+}
+
+console.log("\n✅ 校验通过");
+
+if (checkOnly) {
+  console.log("（--check 模式，未提交）");
+  process.exit(0);
+}
+
+try {
+  const r = await publish(file, data);
+  console.log(`\n🚀 已提交 ${r.created ? "新增" : "更新"} → commit ${r.commit}`);
+  console.log(`   Vercel 将在 1~2 分钟内自动部署`);
+  console.log(`   https://www.gdyfilm.com/en/news/${data.slug}`);
+} catch (e) {
+  console.error("\n❌ 发布失败：" + e.message);
+  process.exit(1);
+}

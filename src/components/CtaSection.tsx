@@ -18,7 +18,7 @@ export default async function CtaSection() {
             <p className="relative mx-auto mt-4 max-w-xl text-muted">
               {t("subtitle")}
             </p>
-            <Link href="/contact" className="btn-primary relative mt-8">
+            <Link href="/free-sample" className="btn-primary relative mt-8">
               {t("button")} <ArrowRight className="h-4 w-4" />
             </Link>
           </div>

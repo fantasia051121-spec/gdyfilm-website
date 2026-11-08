@@ -52,10 +52,10 @@ export default function Hero({ modelCount }: { modelCount?: number }) {
           className="anim-fade-up mt-8 flex flex-wrap gap-4"
           style={{ animationDelay: "0.18s" }}
         >
-          <Link href="/contact" className="btn-primary">
+          <Link href="/free-sample" className="btn-primary">
             {t("ctaPrimary")} <ArrowRight className="h-4 w-4" />
           </Link>
-          <Link href="/services" className="btn-ghost">
+          <Link href="/guides/compare-pet-vs-pe" className="btn-ghost">
             {t("ctaSecondary")}
           </Link>
         </div>

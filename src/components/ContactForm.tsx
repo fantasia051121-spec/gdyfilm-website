@@ -1,18 +1,62 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
-import { useTranslations } from "next-intl";
-import { Send } from "lucide-react";
+import { useTranslations, useLocale } from "next-intl";
+import { usePathname } from "next/navigation";
+import { Send, AlertCircle } from "lucide-react";
+import { trackLead } from "@/lib/gtag";
 
-export default function ContactForm() {
+export default function ContactForm({
+  source = "contact_form",
+  defaultMessage = "",
+  hint = "",
+  submitLabel,
+}: {
+  source?: string;
+  defaultMessage?: string;
+  hint?: string;
+  submitLabel?: string;
+}) {
   const t = useTranslations("contact.form");
+  const locale = useLocale();
+  const pathname = usePathname();
   const [sent, setSent] = useState(false);
-  const [form, setForm] = useState({ name: "", email: "", message: "" });
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState("");
+  const [form, setForm] = useState({ name: "", email: "", message: defaultMessage });
 
-  const onSubmit = (e: FormEvent) => {
+  const onSubmit = async (e: FormEvent) => {
     e.preventDefault();
-    // TODO: 对接真实提交接口（邮件服务 / 表单后端）
-    setSent(true);
+    if (busy) return;
+    setBusy(true);
+    setError("");
+    // GA4 转化事件：表单提交意向（按来源区分普通询盘 / 样品申请）
+    trackLead(source, { form_location: pathname, language: locale });
+    try {
+      const res = await fetch("/api/lead", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: form.name,
+          email: form.email,
+          message: form.message,
+          page: pathname,
+          lang: locale,
+          source,
+          referrer: document.referrer,
+          ua: navigator.userAgent,
+        }),
+      });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        throw new Error(data?.error || "提交失败");
+      }
+      setSent(true);
+    } catch {
+      setError(t("error"));
+    } finally {
+      setBusy(false);
+    }
   };
 
   if (sent) {
@@ -49,6 +93,9 @@ export default function ContactForm() {
           className="w-full rounded-xl border border-ink/10 bg-white px-4 py-3 text-ink outline-none transition focus:border-brand"
         />
       </div>
+      {hint && (
+        <p className="rounded-xl bg-brand/10 px-4 py-3 text-sm text-ink/80">{hint}</p>
+      )}
       <div>
         <label className="mb-2 block text-sm text-ink/85">
           {t("message")}
@@ -62,8 +109,18 @@ export default function ContactForm() {
           className="w-full rounded-xl border border-ink/10 bg-white px-4 py-3 text-ink outline-none transition focus:border-brand"
         />
       </div>
-      <button type="submit" className="btn-primary w-full">
-        {t("submit")}
+      {error && (
+        <p className="flex items-center gap-2 text-sm text-red-500">
+          <AlertCircle className="h-4 w-4 shrink-0" />
+          {error}
+        </p>
+      )}
+      <button
+        type="submit"
+        disabled={busy}
+        className="btn-primary w-full disabled:opacity-60"
+      >
+        {busy ? t("sending") : submitLabel || t("submit")}
       </button>
     </form>
   );

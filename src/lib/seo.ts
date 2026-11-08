@@ -1,7 +1,7 @@
 // 全站 SEO / GEO 基建：站点常量、hreflang、结构化数据
 import { locales, type Locale } from "@/i18n/routing";
 
-export const SITE_URL = "https://gdyfilm.com";
+export const SITE_URL = "https://www.gdyfilm.com";
 
 /** 生成某路径的全部语言版本（用于 sitemap 的 hreflang） */
 export function languageAlternates(path: string): Record<string, string> {

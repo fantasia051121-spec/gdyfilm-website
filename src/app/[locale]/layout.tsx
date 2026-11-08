@@ -29,7 +29,7 @@ export async function generateMetadata({
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
   return {
-    metadataBase: new URL("https://gdyfilm.com"),
+    metadataBase: new URL("https://www.gdyfilm.com"),
     title: t("title"),
     description: t("description"),
     icons: { icon: "/favicon.png" },

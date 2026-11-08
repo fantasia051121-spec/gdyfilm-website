@@ -5,7 +5,7 @@ import { getProductSeries } from "@/lib/products";
 import { getIndustryIds } from "@/lib/industries";
 import { getNewsSlugs } from "@/lib/news";
 
-const SITE_URL = "https://gdyfilm.com";
+const SITE_URL = "https://www.gdyfilm.com";
 
 /** 固定栏目页（相对路径） */
 const STATIC_PATHS = [

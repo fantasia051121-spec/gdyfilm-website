@@ -129,11 +129,11 @@ export default async function ProductDetailPage({
       />
       <JsonLd
         data={breadcrumbJsonLd([
-          { name: "GDY", url: `https://gdyfilm.com/${locale}` },
-          { name: series.name, url: `https://gdyfilm.com/${locale}/services` },
+          { name: "GDY", url: `https://www.gdyfilm.com/${locale}` },
+          { name: series.name, url: `https://www.gdyfilm.com/${locale}/services` },
           {
             name: `${model.code} ${model.name}`,
-            url: `https://gdyfilm.com/${locale}/products/${model.code}`,
+            url: `https://www.gdyfilm.com/${locale}/products/${model.code}`,
           },
         ])}
       />

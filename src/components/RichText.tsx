@@ -1,12 +1,13 @@
 import { Fragment, type ReactNode } from "react";
 import { Link } from "@/i18n/navigation";
+import { asset } from "@/lib/asset";
 
 /**
- * 极简行内 Markdown 渲染：只处理 **加粗** 与 [文字](链接)。
+ * 极简行内 Markdown 渲染：只处理 **加粗**、[文字](链接) 与 ![图注](图片路径)。
  * 正文段落来自 content/news/*.md，不引入额外依赖，避免为几个标记装一个 parser。
  * 内链写相对路径（如 /products/GDY-031），由 next-intl 的 Link 自动补当前语言前缀。
  */
-const PATTERN = /(\*\*[^*]+\*\*|\[[^\]]+\]\([^)\s]+\))/g;
+const PATTERN = /(\*\*[^*]+\*\*|\[[^\]]+\]\([^)\s]+\)|!\[[^\]]*\]\([^)\s]+\))/g;
 
 function isExternal(href: string) {
   return /^(https?:)?\/\//.test(href) || href.startsWith("mailto:");
@@ -24,6 +25,26 @@ export default function RichText({ text }: { text: string }) {
             <strong key={i} className="font-semibold text-ink">
               {inner}
             </strong>
+          );
+        }
+
+        const image = part.match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/);
+        if (image) {
+          const [, alt, src] = image;
+          return (
+            <span key={i} className="my-8 block">
+              <img
+                src={asset(src)}
+                alt={alt}
+                loading="lazy"
+                className="mx-auto w-full max-w-xl rounded-xl border border-ink/10 bg-white object-cover shadow-sm"
+              />
+              {alt ? (
+                <span className="mt-2 block text-center text-sm text-ink/60">
+                  {alt}
+                </span>
+              ) : null}
+            </span>
           );
         }
 

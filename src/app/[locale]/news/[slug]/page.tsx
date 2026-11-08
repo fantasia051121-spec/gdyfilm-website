@@ -128,11 +128,18 @@ export default async function NewsDetailPage({
 
         <div className="container-x max-w-3xl">
           <div className="mt-8 space-y-5 text-[1.05rem] leading-relaxed text-ink/90">
-            {body.map((para, i) => (
-              <p key={i}>
-                <RichText text={para} />
-              </p>
-            ))}
+            {body.map((para, i) =>
+              /^\s*!\[[^\]]*\]\([^)\s]+\)\s*$/.test(para) ? (
+                // 图片段不能嵌在 <p> 里（HTML 规范），用 div 承载 figure
+                <div key={i}>
+                  <RichText text={para} />
+                </div>
+              ) : (
+                <p key={i}>
+                  <RichText text={para} />
+                </p>
+              ),
+            )}
           </div>
 
           {post.source && (

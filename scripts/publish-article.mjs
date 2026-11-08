@@ -20,17 +20,29 @@ import path from "node:path";
 const LOCALES = ["en", "zh", "vi", "th", "id", "ms", "ar"];
 const MIN_PARAS = 5; // 每个语种至少段落数
 
-// ---------- 读取 .env.local ----------
-function loadEnv() {
-  const p = path.join(process.cwd(), ".env.local");
-  if (!fs.existsSync(p)) return;
+// ---------- 读取凭据 ----------
+// 优先级：shell 环境变量 > ./.env.local > /workspace/.env.local > ~/.gdy/env
+// （定时任务若在全新沙箱执行，源码 clone 下来不含 .env.local，靠 ~/.gdy/env 兜底）
+function loadEnvFile(p) {
+  if (!fs.existsSync(p)) return false;
   for (const line of fs.readFileSync(p, "utf8").split("\n")) {
     const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*)$/);
     if (!m) continue;
     const key = m[1];
-    let val = m[2].trim().replace(/^["']|["']$/g, "");
+    const val = m[2].trim().replace(/^["']|["']$/g, "");
     if (!process.env[key]) process.env[key] = val;
   }
+  return true;
+}
+
+function loadEnv() {
+  const candidates = [
+    path.join(process.cwd(), ".env.local"),
+    "/workspace/.env.local",
+    path.join(process.env.HOME || "/root", ".gdy", "env"),
+    "/root/.gdy/env",
+  ];
+  for (const p of candidates) loadEnvFile(p);
 }
 loadEnv();
 

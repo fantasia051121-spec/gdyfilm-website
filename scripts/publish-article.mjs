@@ -111,7 +111,7 @@ function parseFrontmatter(raw) {
 }
 
 // ---------- 校验 ----------
-function validate(file) {
+async function validate(file) {
   const errors = [];
   const warnings = [];
   const raw = fs.readFileSync(file, "utf8");
@@ -120,6 +120,21 @@ function validate(file) {
   if (!data.slug) errors.push("缺少 slug");
   if (!/^[a-z0-9-]+$/.test(data.slug || "")) errors.push(`slug 只能用小写字母、数字、连字符：${data.slug}`);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(data.date || "")) errors.push(`date 格式应为 YYYY-MM-DD：${data.date}`);
+  // 日期不得晚于今天（提前发布不能写未来日期，Google 视为异常 datePublished）
+  // ⚠️ 不用系统时钟（沙箱时钟可能不准），以 GitHub 服务器响应时间为准，按北京时间取日期
+  if (/^\d{4}-\d{2}-\d{2}$/.test(data.date || "")) {
+    let realNow;
+    try {
+      const res = await fetch("https://api.github.com/zen", { method: "GET" });
+      realNow = new Date(res.headers.get("date"));
+      if (isNaN(realNow.getTime())) throw new Error("no date header");
+    } catch {
+      realNow = new Date(); // 网络失败时退回系统时间
+    }
+    const bj = new Date(realNow.getTime() + 8 * 3600 * 1000);
+    const tzToday = bj.toISOString().slice(0, 10);
+    if (data.date > tzToday) errors.push(`date 不能晚于今天（${tzToday}），当前值 ${data.date}。提前发布的文章 date 必须写发布当天`);
+  }
   if (!["company", "industry"].includes(data.category)) errors.push(`category 必须是 company 或 industry：${data.category}`);
 
   for (const lc of LOCALES) {
@@ -211,7 +226,7 @@ if (!fs.existsSync(file)) {
   process.exit(1);
 }
 
-const { data, errors, warnings } = validate(file);
+const { data, errors, warnings } = await validate(file);
 
 console.log(`\n📄 ${file}`);
 console.log(`   slug: ${data.slug}  date: ${data.date}  category: ${data.category}`);

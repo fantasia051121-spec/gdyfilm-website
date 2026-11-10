@@ -158,6 +158,16 @@ async function validate(file) {
     if (others.includes(data.slug)) {
       errors.push(`slug 已被其他文章占用：${data.slug}（换一个 slug）`);
     }
+    // 封面撞图检查：与其他文章用同一张 cover 会在新闻列表里看起来像重复文章
+    if (data.cover) {
+      for (const f of fs.readdirSync(dir)) {
+        if (!f.endsWith(".md") || f.startsWith("_") || f === self) continue;
+        const m = fs.readFileSync(path.join(dir, f), "utf8").match(/^cover:\s*(\S+)/m);
+        if (m && m[1] === data.cover) {
+          warnings.push(`封面图与 ${f.replace(/\.md$/, "")} 重复（${data.cover}），列表页会像重复文章，建议换一张`);
+        }
+      }
+    }
   }
 
   // 内链检查（统计全部语种正文）

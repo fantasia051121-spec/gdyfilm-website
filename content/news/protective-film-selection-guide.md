@@ -2,7 +2,7 @@
 slug: protective-film-selection-guide
 date: "2026-10-13"
 category: industry
-cover: /images/prod-acrylic.jpg
+cover: /images/products/single-layer-pet-protective-film.jpg
 title:
   en: "How to Choose the Right Protective Film: A 7-Step Selection Guide"
   zh: "保护膜怎么选？7 步选膜方法（附粘着力对照）"

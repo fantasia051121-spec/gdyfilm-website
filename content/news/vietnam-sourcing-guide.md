@@ -2,7 +2,7 @@
 slug: vietnam-sourcing-guide
 date: "2026-10-13"
 category: company
-cover: /images/app-electronics.jpg
+cover: /images/products/pe-stretch-wrap-film.jpg
 title:
   en: "Protective Film Sourcing from China to Vietnam: Lead Times, MOQ, Samples and What to Ask Your Supplier"
   zh: "从中国采购保护膜到越南：交期、起订量、样品与必问清单"

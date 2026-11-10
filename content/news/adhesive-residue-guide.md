@@ -1,6 +1,6 @@
 ---
 slug: adhesive-residue-guide
-date: "2026-10-13"
+date: "2026-10-12"
 category: industry
 cover: /images/prod-hightemp.jpg
 title:

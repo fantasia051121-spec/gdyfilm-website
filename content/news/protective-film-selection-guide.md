@@ -1,6 +1,6 @@
 ---
 slug: protective-film-selection-guide
-date: "2026-10-13"
+date: "2026-10-11"
 category: industry
 cover: /images/products/single-layer-pet-protective-film.jpg
 title:

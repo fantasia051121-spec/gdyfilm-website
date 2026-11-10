@@ -1,6 +1,6 @@
 ---
 slug: vietnam-sourcing-guide
-date: "2026-10-13"
+date: "2026-10-10"
 category: company
 cover: /images/products/pe-stretch-wrap-film.jpg
 title:

@@ -188,7 +188,8 @@ async function validate(file) {
         next.setUTCDate(next.getUTCDate() + 1);
         const limit = next.toISOString().slice(0, 10);
         if (data.date > limit) {
-          errors.push(`date 跳跃过大：已有最新文章是 ${maxD}，本篇最多写 ${limit}，当前 ${data.date}（日期必须连续，不能按排期往后跳）`);
+          // 只警告不拒发：停机几天后补发，日期自然会跳；而真正的未来日期已被上面的规则拦死
+          warnings.push(`date ${data.date} 比已有最新文章（${maxD}）跳了多天。若是停机补发属正常，否则请确认没照抄排期`);
         }
       }
     }

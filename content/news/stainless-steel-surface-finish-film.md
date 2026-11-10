@@ -1,6 +1,6 @@
 ---
 slug: stainless-steel-surface-finish-film
-date: "2026-11-08"
+date: "2026-11-07"
 category: industry
 cover: /images/facility-film.jpg
 title:

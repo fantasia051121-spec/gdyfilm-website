@@ -1,6 +1,6 @@
 ---
 slug: why-blue-film-stainless-steel
-date: "2026-11-08"
+date: "2026-11-06"
 category: industry
 cover: /images/products/pe-blue-protective-film.jpg
 title:

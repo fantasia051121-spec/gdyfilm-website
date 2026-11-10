@@ -168,6 +168,30 @@ async function validate(file) {
         }
       }
     }
+
+    // 日期节奏检查：新闻列表按 date 倒序排列，同一天堆多篇会看起来像批量灌水
+    if (/^\d{4}-\d{2}-\d{2}$/.test(data.date || "")) {
+      const dates = [];
+      for (const f of fs.readdirSync(dir)) {
+        if (!f.endsWith(".md") || f.startsWith("_") || f === self) continue;
+        const m = fs.readFileSync(path.join(dir, f), "utf8").match(/^date:\s*"?(\d{4}-\d{2}-\d{2})"?/m);
+        if (m) dates.push({ d: m[1], f: f.replace(/\.md$/, "") });
+      }
+      const sameDay = dates.filter((x) => x.d === data.date);
+      if (sameDay.length > 0) {
+        warnings.push(`date ${data.date} 已有 ${sameDay.length} 篇（${sameDay.map((x) => x.f).join("、")}），列表首屏会堆成同一天，建议错开`);
+      }
+      // 不允许跳跃：最多比已有最新文章晚 1 天。防止时钟不准或照抄排期导致日期往后跳
+      if (dates.length) {
+        const maxD = dates.map((x) => x.d).sort().pop();
+        const next = new Date(`${maxD}T00:00:00Z`);
+        next.setUTCDate(next.getUTCDate() + 1);
+        const limit = next.toISOString().slice(0, 10);
+        if (data.date > limit) {
+          errors.push(`date 跳跃过大：已有最新文章是 ${maxD}，本篇最多写 ${limit}，当前 ${data.date}（日期必须连续，不能按排期往后跳）`);
+        }
+      }
+    }
   }
 
   // 内链检查（统计全部语种正文）

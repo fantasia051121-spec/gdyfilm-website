@@ -12,7 +12,7 @@ title:
   ms: "Simpan 6 Bulan: Bagaimana Lekatan Filem Pelindung pada Keluli Meningkat"
   ar: "التخزين لمدة 6 أشهر: كيف تزيد قوة التصاق الفيلم الواقي على الفولاذ"
 excerpt:
-  en: "A film that peels clean after one week can fight back after six months. What happens to pressure-sensitive adhesion during long storage, the numbers behind it, and a removal-window plan for delayed projects."
+  en: "A film that peels clean after one week can fight back after six months. How adhesion grows during long storage, and a removal-window plan for delayed projects."
   zh: "一周后撕膜干净，半年后再撕却要花双倍力气。长期存放中压敏胶到底发生了什么、数据怎么变，以及项目延期时如何守住撕膜窗口。"
   vi: "Màng bóc sạch sau một tuần có thể khó bóc sau sáu tháng. Điều gì xảy ra với keo nhạy áp lực khi lưu kho lâu, các con số đằng sau và kế hoạch cửa sổ bóc khi dự án trễ hạn."
   th: "ฟิล์มที่ลอกสะอาดหลังหนึ่งสัปดาห์อาจลอกยากหลังหกเดือน อะไรเกิดขึ้นกับกาวไวแรงกดระหว่างเก็บนาน ตัวเลขเบื้องหลัง และแผนหน้าต่างการลอกเมื่อโครงการล่าช้า"

@@ -5,7 +5,7 @@ category: industry
 cover: /images/products/gdy-011.jpg
 title:
   en: "6 Months in Storage: How Protective Film Adhesion Grows on Steel"
-  zh: "贴膜不锈钢存放半年：粘力增长实测数据"
+  zh: "贴膜不锈钢存放半年：粘力为什么会涨"
   vi: "Lưu kho 6 tháng: độ bám của màng bảo vệ trên thép tăng thế nào"
   th: "เก็บคลัง 6 เดือน: แรงยึดติดของฟิล์มป้องกันบนเหล็กเพิ่มขึ้นอย่างไร"
   id: "Simpan 6 Bulan: Bagaimana Adhesi Film Pelindung pada Baja Meningkat"
@@ -13,7 +13,7 @@ title:
   ar: "التخزين لمدة 6 أشهر: كيف تزيد قوة التصاق الفيلم الواقي على الفولاذ"
 excerpt:
   en: "A film that peels clean after one week can fight back after six months. How adhesion grows during long storage, and a removal-window plan for delayed projects."
-  zh: "一周后撕膜干净，半年后再撕却要花双倍力气。长期存放中压敏胶到底发生了什么、数据怎么变，以及项目延期时如何守住撕膜窗口。"
+  zh: "一周后撕膜干净，半年后再撕却要花双倍力气。长期存放中压敏胶到底发生了什么、粘力怎么变，以及项目延期时如何守住撕膜窗口。"
   vi: "Màng bóc sạch sau một tuần có thể khó bóc sau sáu tháng. Điều gì xảy ra với keo nhạy áp lực khi lưu kho lâu, các con số đằng sau và kế hoạch cửa sổ bóc khi dự án trễ hạn."
   th: "ฟิล์มที่ลอกสะอาดหลังหนึ่งสัปดาห์อาจลอกยากหลังหกเดือน อะไรเกิดขึ้นกับกาวไวแรงกดระหว่างเก็บนาน ตัวเลขเบื้องหลัง และแผนหน้าต่างการลอกเมื่อโครงการล่าช้า"
   id: "Film yang terkelupas bersih setelah satu minggu bisa menjadi sulit setelah enam bulan. Apa yang terjadi pada perekat peka tekan selama penyimpanan panjang, angka di baliknya, dan rencana jendela pelepasan saat proyek tertunda."

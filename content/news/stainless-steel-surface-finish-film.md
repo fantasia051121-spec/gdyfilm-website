@@ -2,7 +2,7 @@
 slug: stainless-steel-surface-finish-film
 date: "2026-11-07"
 category: industry
-cover: /images/facility-film.jpg
+cover: /images/products/gdy-012.jpg
 title:
   en: "No.4 vs 8K vs 2B Stainless: Which Film Won't Dull the Surface"
   zh: "No.4 / 8K / 2B 不锈钢表面：哪种保护膜不会让光泽变哑"

@@ -2,7 +2,7 @@
 slug: blue-film-thickness-selection
 date: "2026-11-25"
 category: industry
-cover: /images/facility-line.jpg
+cover: /images/products/pe-electronic-protective-film.jpg
 title:
   en: "20µm or 50µm? Picking Blue PE Film Thickness by Process"
   zh: "20 微米还是 50 微米？蓝色 PE 膜厚度该按工艺选而不是按习惯"
